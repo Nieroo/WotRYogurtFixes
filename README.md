@@ -12,7 +12,7 @@
 
 ## Установка (для Windows)
 
-1. Со страницы [релизов](https://github.com/Nieroo/YogurtFixes/releases) скачайте архив с последней версией мода.
+1. Со страницы [релизов](https://github.com/Nieroo/WotRYogurtFixes/releases) скачайте архив с последней версией мода.
 2. Перейдите в папку `%localappdata%low\Owlcat Games\Pathfinder Wrath Of The Righteous` (далее — папка игры).
 3. Распакуйте из архива папку `Modifications` в папку игры.
 4. Если в папке игры нет файла `OwlcatModificationManagerSettings.json`, то извлеките его в папку игры из архива.
@@ -21,4 +21,4 @@
 
 ## Список изменений
 
-Ознакомиться со списком внесённых изменений можно в файле [CHANGELOG.md](https://github.com/Nieroo/YogurtFixes/blob/main/CHANGELOG.md).
+Ознакомиться со списком внесённых изменений можно в файле [CHANGELOG.md](https://github.com/Nieroo/WotRYogurtFixes/blob/main/CHANGELOG.md).
