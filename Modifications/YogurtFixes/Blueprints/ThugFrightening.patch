@@ -1,0 +1,23 @@
+{
+    "Components": [
+        {
+            "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+            "name": "$AddFacts$1d537ae8-86db-4df4-b28f-789a7c7b031c",
+            "m_Flags": 0,
+            "m_Overrides": [],
+            "m_Facts": [
+                "!bp_a191e3a6077941c281b9c7b9bc76f7e4", // ThugFrighteningAbility (custom)
+            ],
+            "Dummy": null,
+            "CasterLevel": 0,
+            "DoNotRestoreMissingFacts": false,
+            "HasDifficultyRequirements": false,
+            "InvertDifficultyRequirements": false,
+            "MinDifficulty": "Story",
+        },
+    ],
+    "m_Icon": {
+        "guid": "6f77be45546cc4740b1885b2a4e68cad",
+        "fileid": 21300000,
+    },
+}

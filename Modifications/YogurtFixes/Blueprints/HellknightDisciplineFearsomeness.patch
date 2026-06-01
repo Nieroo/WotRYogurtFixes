@@ -1,0 +1,23 @@
+{
+    "Components": [
+        {
+            "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+            "name": "$AddFacts$1d537ae8-86db-4df4-b28f-789a7c7b031c",
+            "m_Flags": 0,
+            "m_Overrides": [],
+            "m_Facts": [
+                "!bp_b85ddcd7ce4e4ab9be846a5304a93393", // HellknightDisciplineFearsomenessAbility (custom)
+            ],
+            "Dummy": null,
+            "CasterLevel": 0,
+            "DoNotRestoreMissingFacts": false,
+            "HasDifficultyRequirements": false,
+            "InvertDifficultyRequirements": false,
+            "MinDifficulty": "Story",
+        },
+    ],
+    "m_Icon": {
+        "guid": "07da2d2bcb8a7534aa806fc1127fc974",
+        "fileid": 21300000,
+    },
+}

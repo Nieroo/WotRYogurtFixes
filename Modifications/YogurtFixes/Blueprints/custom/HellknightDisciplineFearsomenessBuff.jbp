@@ -1,0 +1,52 @@
+{
+    "AssetId": "0fce9c3166a0440f81ea06008aacf3c7",
+    "Data": {
+        "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+        "PrototypeLink": "",
+        "m_Overrides": [],
+        "Components": [
+            {
+                "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
+                "name": "$AddMechanicsFeature$ed3b125d-fdf1-4169-b118-8ad060cee0f1",
+                "m_Overrides": [],
+                "m_Feature": "HellknightFearsomeness",
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "7be02c33-2ce9-4d5d-a866-94f5d9212667",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "52f91910-0387-4c4a-9dcd-2bdd0f777134",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": {
+            "guid": "07da2d2bcb8a7534aa806fc1127fc974",
+            "fileid": 21300000,
+        },
+        "IsClassFeature": true,
+        "m_Flags": "StayOnDeath",
+        "Stacking": "Replace",
+        "Ranks": 0,
+        "TickEachSecond": false,
+        "Frequency": "Rounds",
+        "FxOnStart": null,
+        "FxOnRemove": null,
+        "ResourceAssetIds": [],
+    },
+}

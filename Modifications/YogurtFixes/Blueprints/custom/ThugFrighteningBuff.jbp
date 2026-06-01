@@ -1,0 +1,52 @@
+{
+    "AssetId": "0b1c3793ce5a48d1b077d980dc4b6cab",
+    "Data": {
+        "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+        "PrototypeLink": "",
+        "m_Overrides": [],
+        "Components": [
+            {
+                "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
+                "name": "$AddMechanicsFeature$ed3b125d-fdf1-4169-b118-8ad060cee0f1",
+                "m_Overrides": [],
+                "m_Feature": "FrighteningThug",
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "4276ff69-c3fa-40aa-85ce-b0c094688b19",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "bebaf7bc-0eba-44e5-9055-822e90f6f933",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": {
+            "guid": "6f77be45546cc4740b1885b2a4e68cad",
+            "fileid": 21300000,
+        },
+        "IsClassFeature": true,
+        "m_Flags": "StayOnDeath",
+        "Stacking": "Replace",
+        "Ranks": 0,
+        "TickEachSecond": false,
+        "Frequency": "Rounds",
+        "FxOnStart": null,
+        "FxOnRemove": null,
+        "ResourceAssetIds": [],
+    },
+}

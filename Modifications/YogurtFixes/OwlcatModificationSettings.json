@@ -9,6 +9,13 @@
         "m_List": []
     },
     "BlueprintPatches": [
-        
+        {
+            "Guid": "5476fa6ac147a584aa886f1c232b8a87",
+            "Filename": "ThugFrightening.patch"
+        },
+        {
+            "Guid": "57625b7729cf4244b977c84496e81cd7",
+            "Filename": "HellknightDisciplineFearsomeness.patch"
+        }
     ]
 }
