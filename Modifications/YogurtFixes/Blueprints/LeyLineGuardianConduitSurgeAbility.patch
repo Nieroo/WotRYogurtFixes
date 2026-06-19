@@ -1,0 +1,15 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Actions": {
+                "Actions": [
+                    {
+                        "m_Buff": "!bp_db51fcbaf0d444c49664bbfad6d8d215",
+                    }
+                ],
+            },
+        },
+        {},
+    ],
+}

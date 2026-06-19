@@ -16,6 +16,14 @@
         {
             "Guid": "57625b7729cf4244b977c84496e81cd7",
             "Filename": "HellknightDisciplineFearsomeness.patch"
+        },
+        {
+            "Guid": "19cc043b11226f44ba959aedc68a5a74",
+            "Filename": "LeyLineGuardianConduitSurgeAbility.patch"
+        },
+        {
+            "Guid": "db51fcbaf0d444c49664bbfad6d8d215",
+            "Filename": "LeyLineGuardianConduitSurgeBuffEffect.patch"
         }
     ]
 }
