@@ -1,0 +1,31 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Actions": {
+                "Actions": [
+                    {
+                        "Failed": {
+                            "Actions": [
+                                {},
+                                {},
+                                {
+                                    "DurationValue": {
+                                        "DiceCountValue": {
+                                            "Value": 1,
+                                        },
+                                        "BonusValue": {
+                                            "Value": 0,
+                                        },
+                                    },
+                                },
+                                {},
+                            ],
+                        },
+                    },
+                ],
+            },
+        },
+        {},
+    ],
+}

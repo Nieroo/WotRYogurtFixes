@@ -24,6 +24,18 @@
         {
             "Guid": "db51fcbaf0d444c49664bbfad6d8d215",
             "Filename": "LeyLineGuardianConduitSurgeBuffEffect.patch"
+        },
+        {
+            "Guid": "9ccfc5f533abc254fa5d0cded42189a9",
+            "Filename": "ShadowBloodAbility.patch"
+        },
+        {
+            "Guid": "acc9bb48f64f5f7489d8adc9306c5776",
+            "Filename": "ShadowbloodBuff.patch"
+        },
+        {
+            "Guid": "1814c7cf8142be047b6a9239e78d86f3",
+            "Filename": "ShadowbloodAddictionDebuff.patch"
         }
     ]
 }
