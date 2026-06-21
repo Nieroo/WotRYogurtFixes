@@ -248,5 +248,9 @@
             "Key": "7953c7d3-992e-4ea1-8253-af9347041431",
             "Value": "Находясь в состоянии пьяного исступления, вы получаете {g|Encyclopedia:Bonus}бонус{/g} +10 к значению всех {g|Encyclopedia:Ability_Scores}характеристик{/g}, бонус формы +12 к естественной {g|Encyclopedia:Armor_Class}броне{/g} и увеличиваетесь в {g|Encyclopedia:Size}размере{/g} на две категории."
         },
+        {
+            "Key": "5fe038e0-45e7-42c5-8a42-ac4fbf042239",
+            "Value": "При {g|Encyclopedia:Attack}бросках на попадание{/g} {g|Encyclopedia:Light_Weapon}легким оружием{/g} {g|Encyclopedia:MeleeAttack}ближнего боя{/g}, эльфийским изогнутым клинком, эстоком или рапирой, созданными для существ вашего {g|Encyclopedia:Size}размера{/g}, вы можете использовать модификатор {g|Encyclopedia:Dexterity}Ловкости{/g} вместо модификатора {g|Encyclopedia:Strength}Силы{/g}."
+        },
     ],
 }
