@@ -268,5 +268,9 @@
             "Key": "9b2d0759-711c-4812-9206-0279ed72d87a",
             "Value": "Ваши {g|Encyclopedia:NaturalAttack}естественные атаки{/g} наносят неестественно ужасные раны.\nПреимущество: ваши естественные {g|Encyclopedia:Attack}атаки{/g} игнорируют {g|Encyclopedia:Damage_Reduction}снижение урона{/g}, кроме N/—, и считаются нанесенными {g|EnhancementGhostTouch}призрачным оружием{/g} и оружием из адамантина, серебра и холодного железа."
         },
+        {
+            "Key": "6f9d880b-83ff-4e45-8620-de46b7e3978b",
+            "Value": "На 20 уровне, совершив {g|Encyclopedia:Standard_Actions}основное действие{/g}, заклинатель теней может принять форму чистой тени на число минут, равное его {g|Encyclopedia:Caster_Level}уровню заклинателя{/g}. В этой форме заклинатель теней считается бестелесной нежитью и получает {g|Encyclopedia:Bonus}бонус{/g} к {g|Encyclopedia:Intelligence}Интеллекту{/g} +2, {g|Encyclopedia:Incorporeal_Touch_Attack}атаку Бестелесное касание{/g} ({g|Encyclopedia:Dice}2d8{/g} {g|Encyclopedia:AbilityDamage}урона{/g} {g|Encyclopedia:Strength}Силе{/g}), невосприимчивость к наземным эффектам и бонус к {g|Encyclopedia:Speed}скорости{/g} +30 футов. Также заклинатель теней получает эффект заклинания {g|SpellsTransformation}Трансформация{/g} (с бонусом усиления +4 к {g|Encyclopedia:Charisma}Харизме{/g} вместо {g|Encyclopedia:Constitution}Выносливости{/g}), сохраняя при этом способность творить заклинания. Эту способность можно применять раз в 24 часа."
+        },
     ],
 }
