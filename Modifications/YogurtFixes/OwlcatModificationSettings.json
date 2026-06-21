@@ -40,6 +40,18 @@
         {
             "Guid": "b9979b125f8b4810891b5e53ae7fea0f",
             "Filename": "BeltOfPerfection8ExtraBuff.patch"
+        },
+        {
+            "Guid": "41a7f08a27e04909aea1c43cd1895260",
+            "Filename": "MetamagicRodLesserPiercingBuff.patch"
+        },
+        {
+            "Guid": "a644f678adbf4d25aae4f5b1b9d06e86",
+            "Filename": "MetamagicRodNormalPiercingBuff.patch"
+        },
+        {
+            "Guid": "84b6421e9e1b4b3e8963ff12c35aab23",
+            "Filename": "MetamagicRodGreaterPiercingBuff.patch"
         }
     ]
 }
