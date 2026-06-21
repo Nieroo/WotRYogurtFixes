@@ -272,5 +272,13 @@
             "Key": "6f9d880b-83ff-4e45-8620-de46b7e3978b",
             "Value": "На 20 уровне, совершив {g|Encyclopedia:Standard_Actions}основное действие{/g}, заклинатель теней может принять форму чистой тени на число минут, равное его {g|Encyclopedia:Caster_Level}уровню заклинателя{/g}. В этой форме заклинатель теней считается бестелесной нежитью и получает {g|Encyclopedia:Bonus}бонус{/g} к {g|Encyclopedia:Intelligence}Интеллекту{/g} +2, {g|Encyclopedia:Incorporeal_Touch_Attack}атаку Бестелесное касание{/g} ({g|Encyclopedia:Dice}2d8{/g} {g|Encyclopedia:AbilityDamage}урона{/g} {g|Encyclopedia:Strength}Силе{/g}), невосприимчивость к наземным эффектам и бонус к {g|Encyclopedia:Speed}скорости{/g} +30 футов. Также заклинатель теней получает эффект заклинания {g|SpellsTransformation}Трансформация{/g} (с бонусом усиления +4 к {g|Encyclopedia:Charisma}Харизме{/g} вместо {g|Encyclopedia:Constitution}Выносливости{/g}), сохраняя при этом способность творить заклинания. Эту способность можно применять раз в 24 часа."
         },
+        {
+            "Key": "32d9aeca-c1c8-425d-975a-5347a8f57038",
+            "Value": "Нечестивое оружие"
+        },
+        {
+            "Key": "dc255393-00f4-430e-95ab-49f2c98dd046",
+            "Value": "Всякий раз, когда носящий эту робу использует сакральную силу для призыва существ, он может по желанию наделить их {g|Encyclopedia:Attack}атаки{/g} зачарованием {g|EnhancementHoly}святое оружие{/g} или {g|EnhancementUnholy}нечестивое оружие{/g}."
+        },
     ],
 }
