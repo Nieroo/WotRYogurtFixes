@@ -252,5 +252,21 @@
             "Key": "5fe038e0-45e7-42c5-8a42-ac4fbf042239",
             "Value": "При {g|Encyclopedia:Attack}бросках на попадание{/g} {g|Encyclopedia:Light_Weapon}легким оружием{/g} {g|Encyclopedia:MeleeAttack}ближнего боя{/g}, эльфийским изогнутым клинком, эстоком или рапирой, созданными для существ вашего {g|Encyclopedia:Size}размера{/g}, вы можете использовать модификатор {g|Encyclopedia:Dexterity}Ловкости{/g} вместо модификатора {g|Encyclopedia:Strength}Силы{/g}."
         },
+        {
+            "Key": "6306d192-999e-4b47-8f2a-80d0c8562dba",
+            "Value": "Вы можете {g|SpellsCommandUndead}повелевать нежитью{/g} по своему желанию. Вся нежить под вашим командованием в радиусе 50 футов получает {g|Encyclopedia:Bonus}бонус{/g} к {g|Encyclopedia:Strength}Силе{/g}, {g|Encyclopedia:Dexterity}Ловкости{/g} и {g|Encyclopedia:Charisma}Харизме{/g}, равный половине вашего мифического уровня плюс 1. Их {g|Encyclopedia:Attack}атаки{/g} игнорируют {g|Encyclopedia:Damage_Reduction}снижение урона{/g}, кроме N/—, и считаются нанесенными {g|EnhancementGhostTouch}призрачным оружием{/g} и оружием из адамантина, серебра и холодного железа."
+        },
+        {
+            "Key": "864953f3-bee6-4ec6-8991-18be137faf9f",
+            "Value": "Призываемые вами существа получают толику вашей мифической силы.\nПреимущество: призванные вами существа получают {g|Encyclopedia:Bonus}бонус{/g} к {g|Encyclopedia:Strength}Силе{/g}, {g|Encyclopedia:Dexterity}Ловкости{/g}, {g|Encyclopedia:Constitution}Выносливости{/g}, {g|Encyclopedia:Wisdom}Мудрости{/g} и {g|Encyclopedia:Charisma}Харизме{/g}, равный половине вашего мифического уровня плюс 1. Их {g|Encyclopedia:Attack}атаки{/g} игнорируют {g|Encyclopedia:Damage_Reduction}снижение урона{/g}, кроме N/—, и считаются нанесенными {g|EnhancementGhostTouch}призрачным оружием{/g} и оружием из адамантина, серебра и холодного железа."
+        },
+        {
+            "Key": "434e2bde-229e-411b-b49a-0ad843019480",
+            "Value": "Ваш верный зверь столь же мифичен, как и вы сами.\nПреимущество: ваш верный зверь получает {g|Encyclopedia:Bonus}бонус{/g} к {g|Encyclopedia:Strength}Силе{/g}, {g|Encyclopedia:Dexterity}Ловкости{/g} и {g|Encyclopedia:Constitution}Выносливости{/g}, равный половине вашего мифического уровня плюс 1. Его {g|Encyclopedia:Attack}атаки{/g} игнорируют {g|Encyclopedia:Damage_Reduction}снижение урона{/g} кроме N/— и считаются нанесенными {g|EnhancementGhostTouch}призрачным оружием{/g} и оружием из адамантина, серебра и холодного железа."
+        },
+        {
+            "Key": "9b2d0759-711c-4812-9206-0279ed72d87a",
+            "Value": "Ваши {g|Encyclopedia:NaturalAttack}естественные атаки{/g} наносят неестественно ужасные раны.\nПреимущество: ваши естественные {g|Encyclopedia:Attack}атаки{/g} игнорируют {g|Encyclopedia:Damage_Reduction}снижение урона{/g}, кроме N/—, и считаются нанесенными {g|EnhancementGhostTouch}призрачным оружием{/g} и оружием из адамантина, серебра и холодного железа."
+        },
     ],
 }
