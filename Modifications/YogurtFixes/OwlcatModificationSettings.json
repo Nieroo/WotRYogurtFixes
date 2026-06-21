@@ -36,6 +36,10 @@
         {
             "Guid": "1814c7cf8142be047b6a9239e78d86f3",
             "Filename": "ShadowbloodAddictionDebuff.patch"
+        },
+        {
+            "Guid": "b9979b125f8b4810891b5e53ae7fea0f",
+            "Filename": "BeltOfPerfection8ExtraBuff.patch"
         }
     ]
 }

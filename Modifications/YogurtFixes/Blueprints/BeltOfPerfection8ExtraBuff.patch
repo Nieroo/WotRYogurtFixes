@@ -1,0 +1,19 @@
+{
+    "Components": [
+        {
+            "$type": "ce3d90b3cfa65eb418d4fd6388c1cd3c, WeaponCriticalEdgeIncreaseStackable",
+            "m_Flags": 0,
+            "name": "$WeaponCriticalEdgeIncreaseStackable$bc51e889-1417-41bf-a380-9c01ced44caf",
+            "PrototypeLink": {
+                "guid": "",
+                "name": "",
+            },
+            "m_Overrides": [],
+            "IncludeCategories": [],
+            "ExcludeCategories": [],
+            "IncludeAttackTypes": [],
+            "ExcludeAttackTypes": [],
+            "Value": 1,
+        },
+    ],
+}
