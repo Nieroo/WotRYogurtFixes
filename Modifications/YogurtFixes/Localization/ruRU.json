@@ -796,5 +796,9 @@
             "Key": "6ab2b0df-6d8f-46d2-9d9e-1c344a4b29aa",
             "Value": "Перчатки улучшают {g|Encyclopedia:Spell}заклинания{/g} Божественный разряд, Воспламенение, Всплеск кислоты, Ледяной луч, Разряд, {g|SpellsMagicMissile}Волшебная стрела{/g}, {g|SpellsCureLightWounds}Исцеление легких ранений{/g} (для целей нанесения урона), {g|SpellsCorrosiveTouch}Кислотное прикосновение{/g}, {g|SpellsInflictLightWounds}Нанесение легких ран{/g} (для целей нанесения урона), Огненное чрево, {g|SpellsEarPiercingScream}Пронзительный крик{/g}, {g|SpellsBurningHands}Пылающие руки{/g}, {g|SpellsSnowball}Снежок{/g}.\nКогда носящий эти перчатки творит перечисленные заклинания, они наносят 1 дополнительное очко {g|Encyclopedia:Damage}урона{/g} за каждую брошенную {g|Encyclopedia:Dice}кость{/g}."
         },
+        {
+            "Key": "551c0586-28ef-4f11-8869-b853aedbf171",
+            "Value": "Вы обретаете {g|Encyclopedia:Special_Abilities}способность{/g} наносить особенно сильный удар в {g|Encyclopedia:MeleeAttack}ближнем бою{/g}, добавляя к {g|Encyclopedia:Damage}урону{/g} {g|Encyclopedia:Bonus}бонус{/g}, равный 1/2 уровня в классе, давшем вам доступ к этому домейну (минимум 1)."
+        },
     ],
 }
