@@ -56,6 +56,10 @@
         {
             "Guid": "82fa26ea2b628e44a8fc35c248831890",
             "Filename": "EcclesitheurgeRestriction.patch"
+        },
+        {
+            "Guid": "78ae3b88fd3a434489fa0731ba2eab42",
+            "Filename": "QuicklingCreature.patch"
         }
     ]
 }

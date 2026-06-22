@@ -9,5 +9,13 @@
             //"Value": "At 1st level, an ecclesitheurge makes a vow to his deity to be protected solely by his faith, not by armor or shields. An ecclesitheurge who wears armor or uses a shield is unable to use his blessing of the faithful ability, use cleric domain powers, or cast cleric spells."
             "Value": "At 1st level, an ecclesitheurge makes a vow to his deity to be protected solely by his faith, not by armor or shields. An ecclesitheurge who wears armor or uses a shield is unable to cast cleric spells."
         },
+        {
+            "Key": "QuicklingCreature_NAME",
+            "Value": "Supernatural Speed"
+        },
+        {
+            "Key": "QuicklingCreature_DESC",
+            "Value": "This creature moves with incredible speed. It gains a +2 enhancement bonus to natural armor, +4 bonus to all {g|Encyclopedia:Ability_Scores}ability scores{/g} and +10 bonus to {g|Encyclopedia:Dexterity}Dexterity{/g}, +30 bonus to {g|Encyclopedia:Speed}speed{/g}, extra {g|Encyclopedia:Attack}attack{/g} with full {g|Encyclopedia:BAB}BAB{/g}, Evasion and Uncanny Dodge abilities, it cannot be {g|Encyclopedia:Flanking}flanked{/g} and it is always under the effect of the {g|SpellsBlur}blur{/g} spell."
+        },
     ],
 }
