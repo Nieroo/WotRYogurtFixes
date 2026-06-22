@@ -1,0 +1,9 @@
+{
+    "m_DisplayName": {
+        "m_Key": "EcclesitheurgeRestriction_NAME",
+    },
+    "m_Description": {
+        "m_Key": "EcclesitheurgeRestriction_DESC",
+    },
+    "HideInUI": false,
+}
