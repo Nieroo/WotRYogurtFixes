@@ -60,6 +60,122 @@
         {
             "Guid": "78ae3b88fd3a434489fa0731ba2eab42",
             "Filename": "QuicklingCreature.patch"
+        },
+        {
+            "Guid": "67b574abd845f3e42983ea6eb53a6f90",
+            "Filename": "EldritchFontSpellbook.patch"
+        },
+        {
+            "Guid": "3ed7e38dc8134af28e1a2b105f74fb7b",
+            "Filename": "NatureMageSpellbook.patch"
+        },
+        {
+            "Guid": "b242f991107095d41ae129f46ed5d97a",
+            "Filename": "UnletteredArcanistSpellbook.patch"
+        },
+        {
+            "Guid": "0b00eedc8dc8421ca277ddc4c44c60b1",
+            "Filename": "BardSpellbook_Penta.patch"
+        },
+        {
+            "Guid": "b897fe0947e4b804082b1a687c21e6e2",
+            "Filename": "AccursedWitchSpellbook.patch"
+        },
+        {
+            "Guid": "fb4e216b322d3924e9c7041016b46999",
+            "Filename": "LeyLineGuardianWitchSpellbook.patch"
+        },
+        {
+            "Guid": "4f96fb20f06b7494a8b2bd731a70af6c",
+            "Filename": "EldritchScoundrelSpellbook.patch"
+        },
+        {
+            "Guid": "c8c471f1f9889e1408347d3c7987b4f1",
+            "Filename": "FeyspeakerSpellbook.patch"
+        },
+        {
+            "Guid": "673d39f7da699aa408cdda6282e7dcc0",
+            "Filename": "CrusaderSpellbook.patch"
+        },
+        {
+            "Guid": "8d904686a43f4eaeb451798e9088b9b9",
+            "Filename": "LivingGrimoireSpellbook.patch"
+        },
+        {
+            "Guid": "cb0be5988031ebe4c947086a1170eacc",
+            "Filename": "CrossbloodedSpellbook.patch"
+        },
+        {
+            "Guid": "cb9d75e5cb08572439a6b5cd562297a5",
+            "Filename": "EmpyrealSpellbook.patch"
+        },
+        {
+            "Guid": "cc2052732997b654e93eac268a39a0a9",
+            "Filename": "SageSpellbook.patch"
+        },
+        {
+            "Guid": "d09794fb6f93e4a40929a965b434070d",
+            "Filename": "ExploiterWizardSpellbook.patch"
+        },
+        {
+            "Guid": "58b15cc36ceda8942a7a29aafa755452",
+            "Filename": "ThassilonianAbjurationSpellbook.patch"
+        },
+        {
+            "Guid": "cbc30bcc7b8adec48a53a6540f5596ae",
+            "Filename": "ThassilonianConjurationSpellbook.patch"
+        },
+        {
+            "Guid": "9e4b96d7b02f8c8498964aeee6eaef9b",
+            "Filename": "ThassilonianEnchantmentSpellbook.patch"
+        },
+        {
+            "Guid": "05b105ddee654db4fb1547ba48ffa160",
+            "Filename": "ThassilonianEvocationSpellbook.patch"
+        },
+        {
+            "Guid": "74b87962a97d56c4583979216631eb4c",
+            "Filename": "ThassilonianIllusionSpellbook.patch"
+        },
+        {
+            "Guid": "97cd3941ce333ce46ae09436287ed699",
+            "Filename": "ThassilonianNecromancySpellbook.patch"
+        },
+        {
+            "Guid": "5785f40e7b1bfc94ea078e7156aa9711",
+            "Filename": "ThassilonianTransmutationSpellbook.patch"
+        },
+        {
+            "Guid": "bbe483b903854104a11606412803f214",
+            "Filename": "TricksterWizardSpellbook.patch"
+        },
+        {
+            "Guid": "e2763fbfdb91920458c4686c3e7ed085",
+            "Filename": "EldritchScionSpellbook.patch"
+        },
+        {
+            "Guid": "682545e11e5306c45b14ca78bcbe3e62",
+            "Filename": "SwordSaintSpellbook.patch"
+        },
+        {
+            "Guid": "6886f046087f4cb68f8cbdfdfedbd3d9",
+            "Filename": "PaladinSpellbookTorturedCrusader.patch"
+        },
+        {
+            "Guid": "d731dfb39ea26754c89b58d0969ea9e0",
+            "Filename": "LichSkeletalBardMinorSpellbook.patch"
+        },
+        {
+            "Guid": "9043af050a2fee641825e23d9c9a251a",
+            "Filename": "LichSkeletalClericSpellbookFeature.patch"
+        },
+        {
+            "Guid": "d71cb34f8a66a2c479ba8289a1683112",
+            "Filename": "LichSkeletalInquisitorMinorSpellbook.patch"
+        },
+        {
+            "Guid": "c9ff1f4b3b26dcb47ba75b218ccadd23",
+            "Filename": "LichSkeletalMagusSpellbookMinor.patch"
         }
     ]
 }

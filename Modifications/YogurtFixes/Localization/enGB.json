@@ -17,5 +17,25 @@
             "Key": "QuicklingCreature_DESC",
             "Value": "This creature moves with incredible speed. It gains a +2 enhancement bonus to natural armor, +4 bonus to all {g|Encyclopedia:Ability_Scores}ability scores{/g} and +10 bonus to {g|Encyclopedia:Dexterity}Dexterity{/g}, +30 bonus to {g|Encyclopedia:Speed}speed{/g}, extra {g|Encyclopedia:Attack}attack{/g} with full {g|Encyclopedia:BAB}BAB{/g}, Evasion and Uncanny Dodge abilities, it cannot be {g|Encyclopedia:Flanking}flanked{/g} and it is always under the effect of the {g|SpellsBlur}blur{/g} spell."
         },
+        {
+            "Key": "TricksterWizardSpellbook_NAME",
+            "Value": "Trickster (Wizard)"
+        },
+        {
+            "Key": "LichSkeletalBardMinorSpellbook_NAME",
+            "Value": "Skeletal Champion (Bard)"
+        },
+        {
+            "Key": "LichSkeletalClericSpellbookFeature_NAME",
+            "Value": "Skeletal Champion (Cleric)"
+        },
+        {
+            "Key": "LichSkeletalInquisitorMinorSpellbook_NAME",
+            "Value": "Skeletal Champion (Inquisitor)"
+        },
+        {
+            "Key": "LichSkeletalMagusSpellbookMinor_NAME",
+            "Value": "Skeletal Champion (Magus)"
+        },
     ],
 }
