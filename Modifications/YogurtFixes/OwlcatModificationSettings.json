@@ -176,6 +176,14 @@
         {
             "Guid": "c9ff1f4b3b26dcb47ba75b218ccadd23",
             "Filename": "LichSkeletalMagusSpellbookMinor.patch"
+        },
+        {
+            "Guid": "f5e01a43011670c4392405c90d30ba60",
+            "Filename": "LichSkeletalClericSpellbookMinorFeature.patch"
+        },
+        {
+            "Guid": "4033008a4c7fc814aad708e80cf50c37",
+            "Filename": "LichSkeletalClericTierI.patch"
         }
     ]
 }

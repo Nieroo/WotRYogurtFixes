@@ -1,0 +1,73 @@
+{
+    "AssetId": "68f99f84b6b74a88b370390575c67356",
+    "Data": {
+        "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+        "PrototypeLink": null,
+        "Components": [
+            {
+                "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+                "name": "$AddFacts$e4eb907e-f159-435f-90ea-e134077206d1",
+                "m_Overrides": [],
+                "m_Facts": [
+                    "!bp_93f062bc0bf70e84ebae436e325e30e8",
+                    "!bp_89df18039ef22174b81052e2e419c728",
+                    "!bp_9be3aa47a13d5654cbcb8dbd40c325f2",
+                    //"!bp_677c8d5d8e394e56a4950a26c1f9dbbf", // custom
+                ],
+                "Dummy": null,
+                "CasterLevel": 0,
+                "DoNotRestoreMissingFacts": false,
+                "HasDifficultyRequirements": false,
+                "InvertDifficultyRequirements": false,
+                "MinDifficulty": "Story",
+            },
+            {
+                "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+                "name": "$PrerequisiteFeature$0f08cb83-6998-43a2-8fcf-a6b4b40c12b0",
+                "m_Overrides": [],
+                "Group": "All",
+                "CheckInProgression": false,
+                "HideInUI": true,
+                "m_Feature": "!bp_dab5255d809f77c4395afc2b713e9cd6",
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "3137b54f-d917-4515-8ed3-68b7e7c7b6fa",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "a81614e6-7754-423f-9a87-32589564009d",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": {
+            "guid": "8d9bfdf249f5e2a4784909b2c26fdbb3",
+            "fileid": 21300000,
+        },
+        "HideInUI": false,
+        "HideInCharacterSheetAndLevelUp": false,
+        "HideNotAvailibleInUI": false,
+        "DlcType": "None",
+        "Groups": [
+            "ChannelEnergy",
+        ],
+        "Ranks": 10,
+        "ReapplyOnLevelUp": false,
+        "IsClassFeature": true,
+        "IsPrerequisiteFor": null,
+    },
+}

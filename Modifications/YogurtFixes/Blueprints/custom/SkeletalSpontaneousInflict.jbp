@@ -1,0 +1,63 @@
+{
+    "AssetId": "677c8d5d8e394e56a4950a26c1f9dbbf",
+    "Data": {
+        "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+        "PrototypeLink": null,
+        "Components": [
+            {
+                "$type": "e62f4123f61beec4e98aa95e41c9a697, SpontaneousSpellConversion",
+                "name": "$SpontaneousSpellConversion$8d3a5292-3f34-469b-8123-23a0a84fdd23",
+                "m_Overrides": [],
+                "m_CharacterClass": "!bp_19a2d9e58d916d04db4cd7ad2c7a3ee2", // ClericClass -> UndeadClass
+                "m_SpellsByLevel": [
+                    null,
+                    "!bp_e5af3674bb241f14b9a9f6b0c7dc3d27",
+                    "!bp_65f0b63c45ea82a4f8b8325768a3832d",
+                    "!bp_bd5da98859cf2b3418f6d68ea66cabbe",
+                    "!bp_651110ed4f117a948b41c05c5c7624c0",
+                    "!bp_9da37873d79ef0a468f969e4e5116ad2",
+                    "!bp_03944622fbe04824684ec29ff2cec6a7",
+                    "!bp_820170444d4d2a14abc480fcbdb49535",
+                    "!bp_5ee395a2423808c4baf342a4f8395b19",
+                    "!bp_5ee395a2423808c4baf342a4f8395b19",
+                ],
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "eb2297b3-97de-41a1-8a57-5fe9840897fb",
+            "m_OwnerString": "5ba6b9cc18acafd45b6293d1e03221ac",
+            "m_OwnerPropertyPath": "m_DisplayName",
+            "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/ClericSpontaneousInflict_m_DisplayName.json",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "68d45080-0fc5-47df-9f7e-34765937fdcc",
+            "m_OwnerString": "5ba6b9cc18acafd45b6293d1e03221ac",
+            "m_OwnerPropertyPath": "m_Description",
+            "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/ClericSpontaneousInflict_m_Description.json",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": {
+            "guid": "80226d9abd7d669499313bd2166b4130",
+            "fileid": 21300000,
+        },
+        "HideInUI": false,
+        "HideInCharacterSheetAndLevelUp": false,
+        "HideNotAvailibleInUI": false,
+        "DlcType": "None",
+        "Groups": [],
+        "Ranks": 1,
+        "ReapplyOnLevelUp": false,
+        "IsClassFeature": true,
+        "IsPrerequisiteFor": null,
+    },
+}
