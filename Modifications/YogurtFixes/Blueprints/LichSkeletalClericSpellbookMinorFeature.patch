@@ -2,7 +2,8 @@
     "_#ArrayMergeSettings": "Merge",
     "Components": [
         {
-            "m_Spellbook": "!bp_9043af050a2fee641825e23d9c9a251a",
+            //"m_Spellbook": "!bp_4673d19a0cf2fab4f885cc4d1353da33", // old (ClericSpellbook)
+            "m_Spellbook": "!bp_9043af050a2fee641825e23d9c9a251a", // correct (LichSkeletalClericSpellbookFeature)
         },
         {},
     ],

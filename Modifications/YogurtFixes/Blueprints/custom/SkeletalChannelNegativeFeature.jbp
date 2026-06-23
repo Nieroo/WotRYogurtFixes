@@ -12,7 +12,8 @@
                     "!bp_93f062bc0bf70e84ebae436e325e30e8",
                     "!bp_89df18039ef22174b81052e2e419c728",
                     "!bp_9be3aa47a13d5654cbcb8dbd40c325f2",
-                    //"!bp_677c8d5d8e394e56a4950a26c1f9dbbf", // custom
+                    //"!bp_5ba6b9cc18acafd45b6293d1e03221ac", // old (ClericSpontaneousInflict)
+                    "!bp_677c8d5d8e394e56a4950a26c1f9dbbf", // new (custom)
                 ],
                 "Dummy": null,
                 "CasterLevel": 0,
@@ -20,16 +21,7 @@
                 "HasDifficultyRequirements": false,
                 "InvertDifficultyRequirements": false,
                 "MinDifficulty": "Story",
-            },
-            {
-                "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
-                "name": "$PrerequisiteFeature$0f08cb83-6998-43a2-8fcf-a6b4b40c12b0",
-                "m_Overrides": [],
-                "Group": "All",
-                "CheckInProgression": false,
-                "HideInUI": true,
-                "m_Feature": "!bp_dab5255d809f77c4395afc2b713e9cd6",
-            },
+            }
         ],
         "Comment": "",
         "m_AllowNonContextActions": false,

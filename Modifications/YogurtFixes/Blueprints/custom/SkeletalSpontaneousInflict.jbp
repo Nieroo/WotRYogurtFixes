@@ -8,7 +8,8 @@
                 "$type": "e62f4123f61beec4e98aa95e41c9a697, SpontaneousSpellConversion",
                 "name": "$SpontaneousSpellConversion$8d3a5292-3f34-469b-8123-23a0a84fdd23",
                 "m_Overrides": [],
-                "m_CharacterClass": "!bp_19a2d9e58d916d04db4cd7ad2c7a3ee2", // ClericClass -> UndeadClass
+                //"m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0", // ClericClass
+                "m_CharacterClass": "!bp_19a2d9e58d916d04db4cd7ad2c7a3ee2", // UndeadClass
                 "m_SpellsByLevel": [
                     null,
                     "!bp_e5af3674bb241f14b9a9f6b0c7dc3d27",
@@ -27,16 +28,16 @@
         "m_AllowNonContextActions": false,
         "m_DisplayName": {
             "m_Key": "eb2297b3-97de-41a1-8a57-5fe9840897fb",
-            "m_OwnerString": "5ba6b9cc18acafd45b6293d1e03221ac",
-            "m_OwnerPropertyPath": "m_DisplayName",
-            "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/ClericSpontaneousInflict_m_DisplayName.json",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
             "Shared": null,
         },
         "m_Description": {
             "m_Key": "68d45080-0fc5-47df-9f7e-34765937fdcc",
-            "m_OwnerString": "5ba6b9cc18acafd45b6293d1e03221ac",
-            "m_OwnerPropertyPath": "m_Description",
-            "m_JsonPath": "Strings/Mechanics/Blueprints/Classes/Cleric/ClericSpontaneousInflict_m_Description.json",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
             "Shared": null,
         },
         "m_DescriptionShort": {

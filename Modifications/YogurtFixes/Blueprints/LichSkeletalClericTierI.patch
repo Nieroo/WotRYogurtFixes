@@ -3,6 +3,7 @@
     "Components": [
         {},
         {
+            //"m_Feature": "!bp_3adb2c906e031ee41a01bfc1d5fb7eea", // old (ChannelNegativeFeature)
             "m_Feature": "!bp_68f99f84b6b74a88b370390575c67356", // custom
         },
         {},

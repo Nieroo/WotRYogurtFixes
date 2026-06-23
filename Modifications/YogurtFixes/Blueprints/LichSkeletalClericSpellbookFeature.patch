@@ -4,4 +4,6 @@
         "m_Key": "LichSkeletalClericSpellbookFeature_NAME",
         "Shared": null,
     },
+    "m_CharacterClass": "!bp_19a2d9e58d916d04db4cd7ad2c7a3ee2", // UndeadClass
+    //"m_CharacterClass": "!bp_67819271767a9dd4fbfd4ae700befea0", // ClericClass
 }
