@@ -1,0 +1,19 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {
+            "Action": {
+                "Actions": [
+                    {
+                        //"m_Buff": "!bp_fd53e986469242228806a38f431f0ac6", // TwoHandedFighterPiledriverTripBuff
+                        "m_Buff": "!bp_73fc7af0c1364618ba3b07ddff0af455", // TwoHandedFighterPiledriverBullRushBuff
+                    },
+                ],
+            },
+        },
+    ],
+}

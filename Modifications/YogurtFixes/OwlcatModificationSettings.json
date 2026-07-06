@@ -184,6 +184,10 @@
         {
             "Guid": "4033008a4c7fc814aad708e80cf50c37",
             "Filename": "LichSkeletalClericTierI.patch"
+        },
+        {
+            "Guid": "4723b31d7defd3d4e85395e2a3353b01",
+            "Filename": "TwoHandedFighterPiledriverFeature.patch"
         }
     ]
 }

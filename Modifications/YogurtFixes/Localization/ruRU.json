@@ -904,5 +904,9 @@
             "Key": "LichSkeletalMagusSpellbookMinor_NAME",
             "Value": "Скелет-воитель (Магус)"
         },
+        {
+            "Key": "13f160e6-139e-4b63-837c-137886f5da58",
+            "Value": "Бросок на голову — сбивание с ног"
+        },
     ],
 }
