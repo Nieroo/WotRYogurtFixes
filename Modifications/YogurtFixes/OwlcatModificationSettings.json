@@ -188,6 +188,10 @@
         {
             "Guid": "4723b31d7defd3d4e85395e2a3353b01",
             "Filename": "TwoHandedFighterPiledriverFeature.patch"
+        },
+        {
+            "Guid": "1bb6f0b196aa457ba80bdb312dc64952",
+            "Filename": "FeintAbility.patch"
         }
     ]
 }

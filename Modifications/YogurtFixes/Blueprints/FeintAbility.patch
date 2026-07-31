@@ -1,0 +1,199 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Actions": {
+                "Actions": [
+                    {
+                        "IfTrue": { // if have FinalFeint
+                            "Actions": [
+                                {
+                                    "IfTrue": { // if have SlayersFeint
+                                        "Actions": [
+                                            {
+                                                "IfTrue": { // if (Caster) FeintPropertyBluff >= (Caster) FeintPropertyMobility
+                                                    "Actions": [
+                                                        {
+                                                            "IfTrue": { // if (Target) INT >= 1
+                                                                "Actions": [
+                                                                    {
+                                                                        //"IfTrue": {}, // if (Target) FeintPropertyBAB >= (Target) FeintPropertyPerception
+                                                                        "IfFalse": { // if (Target) FeintPropertyBAB < (Target) FeintPropertyPerception
+                                                                            "Actions": [
+                                                                                {
+                                                                                    "CustomDC": {
+                                                                                        //"m_CustomProperty": "!bp_e7b2296d485e4c25b4c745d5a7fe42cb", // FeintPropertyBAB
+                                                                                        "m_CustomProperty": "!bp_72fa876e4698445ca0dcb34ad390abab", // FeintPropertyPerception
+                                                                                    },
+                                                                                },
+                                                                            ],
+                                                                        },
+                                                                    },
+                                                                ],
+                                                            },
+                                                        },
+                                                    ],
+                                                },
+                                                "IfFalse": { // if (Caster) FeintPropertyBluff < (Caster) FeintPropertyMobility
+                                                    "Actions": [
+                                                        {
+                                                            "IfTrue": { // if (Target) INT >= 1
+                                                                "Actions": [
+                                                                    {
+                                                                        "IfTrue": { // if (Target) FeintPropertyBAB >= (Target) FeintPropertyPerception
+                                                                            "Actions": [
+                                                                                {
+                                                                                    "Success": {
+                                                                                        "Actions": [
+                                                                                            {
+                                                                                                //"m_Buff": "!bp_e14f5e333e0e42fbbb7d7791c6072e7b", // FeintBuffEnemy
+                                                                                                "m_Buff": "!bp_05c9dfa1595d48748c74316df97433c8", // FeintBuffEnemyFinalFeintEnemyBuff
+                                                                                            },
+                                                                                        ],
+                                                                                    },
+                                                                                },
+                                                                            ],
+                                                                        },
+                                                                        "IfFalse": { // if (Target) FeintPropertyBAB < (Target) FeintPropertyPerception
+                                                                            "Actions": [
+                                                                                {
+                                                                                    "CustomDC": {
+                                                                                        //"m_CustomProperty": "!bp_e7b2296d485e4c25b4c745d5a7fe42cb", // FeintPropertyBAB
+                                                                                        "m_CustomProperty": "!bp_72fa876e4698445ca0dcb34ad390abab", // FeintPropertyPerception
+                                                                                    },
+                                                                                    "Success": {
+                                                                                        "Actions": [
+                                                                                            {
+                                                                                                //"m_Buff": "!bp_e14f5e333e0e42fbbb7d7791c6072e7b", // FeintBuffEnemy
+                                                                                                "m_Buff": "!bp_05c9dfa1595d48748c74316df97433c8", // FeintBuffEnemyFinalFeintEnemyBuff
+                                                                                            },
+                                                                                        ],
+                                                                                    },
+                                                                                    "CheckForCaster": true,
+                                                                                },
+                                                                            ],
+                                                                        },
+                                                                    },
+                                                                ],
+                                                            },
+                                                        },
+                                                    ],
+                                                },
+                                            },
+                                        ],
+                                    },
+                                    "IfFalse": { // if have not SlayersFeint
+                                        "Actions": [
+                                            {
+                                                "IfTrue": { // if (Target) INT >= 1
+                                                    "Actions": [
+                                                        {
+                                                            //"IfTrue": {}, // if (Target) FeintPropertyBAB >= (Target) FeintPropertyPerception
+                                                            "IfFalse": { // if (Target) FeintPropertyBAB < (Target) FeintPropertyPerception
+                                                                "Actions": [
+                                                                    {
+                                                                        "CustomDC": {
+                                                                            //"m_CustomProperty": "!bp_e7b2296d485e4c25b4c745d5a7fe42cb", // FeintPropertyBAB
+                                                                            "m_CustomProperty": "!bp_72fa876e4698445ca0dcb34ad390abab", // FeintPropertyPerception
+                                                                        },
+                                                                    },
+                                                                ],
+                                                            },
+                                                        },
+                                                    ],
+                                                },
+                                            },
+                                        ],
+                                    },
+                                },
+                            ],
+                        },
+                        "IfFalse": { // if have not FinalFeint
+                            "Actions": [
+                                {
+                                    "IfTrue": { // if have SlayersFeint
+                                        "Actions": [
+                                            {
+                                                "IfTrue": { // if (Caster) FeintPropertyBluff >= (Caster) FeintPropertyMobility
+                                                    "Actions": [
+                                                        {
+                                                            "IfTrue": { // if (Target) INT >= 1
+                                                                "Actions": [
+                                                                    {
+                                                                        //"IfTrue": {}, // if (Target) FeintPropertyBAB >= (Target) FeintPropertyPerception
+                                                                        "IfFalse": { // if (Target) FeintPropertyBAB < (Target) FeintPropertyPerception
+                                                                            "Actions": [
+                                                                                {
+                                                                                    "CustomDC": {
+                                                                                        //"m_CustomProperty": "!bp_e7b2296d485e4c25b4c745d5a7fe42cb", // FeintPropertyBAB
+                                                                                        "m_CustomProperty": "!bp_72fa876e4698445ca0dcb34ad390abab", // FeintPropertyPerception
+                                                                                    },
+                                                                                    "CheckForCaster": true,
+                                                                                },
+                                                                            ],
+                                                                        },
+                                                                    },
+                                                                ],
+                                                            },
+                                                        },
+                                                    ],
+                                                },
+                                                "IfFalse": { // if (Caster) FeintPropertyBluff < (Caster) FeintPropertyMobility
+                                                    "Actions": [
+                                                        {
+                                                            "IfTrue": { // if (Target) INT >= 1
+                                                                "Actions": [
+                                                                    {
+                                                                        //"IfTrue": {}, // if (Target) FeintPropertyBAB >= (Target) FeintPropertyPerception
+                                                                        "IfFalse": { // if (Target) FeintPropertyBAB < (Target) FeintPropertyPerception
+                                                                            "Actions": [
+                                                                                {
+                                                                                    "CustomDC": {
+                                                                                        //"m_CustomProperty": "!bp_e7b2296d485e4c25b4c745d5a7fe42cb", // FeintPropertyBAB
+                                                                                        "m_CustomProperty": "!bp_72fa876e4698445ca0dcb34ad390abab", // FeintPropertyPerception
+                                                                                    },
+                                                                                    "CheckForCaster": true,
+                                                                                },
+                                                                            ],
+                                                                        },
+                                                                    },
+                                                                ],
+                                                            },
+                                                        },
+                                                    ],
+                                                },
+                                            },
+                                        ],
+                                    },
+                                    "IfFalse": { // if have not SlayersFeint
+                                        "Actions": [
+                                            {
+                                                "IfTrue": { // if (Target) INT >= 1
+                                                    "Actions": [
+                                                        {
+                                                            //"IfTrue": {}, // if (Target) FeintPropertyBAB >= (Target) FeintPropertyPerception
+                                                            "IfFalse": { // if (Target) FeintPropertyBAB < (Target) FeintPropertyPerception
+                                                                "Actions": [
+                                                                    {
+                                                                        "CustomDC": {
+                                                                            //"m_CustomProperty": "!bp_e7b2296d485e4c25b4c745d5a7fe42cb", // FeintPropertyBAB
+                                                                            "m_CustomProperty": "!bp_72fa876e4698445ca0dcb34ad390abab", // FeintPropertyPerception
+                                                                        },
+                                                                    },
+                                                                ],
+                                                            },
+                                                        },
+                                                    ],
+                                                },
+                                            },
+                                        ],
+                                    },
+                                },
+                            ],
+                        },
+                    },
+                ],
+            },
+        },
+    ],
+}
