@@ -1,0 +1,18 @@
+{
+    "Components": [
+        {
+            "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+            "name": "$AddFeatureOnClassLevel$eccf4775-2dac-4e42-b1d3-bb9e76f38303",
+            "m_Class": "!bp_1b9873f1e7bfe5449bc84d03e9c8e3cc", // WitchClass
+            "Level": 1,
+            "m_Feature": "!bp_a52a37d93340ade4fb8128fc8d30df28", // BlackenedCurseAttackRollLevel1
+            "BeforeThisLevel": false,
+            "m_AdditionalClasses": [
+                "!bp_20ce9bf8af32bee4c8557a045ab499b1", // OracleClass
+            ],
+            "m_Archetypes": [
+                "!bp_c5f6e53e71059fb4d802ce81a277a12d", // AccursedWitchArchetype
+            ],
+        },
+    ],
+}

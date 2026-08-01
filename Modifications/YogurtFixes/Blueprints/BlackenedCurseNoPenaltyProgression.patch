@@ -1,0 +1,14 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "LevelEntries": [
+        {},
+        {},
+        {
+            "m_Features": [
+                //"!bp_510d3d8e625df844496173fef12ff326", // BlackenedCurseFeatureLevel10
+                "!bp_243c6566544044cdbfeb89ebd5c3475e", // custom : BlackenedCurseFeatureLevel10NoBonus.jbp
+            ],
+        },
+        {},
+    ],
+}

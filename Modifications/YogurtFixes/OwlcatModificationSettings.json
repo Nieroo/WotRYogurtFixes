@@ -192,6 +192,30 @@
         {
             "Guid": "1bb6f0b196aa457ba80bdb312dc64952",
             "Filename": "FeintAbility.patch"
+        },
+        {
+            "Guid": "30b6c0e75e82d4849b543173d0928f78",
+            "Filename": "WolfScarredFaceCurseFeatureLevel15.patch"
+        },
+        {
+            "Guid": "5edc2d4ed4b7c4b499e635fda70adadb",
+            "Filename": "BlackenedCurseAttackRollFeature.patch"
+        },
+        {
+            "Guid": "a7c8ef7c2dcdc4b4a8f5ff8a73f03421",
+            "Filename": "BlackenedCurseAttackRollLevel10.patch"
+        },
+        {
+            "Guid": "510d3d8e625df844496173fef12ff326",
+            "Filename": "BlackenedCurseFeatureLevel10.patch"
+        },
+        {
+            "Guid": "501d5a47cfaf4984bc2c77693bf88762",
+            "Filename": "WolfScarredFaceCurseNoPenaltyFeatureLevel15.patch"
+        },
+        {
+            "Guid": "44d0e9af729cf4b419295bce03e7afdd",
+            "Filename": "BlackenedCurseNoPenaltyProgression.patch"
         }
     ]
 }

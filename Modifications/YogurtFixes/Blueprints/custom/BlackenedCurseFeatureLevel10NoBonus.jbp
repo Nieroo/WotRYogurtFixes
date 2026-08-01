@@ -1,0 +1,60 @@
+{
+    "AssetId": "243c6566544044cdbfeb89ebd5c3475e",
+    "Data": {
+        "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+        "Components": [
+            {
+                "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+                "name": "$AddKnownSpell$43f987bb-c715-47e0-bca4-36d8e23a2f13",
+                "m_CharacterClass": "!bp_1b9873f1e7bfe5449bc84d03e9c8e3cc",
+                "SpellLevel": 5,
+                "m_Spell": "!bp_ebade19998e1f8542a1b55bd4da766b3",
+                "m_Archetype": "!bp_c5f6e53e71059fb4d802ce81a277a12d"
+            },
+            {
+                "$type": "8e5769c529dd1e34ea98b610c8222125, AddKnownSpell",
+                "name": "$AddKnownSpell$ad57e571-a2b3-448d-b3de-e5c1e992d1c1",
+                "m_CharacterClass": "!bp_20ce9bf8af32bee4c8557a045ab499b1",
+                "SpellLevel": 5,
+                "m_Spell": "!bp_ebade19998e1f8542a1b55bd4da766b3",
+                "m_Archetype": null,
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": {
+            "guid": "f17988688010c1b40a9f6e3b36e71245",
+            "fileid": 21300000,
+        },
+        "HideInUI": true,
+        "HideInCharacterSheetAndLevelUp": true,
+        "HideNotAvailibleInUI": false,
+        "DlcType": "None",
+        "Groups": [],
+        "Ranks": 1,
+        "ReapplyOnLevelUp": false,
+        "IsClassFeature": true,
+        "IsPrerequisiteFor": [],
+    },
+}

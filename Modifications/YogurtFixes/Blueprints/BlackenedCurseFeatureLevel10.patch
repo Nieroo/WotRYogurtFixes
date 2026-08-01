@@ -1,0 +1,21 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {
+            "$type": "038dab93b0fbcf84591c2fe7439ecb64, AddFeatureOnClassLevel",
+            "name": "$AddFeatureOnClassLevel$1768df33-c57c-4e3a-ba21-007bdf73dbaf",
+            "m_Class": "!bp_1b9873f1e7bfe5449bc84d03e9c8e3cc", // WitchClass
+            "Level": 1,
+            "m_Feature": "!bp_a7c8ef7c2dcdc4b4a8f5ff8a73f03421", // BlackenedCurseAttackRollLevel10
+            "BeforeThisLevel": false,
+            "m_AdditionalClasses": [
+                "!bp_20ce9bf8af32bee4c8557a045ab499b1", // OracleClass
+            ],
+            "m_Archetypes": [
+                "!bp_c5f6e53e71059fb4d802ce81a277a12d", // AccursedWitchArchetype
+            ],
+        },
+    ],
+}
