@@ -1,0 +1,13 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {
+            //"m_Feature": "!bp_50c70b8fb6384ce085207d9a9f4d9fd3", // CrushAndTearFeatureLevelUp1
+            "m_Feature": "!bp_d766e89385214ad89c5dde11178943b0", // CrushAndTearFeatureLevelUp5
+        },
+        {},
+        {},
+    ],
+    "ReapplyOnLevelUp": true,
+}

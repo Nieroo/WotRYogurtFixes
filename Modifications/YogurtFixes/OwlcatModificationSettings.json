@@ -216,6 +216,10 @@
         {
             "Guid": "44d0e9af729cf4b419295bce03e7afdd",
             "Filename": "BlackenedCurseNoPenaltyProgression.patch"
+        },
+        {
+            "Guid": "68684e91025d4ebf892e8c0469d14b03",
+            "Filename": "CrushAndTearFeature.patch"
         }
     ]
 }
