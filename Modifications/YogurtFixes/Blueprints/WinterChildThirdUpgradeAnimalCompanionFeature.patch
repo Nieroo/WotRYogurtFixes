@@ -1,0 +1,23 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {
+            "Value": {
+                "Value": 15,
+            },
+        },
+        {},
+        {
+            "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+            "m_Flags": 0,
+            "name": "$AddStatBonus$e158d9e0-85db-4bb3-9e61-2e111f46e0cf",
+            "Descriptor": "NaturalArmor",
+            "Stat": "AC",
+            "Value": 1,
+            "ScaleByBasicAttackBonus": false,
+      },
+    ],
+}
