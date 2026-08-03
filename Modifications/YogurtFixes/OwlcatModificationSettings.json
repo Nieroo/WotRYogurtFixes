@@ -220,6 +220,38 @@
         {
             "Guid": "68684e91025d4ebf892e8c0469d14b03",
             "Filename": "CrushAndTearFeature.patch"
+        },
+        {
+            "Guid": "45e4928aa4174aaf8b8297ea9f8f2108",
+            "Filename": "WinterChildCompanionTrirdUpgradeFeature.patch"
+        },
+        {
+            "Guid": "8e3892edd81c47feb7fd4eedbe4c5cd5",
+            "Filename": "BlizzardServantTierIIIFeature.patch"
+        },
+        {
+            "Guid": "c98f31815fa64bf28f0886835252d43e",
+            "Filename": "WinterChildThirdUpgradeAnimalCompanionFeature.patch"
+        },
+        {
+            "Guid": "fa78dcbfd439415fb14495cdb8c7e0e5",
+            "Filename": "WinterChildFirstUpgradeAnimalCompanionFeature.patch"
+        },
+        {
+            "Guid": "1e1f627d26ad36f43bbd26cc2bf8ac7e",
+            "Filename": "WeaponFocus.patch"
+        },
+        {
+            "Guid": "f4201c85a991369408740c6888362e20",
+            "Filename": "ImprovedCritical.patch"
+        },
+        {
+            "Guid": "daf893d14cc54e98a319fb121d7ac4d9",
+            "Filename": "BlizzardServantLockEquipmentFeature.patch"
+        },
+        {
+            "Guid": "287a354894264478b6190632380e85f4",
+            "Filename": "BlizzardServantUnit.patch"
         }
     ]
 }
