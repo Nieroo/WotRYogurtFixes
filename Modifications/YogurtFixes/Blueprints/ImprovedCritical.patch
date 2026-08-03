@@ -1,0 +1,67 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "m_WeaponCategories": [
+                "Tentacle",
+                //"Spike",
+                "Sting",
+                "Tail",
+            ],
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "$type": "22e02859a2404bfda115d9a25503661d, PrerequisiteConditionForWeaponCategory",
+            "m_Flags": 0,
+            "name": "$PrerequisiteConditionForWeaponCategory$cb9f0e82-937b-41c9-a72b-a06d120c0460",
+            "m_WeaponCategories": [
+                "Spike",
+            ],
+            "m_Condition": {
+                "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+                "name": "$ContextConditionHasFact$02950c2c-65eb-42ea-83b0-a8b52c8d7751",
+                "Not": false,
+                "Comment": "",
+                "ConditionsChecker": {
+                    "Operation": "Or",
+                    "Conditions": [
+                        {
+                            "$type": "15e7f65a122157948936921c37c345bf, ContextConditionIsWeaponEquipped",
+                            "name": "$ContextConditionIsWeaponEquipped$ee43af46-06c1-4ff8-a597-64451be8b73e",
+                            "Not": false,
+                            "JustCheckEmptyHand": false,
+                            "BothHandsAreEmpty": false,
+                            "CheckWeaponRangeType": false,
+                            "CheckWeaponCategory": true,
+                            "CheckSlot": false,
+                            "Slot": "PrimaryHand",
+                            "RangeType": "Melee",
+                            "Category": "Spike",
+                            "CheckOnCaster": true,
+                        },
+                        {
+                            "$type": "4a8280d06cf242c5947d12391323a65e, ContextConditionCharacterClass",
+                            "name": "$ContextConditionCharacterClass$7f22e8fb-0dc2-4dc6-a419-a1edf97e9714",
+                            "Not": false,
+                            "CheckCaster": false,
+                            "m_Class": "!bp_a406d6ebea5c46bba3160246be03e96f", // ShifterClass
+                            "MinLevel": 1,
+                        }
+                    ],
+                },
+            },
+        },
+    ],
+}
