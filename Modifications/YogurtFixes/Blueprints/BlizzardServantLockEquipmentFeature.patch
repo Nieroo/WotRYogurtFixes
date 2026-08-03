@@ -1,0 +1,61 @@
+{
+    "_#ArrayMergeSettings": "Union",
+    "Components": [
+        {
+            "$type": "537c8f834c094964db16dd2ba24fdb69, LockEquipmentSlot",
+            "m_Flags": 0,
+            "name": "$LockEquipmentSlot$22e62d92-336c-436e-9523-59f0ed48ac31",
+            "m_SlotType": "Weapon1",
+            "m_Deactivate": false,
+        },
+        {
+            "$type": "537c8f834c094964db16dd2ba24fdb69, LockEquipmentSlot",
+            "m_Flags": 0,
+            "name": "$LockEquipmentSlot$5521cc73-6933-49b2-ba1b-b0a524d06ea8",
+            "m_SlotType": "Weapon2",
+            "m_Deactivate": false,
+        },
+        {
+            "$type": "537c8f834c094964db16dd2ba24fdb69, LockEquipmentSlot",
+            "m_Flags": 0,
+            "name": "$LockEquipmentSlot$9b6b9869-2db3-4d05-86ed-d4a6c707ac39",
+            "m_SlotType": "Weapon3",
+            "m_Deactivate": false,
+        },
+        {
+            "$type": "537c8f834c094964db16dd2ba24fdb69, LockEquipmentSlot",
+            "m_Flags": 0,
+            "name": "$LockEquipmentSlot$8e74055f-03af-4b4c-b231-3c9cc22fe5c5",
+            "m_SlotType": "Weapon4",
+            "m_Deactivate": false,
+        },
+        {
+            "$type": "537c8f834c094964db16dd2ba24fdb69, LockEquipmentSlot",
+            "m_Flags": 0,
+            "name": "$LockEquipmentSlot$f5a75946-e413-42a5-a210-769aed687816",
+            "m_SlotType": "Weapon5",
+            "m_Deactivate": false,
+        },
+        {
+            "$type": "537c8f834c094964db16dd2ba24fdb69, LockEquipmentSlot",
+            "m_Flags": 0,
+            "name": "$LockEquipmentSlot$d1d4d6f2-b2ec-424a-896b-efecc6983343",
+            "m_SlotType": "Weapon6",
+            "m_Deactivate": false,
+        },
+        {
+            "$type": "537c8f834c094964db16dd2ba24fdb69, LockEquipmentSlot",
+            "m_Flags": 0,
+            "name": "$LockEquipmentSlot$c6399534-1c03-4aa1-a9ba-9c69b8ea2db3",
+            "m_SlotType": "Weapon7",
+            "m_Deactivate": false,
+        },
+        {
+            "$type": "537c8f834c094964db16dd2ba24fdb69, LockEquipmentSlot",
+            "m_Flags": 0,
+            "name": "$LockEquipmentSlot$ae10bb8a-33e3-4a83-b654-c2099befe73a",
+            "m_SlotType": "Weapon8",
+            "m_Deactivate": false,
+        },
+    ],
+}
