@@ -924,5 +924,9 @@
             "Key": "ee90e7dc-9187-4e99-8ee4-da70a2690d41",
             "Value": "Снежный слуга может превращаться в вихрь и обратно. Вихрь имеет диаметр 40 футов. Существо, находящееся в форме вихря, не может совершать свои обычные {g|Encyclopedia:Attack}атаки{/g} и не {g|Encyclopedia:Threatened_Area}контролирует пространство{/g} вокруг себя. Существа, оказавшиеся внутри вихря, получают {g|Encyclopedia:Penalty}штрафы{/g} –4 к {g|Encyclopedia:Dexterity}Ловкости{/g} и –2 к броскам на попадание. Чтобы сотворить {g|Encyclopedia:Spell}заклинание{/g}, они должны совершить успешную {g|Encyclopedia:Check}проверку{/g} {g|Encyclopedia:Concentration}концентрации{/g} ({g|Encyclopedia:DC}сложность{/g} = 15 + круг заклинания). Каждый {g|Encyclopedia:Combat_Round}раунд{/g} существо, находящееся внутри вихря, должно совершить успешный {g|Encyclopedia:Saving_Throw}спасбросок реакции{/g} (сложность = 10 + половина уровня снежного слуги + его модификатор {g|Encyclopedia:Strength}Силы{/g}) или получить {g|Encyclopedia:Damage_Type}дробящий{/g} {g|Encyclopedia:Damage}урон{/g}, как от атаки шипами снежного слуги."
         },
+        {
+            "Key": "c1cc91e2-7c0a-4a86-8b24-79cb6225df16",
+            "Value": "Боевая сноровка"
+        },
     ],
 }
