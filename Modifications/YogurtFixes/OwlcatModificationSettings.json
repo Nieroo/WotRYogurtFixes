@@ -256,6 +256,14 @@
         {
             "Guid": "ba0401fdeb4062f40a7aa95b6f07fe89",
             "Filename": "WizardSpellList.patch"
+        },
+        {
+            "Guid": "c43746bc20a151b4eaf1836cc6eb9a92",
+            "Filename": "AmberLoveRodToggleAbility.patch"
+        },
+        {
+            "Guid": "e89bc94ed3845d1489ba13dd0d651ff1",
+            "Filename": "AmberLustRodToggleAbility.patch"
         }
     ]
 }
