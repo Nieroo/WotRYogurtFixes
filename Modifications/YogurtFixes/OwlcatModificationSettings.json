@@ -252,6 +252,10 @@
         {
             "Guid": "287a354894264478b6190632380e85f4",
             "Filename": "BlizzardServantUnit.patch"
+        },
+        {
+            "Guid": "ba0401fdeb4062f40a7aa95b6f07fe89",
+            "Filename": "WizardSpellList.patch"
         }
     ]
 }
