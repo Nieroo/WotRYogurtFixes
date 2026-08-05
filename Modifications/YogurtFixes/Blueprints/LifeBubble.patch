@@ -1,0 +1,48 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "_#NullMergeSettings": "Merge",
+    "Components": [
+        {},
+        {
+            "Actions": {
+                "Actions": [
+                    {
+                        "DurationValue": {
+                            "BonusValue": {
+                                "Value": 3,
+                            },
+                        },
+                    },
+                ],
+            },
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "$type": "757439ef8cc900741bd9b57bf26eb500, AbilityTargetsAround",
+            "m_Flags": 0,
+            "name": "$AbilityTargetsAround$54d47476-f231-4c62-9335-6e4b9f4a27f6",
+            "m_Radius": {
+                "m_Value": 10.0,
+            },
+            "m_TargetType": "Ally",
+            "m_IncludeDead": false,
+            "m_Condition": {
+                "Operation": "And",
+                "Conditions": [],
+            },
+            "m_SpreadSpeed": {
+                "m_Value": 0.0,
+            },
+        },
+    ],
+    "Range": "Personal",
+    "Animation": "Omni",
+    "LocalizedDuration": {
+        "m_Key": "fe244f4e-f3b3-4484-85a5-5eb12a69a694",
+        "Shared": null,
+    },
+}

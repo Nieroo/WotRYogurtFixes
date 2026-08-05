@@ -264,6 +264,10 @@
         {
             "Guid": "e89bc94ed3845d1489ba13dd0d651ff1",
             "Filename": "AmberLustRodToggleAbility.patch"
+        },
+        {
+            "Guid": "265582bc494c4b12b5860b508a2f89a2",
+            "Filename": "LifeBubble.patch"
         }
     ]
 }
