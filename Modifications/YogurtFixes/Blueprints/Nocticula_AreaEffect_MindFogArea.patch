@@ -1,0 +1,55 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "UnitEnter": {
+                "Actions": [
+                    {
+                        "Actions": {
+                            "Actions": [
+                                {
+                                    "Failed": {
+                                        "Actions": [
+                                            {
+                                                "ConditionsChecker": {
+                                                    "Conditions": [
+                                                        {},
+                                                        {
+                                                            "$type": "72a5648a7abcbd748b5d2a601acb616d, ContextConditionHasBuff",
+                                                            "name": "$ContextConditionHasBuff$ef3dc48b-5b91-4c01-8365-a5f963006913",
+                                                            "Not": true,
+                                                            "m_Buff": "!bp_4aa87d3319124a2daf74d80ca5d4595e", // LifeBubbleBuff
+                                                        },
+                                                    ],
+                                                },
+                                            },
+                                        ],
+                                    },
+                                },
+                            ],
+                        },
+                    },
+                ],
+            },
+            "UnitExit": {
+                "Actions": [
+                    {},
+                    {},
+                    {
+                        "ConditionsChecker": {
+                            "Conditions": [
+                                {},
+                                {
+                                    "$type": "72a5648a7abcbd748b5d2a601acb616d, ContextConditionHasBuff",
+                                    "name": "$ContextConditionHasBuff$9438092f-17ed-4eb4-bfad-18f7076147b7",
+                                    "Not": true,
+                                    "m_Buff": "!bp_4aa87d3319124a2daf74d80ca5d4595e", // LifeBubbleBuff
+                                },
+                            ],
+                        },
+                    },
+                ],
+            },
+        },
+    ],
+}

@@ -1,0 +1,25 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Round": {
+                "Actions": [
+                    {
+                        "ConditionsChecker": {
+                            "Operation": "Or",
+                            "Conditions": [
+                                {},
+                                {
+                                    "$type": "72a5648a7abcbd748b5d2a601acb616d, ContextConditionHasBuff",
+                                    "name": "$ContextConditionHasBuff$3f0fa88c-6a6f-48b4-89a2-cee2181706c9",
+                                    "Not": false,
+                                    "m_Buff": "!bp_4aa87d3319124a2daf74d80ca5d4595e", // LifeBubbleBuff
+                                },
+                            ],
+                        },
+                    },
+                ],
+            },
+        },
+    ],
+}

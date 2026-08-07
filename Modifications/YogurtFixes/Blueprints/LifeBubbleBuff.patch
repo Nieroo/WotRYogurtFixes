@@ -1,0 +1,70 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "_#NullMergeSettings": "Merge",
+    "Components": [
+        {
+            "m_Exceptions": [
+                //"!bp_68a9e6d7256f1354289a39003a46d826", // StinkingCloud
+                //"!bp_548d339ba87ee56459c98e80167bdf10", // Cloudkill
+                //"!bp_eabf94e4edc6e714cabd96aa69f8b207", // MindFog
+                "!bp_61e1b3fdf86a87844b053eb9c4ab9bde", // GoldGolemDeathThroes
+                //"!bp_82a5b848c05e3f342b893dedb1f9b446", // PlagueStorm
+                //"!bp_dbf99b00cd35d0a4491c6cc9e771b487", // AcidFog
+                "!bp_b5be90707c17a9643b90d90b7c4096e2", // PoisonBreath
+            ],
+        },
+        {
+            "m_CheckCasterFact": false,
+        },
+        {
+            "m_CheckCasterFact": false,
+        },
+        {},
+        {
+            //"m_Buff": "!bp_af76754540cacca45bfb1f0074bf3013", // AcidFogBuff
+            "m_Buff": null,
+        },
+        {
+            //"m_Buff": "!bp_0dbe7d2ebb1e4057827597b350d16e4e", // CloakofDreamsEffectBuff_Carrok
+        },
+        {
+            //"m_Buff": "!bp_ca99511dcb234b6d898604d75146d9a9", // AcidGasBuff
+        },
+        {
+            "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
+            "m_Flags": 0,
+            "name": "$SpecificBuffImmunity$61d1b93e-fdfe-4bba-be27-4443e0e74764",
+            "Alignment": "None",
+            "m_Buff": "!bp_5a943abc9d22d074f9bf4b1f2a447002", // MindFogAfterBuff
+            "m_CheckCasterFact": false,
+            "m_FactToCheck": null,
+        },
+        {
+            "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
+            "m_Flags": 0,
+            "name": "$SpecificBuffImmunity$63d00536-854f-4423-9e13-5e8e9564ad04",
+            "Alignment": "None",
+            "m_Buff": "!bp_fa039d873ee3f3e42abaf19877abaae1", // StinkingCloudAfterBuff
+            "m_CheckCasterFact": false,
+            "m_FactToCheck": null,
+        },
+        {
+            "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
+            "m_Flags": 0,
+            "name": "$SpecificBuffImmunity$a20f9a48-a568-407f-a1f5-b6992a737395",
+            "Alignment": "None",
+            "m_Buff": "!bp_68eb89c7d1264575ba61cf333169c846", // StinkingCloudUnstoppableBuff
+            "m_CheckCasterFact": false,
+            "m_FactToCheck": null,
+        },
+        {
+            "$type": "a672a3cd16b6adb46824a887253d88c5, SpecificBuffImmunity",
+            "m_Flags": 0,
+            "name": "$SpecificBuffImmunity$b1b66609-a60c-43a2-ad9d-aca0bb516565",
+            "Alignment": "None",
+            "m_Buff": "!bp_556a157ae4bc45cbbdd92b254fec6fd0", // StinkingCloudUnstoppableAfterBuff
+            "m_CheckCasterFact": false,
+            "m_FactToCheck": null,
+        },
+    ],
+}

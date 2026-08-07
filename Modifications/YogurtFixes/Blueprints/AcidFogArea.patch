@@ -1,0 +1,123 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "_#NullMergeSettings": "Merge",
+    "Components": [
+        {
+            "Round": {
+                "Actions": [
+                    {
+                        "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+                        "name": "$Conditional$bd129d9d-a43d-4516-817e-aa36908f8456",
+                        "Comment": "",
+                        "ConditionsChecker": {
+                            "Operation": "And",
+                            "Conditions": [
+                                {
+                                    "$type": "72a5648a7abcbd748b5d2a601acb616d, ContextConditionHasBuff",
+                                    "name": "$ContextConditionHasBuff$2fe47ac9-0c66-4e4b-8ad6-0c6911fadc62",
+                                    "Not": true,
+                                    "m_Buff": "!bp_4aa87d3319124a2daf74d80ca5d4595e", // LifeBubbleBuff
+                                },
+                            ],
+                        },
+                        "IfTrue": {
+                            "Actions": [
+                                {
+                                    "$type": "bdc93cbacbdc05843a933659f15c1302, ContextActionDealDamage",
+                                    "name": "$ContextActionDealDamage$59b194f4-a4a6-42ee-8f07-480385ab2b9a",
+                                    "m_Type": "Damage",
+                                    "DamageType": {
+                                        "Type": "Energy",
+                                        "Common": {
+                                            "Reality": 0,
+                                            "Alignment": 0,
+                                            "Precision": false,
+                                        },
+                                        "Physical": {
+                                            "Material": 0,
+                                            "Form": "Slashing",
+                                            "Enhancement": 0,
+                                            "EnhancementTotal": 0,
+                                        },
+                                        "Energy": "Acid",
+                                    },
+                                    "Drain": false,
+                                    "AbilityType": "Unknown",
+                                    "EnergyDrainType": "Temporary",
+                                    "Duration": {
+                                        "Rate": "Rounds",
+                                        "DiceType": "Zero",
+                                        "DiceCountValue": {
+                                            "ValueType": "Simple",
+                                            "Value": 0,
+                                            "ValueRank": "Default",
+                                            "ValueShared": "Damage",
+                                            "Property": "None",
+                                            "m_CustomProperty": null,
+                                        },
+                                        "BonusValue": {
+                                            "ValueType": "Simple",
+                                            "Value": 0,
+                                            "ValueRank": "Default",
+                                            "ValueShared": "Damage",
+                                            "Property": "None",
+                                            "m_CustomProperty": null,
+                                        },
+                                        "m_IsExtendable": true,
+                                    },
+                                    "ReadPreRolledFromSharedValue": false,
+                                    "PreRolledSharedValue": "Damage",
+                                    "Value": {
+                                        "DiceType": "D6",
+                                        "DiceCountValue": {
+                                            "ValueType": "Simple",
+                                            "Value": 2,
+                                            "ValueRank": "Default",
+                                            "ValueShared": "Damage",
+                                            "Property": "None",
+                                            "m_CustomProperty": null,
+                                        },
+                                        "BonusValue": {
+                                            "ValueType": "Simple",
+                                            "Value": 0,
+                                            "ValueRank": "Default",
+                                            "ValueShared": "Damage",
+                                            "Property": "None",
+                                            "m_CustomProperty": null,
+                                        },
+                                    },
+                                    "Half": false,
+                                    "AlreadyHalved": false,
+                                    "IsAoE": false,
+                                    "HalfIfSaved": false,
+                                    "IgnoreCritical": false,
+                                    "UseMinHPAfterDamage": false,
+                                    "MinHPAfterDamage": 0,
+                                    "WriteResultToSharedValue": false,
+                                    "WriteRawResultToSharedValue": false,
+                                    "ResultSharedValue": "Damage",
+                                    "WriteCriticalToSharedValue": false,
+                                    "CriticalSharedValue": "Damage",
+                                    "SetFactAsReason": false,
+                                },
+                            ],
+                        },
+                        "IfFalse": {
+                            "Actions": [],
+                        },
+                    },
+                ],
+            },
+        },
+        {},
+        {
+            "Condition": {
+                "Conditions": [
+                    {
+                        "m_Fact": null,
+                    },
+                ],
+            },
+        },
+    ],
+}

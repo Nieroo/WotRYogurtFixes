@@ -268,6 +268,26 @@
         {
             "Guid": "265582bc494c4b12b5860b508a2f89a2",
             "Filename": "LifeBubble.patch"
+        },
+        {
+            "Guid": "4aa87d3319124a2daf74d80ca5d4595e",
+            "Filename": "LifeBubbleBuff.patch"
+        },
+        {
+            "Guid": "44a3273fb02747cd9f8d6d5b4fcd5a94",
+            "Filename": "Nocticula_AreaEffect_MindFogArea.patch"
+        },
+        {
+            "Guid": "6c116b31887c6284fbd41c070f6422f6",
+            "Filename": "CloakofDreamsArea.patch"
+        },
+        {
+            "Guid": "053c8fd966bbcb94bb8db6582d990650",
+            "Filename": "TricksterHallucinogenicCloudArea.patch"
+        },
+        {
+            "Guid": "f4dc3f53090627945b83f16ebf3146a6",
+            "Filename": "AcidFogArea.patch"
         }
     ]
 }
