@@ -61,5 +61,73 @@
             "Key": "02c148dc-edf4-4088-a93e-aeebb63974e7",
             "Value": "You surround your allies with a constant and moveable 1 inch thick shell of tolerable living conditions. This shell enables the subjects to breathe freely, even underwater or in a vacuum, as well as making them immune to harmful gases and vapors, including inhaled diseases and poisons and {g|Encyclopedia:Spell}spells{/g} like {g|SpellsCloudkill}cloudkill{/g} and {g|SpellsStinkingCloud}stinking cloud{/g}."
         },
+        {
+            "Key": "MonsterMythicFeature1_NAME",
+            "Value": "Mythic creature I"
+        },
+        {
+            "Key": "MonsterMythicFeature1_DESC",
+            "Value": "This mythic creature gains:\n- additional {g|Encyclopedia:HP}hit points{/g} equal to 2 * Challenge Rating * mythic level;\n- a mythic {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Attack}attack rolls{/g}, {g|Encyclopedia:Armor_Class}armor class{/g}, and {g|Encyclopedia:Skills}skills{/g} equal to its mythic level;\n- a mythic bonus to {g|Encyclopedia:Saving_Throw}saving throws{/g}, {g|Encyclopedia:DC}DCs{/g} of {g|Encyclopedia:Spell}spells{/g}, and {g|Encyclopedia:Caster_Level}caster level{/g} equal to half its mythic level;\n- an additional attack at full {g|Encyclopedia:BAB}BAB{/g};\n- the power to use abilities and spells as a {g|Encyclopedia:Move_Action}move action{/g} instead of a {g|Encyclopedia:Standard_Actions}standard action{/g}."
+        },
+        {
+            "Key": "MonsterMythicFeature3_NAME",
+            "Value": "Mythic creature II"
+        },
+        {
+            "Key": "MonsterMythicFeature3_DESC",
+            "Value": "This mythic creature ignores any immunities its enemies have, deals additional sacred {g|Encyclopedia:Damage}damage{/g} equal to half its normal damage, and when making a d20 roll against the target's {g|Encyclopedia:Spell_Resistance}spell resistance{/g}, it rolls the {g|Encyclopedia:Dice}die{/g} again and takes the better result."
+        },
+        {
+            "Key": "MonsterMythicFeature5Bad_NAME",
+            "Value": "Distorted mythic creature I"
+        },
+        {
+            "Key": "MonsterMythicFeature5Bad_DESC",
+            "Value": "If this mythic creature's {g|Encyclopedia:HP}hit points{/g} become negative, one of its {g|Encyclopedia:Ability_Scores}ability scores{/g} drops to 0 or lower, or it suffers an effect that causes instant {g|Encyclopedia:Injury_Death}death{/g}, it does not die. Instead, it falls unconscious, becomes {g|ConditionProne}prone{/g}, fully restores its hit points after 1 round, then stands up under the effects of the {g|SpellsHaste}Haste{/g} spell and the Mythic Overcharge condition. It can no longer cast {g|Encyclopedia:Spell}spells{/g} or use {g|Encyclopedia:Special_Abilities}extraordinary and supernatural abilities{/g}. While the creature is unconscious and has not restored its hit points, it cannot be targeted by any effect. If any of its ability scores were 0 or lower before it fell unconscious, they become 1. The creature continues to suffer from all other negative effects.\nOnce a mythic creature benefits from this ability, it can no longer use it again. This ability does not protect the creature from instant death caused by level drain.\n<b>Mythic Overcharge</b>: This mythic creature deals direct {g|Encyclopedia:Damage}damage{/g} to itself each round equal to its Challenge Rating."
+        },
+        {
+            "Key": "MonsterMythicFeature6Bad_NAME",
+            "Value": "Distorted mythic creature II"
+        },
+        {
+            "Key": "MonsterMythicFeature6Bad_DESC",
+            "Value": "If this mythic creature has benefited from the \"Distorted mythic creature I\" ability, it can continue to cast {g|Encyclopedia:Spell}spells{/g} and use {g|Encyclopedia:Special_Abilities}extraordinary and supernatural abilities{/g}. It also gains {g|Encyclopedia:Energy_Resistance}resistance{/g} to fire, cold, sonic, electricity, acid, negative energy, and positive energy, as well as {g|Encyclopedia:Damage_Reduction}damage reduction{/g} N/-, equal to half its Challenge Rating."
+        },
+        {
+            "Key": "MonsterMythicFeature5Good_NAME",
+            "Value": "Mythic creature III"
+        },
+        {
+            "Key": "MonsterMythicFeature5Good_DESC",
+            "Value": "This mythic creature can use the Demonic Rage ability of the Demon mythic path at will, using its mythic level as its effective Demon level.\n<b>Demonic Rage</b>: The power of the Abyss courses through the Demon, waiting to be unleashed. The Demon can enter a demonic rage as a {g|Encyclopedia:Free_Action}free action{/g}. The demonic rage lasts until the end of combat. While in a demonic rage, the Demon gains a +2 {g|Encyclopedia:Bonus}bonus{/g} on {g|Encyclopedia:Attack}attack rolls{/g}, {g|Encyclopedia:Damage}damage rolls{/g}, {g|Encyclopedia:Caster_Level}caster level{/g} {g|Encyclopedia:Check}checks{/g}, and {g|Encyclopedia:Saving_Throw}Reflex saving throws{/g}. The {g|Encyclopedia:DC}DCs{/g} for all saving throws against the Demon's {g|Encyclopedia:Spell}spells{/g} and abilities are increased by 2. These benefits increase by 1 at 6th and 9th mythic ranks.\nYou can use demonic rage 3 times per day. The number of uses increases by 1 at 6th and 9th mythic ranks."
+        },
+        {
+            "Key": "MonsterMythicFeature6Good_NAME",
+            "Value": "Mythic creature IV"
+        },
+        {
+            "Key": "MonsterMythicFeature6Good_DESC",
+            "Value": "This mythic creature gains a {g|Encyclopedia:Fast_Healing}fast healing{/g} ability equal to its Challenge Rating."
+        },
+        {
+            "Key": "MonsterMythic5DamageBadBuff_NAME",
+            "Value": "Mythic Overcharge"
+        },
+        {
+            "Key": "MonsterMythic5DamageBadBuff_DESC",
+            "Value": "This mythic creature deals direct {g|Encyclopedia:Damage}damage{/g} to itself each round equal to its Challenge Rating."
+        },
+        {
+            "Key": "MOnsterMythicChangeMythicToWorseEffectBuff_NAME",
+            "Value": "Mythic distortion"
+        },
+        {
+            "Key": "MOnsterMythicChangeMythicToWorseEffectBuff_DESC",
+            "Value": "This mythic creature has become distorted and can no longer benefit from the mythic powers \"Mythic creature III\" and \"Mythic creature IV\", but gains the mythic power \"Distorted mythic creature I\"."
+        },
+        {
+            "Key": "122da963-7ed6-44a2-b8e5-6afa1ca5dd47",
+            "Value": "By taking a {g|Encyclopedia:Standard_Actions}standard action{/g}, the Aeon can attempt to suppress the effects of the mythic powers (Mythic creature I, Mythic creature II, and Distorted mythic creature I) of its enemies. This ability only affects mythic creatures. A creature can resist the ability by succeeding at a {g|Encyclopedia:Saving_Throw}Will save{/g} ({g|Encyclopedia:DC}DC{/g} 10 + mythic level + the Aeon's {g|Encyclopedia:Intelligence}Intelligence{/g}, {g|Encyclopedia:Wisdom}Wisdom{/g}, or  {g|Encyclopedia:Charisma}Charisma{/g} modifier (whichever is higher), but not less than 10 + 2 * mythic level). The DC is 4 lower for non-distorted mythic creatures.\nStarting at 7th mythic level, distorted mythic creatures can no longer get a saving throw to resist the effect, and non-distorted mythic creatures no longer have a lower saving throw DC.\nStarting at 9th mythic level, mythic creatures can't save against this ability."
+        },
     ],
 }

@@ -1,0 +1,24 @@
+{
+    "Components": [
+        {
+            "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+            "name": "$AddFacts$26eb5d56-5c83-46e7-a7a2-49c2a83f8c41",
+            "m_Facts": [
+                "!bp_ef8bc28e13554269be8c3180850ad083", // custom (MonsterMythicFeature6BadBuff.jbp)
+            ],
+            "Dummy": null,
+            "CasterLevel": 0,
+            "DoNotRestoreMissingFacts": false,
+            "HasDifficultyRequirements": false,
+            "InvertDifficultyRequirements": false,
+            "MinDifficulty": "Story",
+        },
+    ],
+    "m_DisplayName": {
+        "m_Key": "MonsterMythicFeature6Bad_NAME",
+    },
+    "m_Description": {
+        "m_Key": "MonsterMythicFeature6Bad_DESC",
+    },
+    //"HideInUI": false,
+}

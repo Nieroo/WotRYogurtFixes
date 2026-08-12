@@ -288,6 +288,58 @@
         {
             "Guid": "f4dc3f53090627945b83f16ebf3146a6",
             "Filename": "AcidFogArea.patch"
+        },
+        {
+            "Guid": "a4757e20dcdf7184ea8faab08199d035",
+            "Filename": "MonsterMythicFeature1.patch"
+        },
+        {
+            "Guid": "f28037f6dd9ac2d45b538011133cdc9c",
+            "Filename": "MonsterMythicFeature1Buff.patch"
+        },
+        {
+            "Guid": "6db3a6e3688c45648823cef4b1a8842e",
+            "Filename": "MonsterMythicFeature3.patch"
+        },
+        {
+            "Guid": "79a3521cf41948f41ba61a0db80b80c8",
+            "Filename": "MonsterMythicFeature3Buff.patch"
+        },
+        {
+            "Guid": "c0a72dac23b1db44ba5209ea4a1fed4a",
+            "Filename": "MonsterMythicFeature5Bad.patch"
+        },
+        {
+            "Guid": "a668bbad55c0945478fcc62c4f079510",
+            "Filename": "MonsterMythic5HealthTriggerBadBuff.patch"
+        },
+        {
+            "Guid": "812313d2e887ec14aa3c005e36222b6c",
+            "Filename": "MonsterMythicFeature6Bad.patch"
+        },
+        {
+            "Guid": "6cffff648848dc04d9a6beda07498a7d",
+            "Filename": "MonsterMythic5DamageBadBuff.patch"
+        },
+        {
+            "Guid": "3e388993e04288443a090544f435767a",
+            "Filename": "MonsterMythicFeature5Good.patch"
+        },
+        {
+            "Guid": "e503ed9a53f04ceebdf8896ec02bbefb",
+            "Filename": "MonsterMythicFeature5GoodBuff.patch"
+        },
+        {
+            "Guid": "43f092706fb5e5248a7ce8c7353dd2e7",
+            "Filename": "MonsterMythicFeature6Good.patch"
+        },
+        {
+            "Guid": "46ec10f8db674998a0dd7a9b96cdd2f3",
+            "Filename": "MonsterMythicFeature6GoodBuff.patch"
+        },
+        {
+            "Guid": "12c9b398a829429896414de815c731c4",
+            "Filename": "MOnsterMythicChangeMythicToWorseEffectBuff.patch"
         }
     ]
 }

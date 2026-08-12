@@ -1,0 +1,12 @@
+{
+    "m_DisplayName": {
+        "m_Key": "MonsterMythic5DamageBadBuff_NAME",
+        "m_OwnerString": "",
+        "m_OwnerPropertyPath": "",
+        "m_JsonPath": "",
+    },
+    "m_Description": {
+        "m_Key": "MonsterMythic5DamageBadBuff_DESC",
+    },
+    "m_Flags": "",
+}

@@ -1,0 +1,9 @@
+{
+    "m_DisplayName": {
+        "m_Key": "MOnsterMythicChangeMythicToWorseEffectBuff_NAME",
+    },
+    "m_Description": {
+        "m_Key": "MOnsterMythicChangeMythicToWorseEffectBuff_DESC",
+    },
+    "m_Flags": "StayOnDeath",
+}
