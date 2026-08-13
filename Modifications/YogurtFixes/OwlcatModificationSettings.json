@@ -340,6 +340,10 @@
         {
             "Guid": "12c9b398a829429896414de815c731c4",
             "Filename": "MOnsterMythicChangeMythicToWorseEffectBuff.patch"
+        },
+        {
+            "Guid": "1b677ed598d47a048a0f6b4b671b8f84",
+            "Filename": "DemonChargeMainAbility.patch"
         }
     ]
 }
