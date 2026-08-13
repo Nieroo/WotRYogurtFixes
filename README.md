@@ -12,12 +12,20 @@
 
 ## Установка (для Windows)
 
+### Вручную
+
 1. Со страницы [релизов](https://github.com/Nieroo/WotRYogurtFixes/releases) скачайте архив с последней версией мода.
 2. Перейдите в папку `%localappdata%low\Owlcat Games\Pathfinder Wrath Of The Righteous` (далее — папка игры).
 3. Распакуйте из архива папку `Modifications` в папку игры.
 4. Если в папке игры нет файла `OwlcatModificationManagerSettings.json`, то извлеките его в папку игры из архива.
 5. Если в папке игры уже есть файл `OwlcatModificationManagerSettings.json`, то отредактируйте его: найдите массив `EnabledModifications` (или создайте на верхнем уровне, если его нет) и добавьте в него значение `YogurtFixes`.
 6. Если мод установлен правильно, то в игре при нажатии `Ctrl+M` в окне OMM можно увидеть название мода
+
+### Через утилиту ModFinder (рекомендуется)
+
+1. Скачайте и установите утилиту [ModFinder](https://github.com/Pathfinder-WOTR-Modding-Community/ModFinder)
+2. Запустите ModFinder
+3. Найдите в списке модов мод `YogurtFixes` и установите его
 
 ## Список изменений
 
