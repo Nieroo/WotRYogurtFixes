@@ -28,7 +28,7 @@
         },
         "m_Icon": null,
         "IsClassFeature": false,
-        "m_Flags": "",
+        "m_Flags": 0,
         "Stacking": "Replace",
         "Ranks": 0,
         "TickEachSecond": false,
