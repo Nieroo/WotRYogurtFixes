@@ -344,6 +344,10 @@
         {
             "Guid": "1b677ed598d47a048a0f6b4b671b8f84",
             "Filename": "DemonChargeMainAbility.patch"
+        },
+        {
+            "Guid": "3a922e3348769bd479ba534195790bcd",
+            "Filename": "MythicSelfHarmAbility.patch"
         }
     ]
 }
