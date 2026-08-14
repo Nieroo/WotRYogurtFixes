@@ -468,6 +468,10 @@
         {
             "Guid": "9fb43ef1973a406e83b4acea3dfabefe",
             "Filename": "ScrollOfResourcefulSmiteFeature.patch"
+        },
+        {
+            "Guid": "c09d87fb8a5742499d6b820a0e700504",
+            "Filename": "AllIsDarknessSmiteEvilBuff.patch"
         }
     ]
 }

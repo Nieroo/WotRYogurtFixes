@@ -1,0 +1,120 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "Activated": {
+                "Actions": [
+                    {
+                        "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+                        "name": "$Conditional$80af6b8f-9587-424d-b02f-c3a3d4a59aed",
+                        "Comment": "",
+                        "ConditionsChecker": {
+                            "Operation": "And",
+                            "Conditions": [
+                                {
+                                    "$type": "43f75bd73450e1f4aa1f6163f51956e3, ContextConditionCasterHasFact",
+                                    "name": "$ContextConditionCasterHasFact$bfbbae66-73ed-4c13-bfff-57e673c86633",
+                                    "Not": false,
+                                    "m_Fact": "!bp_36389cd62240b724f855920e2286d457", // Scabbard_ArodensWrathFeature
+                                },
+                            ],
+                        },
+                        "IfTrue": {
+                            "Actions": [
+                                {
+                                    "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                                    "name": "$ContextActionApplyBuff$727ffa74-2b24-4d99-b815-3c3148249421",
+                                    "m_Buff": "!bp_0e87200e60d241aabad58b87ec5aafdc", // custom (AllIsDarknessSmiteBuff_Scabbard.jbp)
+                                    "Permanent": false,
+                                    "UseDurationSeconds": false,
+                                    "DurationValue": {
+                                        "Rate": "Rounds",
+                                        "DiceType": "Zero",
+                                        "DiceCountValue": {
+                                            "ValueType": "Simple",
+                                            "Value": 0,
+                                            "ValueRank": "Default",
+                                            "ValueShared": "Damage",
+                                            "Property": "None",
+                                            "m_CustomProperty": null,
+                                            "m_AbilityParameter": "Level",
+                                        },
+                                        "BonusValue": {
+                                            "ValueType": "Simple",
+                                            "Value": 0,
+                                            "ValueRank": "Default",
+                                            "ValueShared": "Damage",
+                                            "Property": "None",
+                                            "m_CustomProperty": null,
+                                            "m_AbilityParameter": "Level",
+                                        },
+                                        "m_IsExtendable": true,
+                                    },
+                                    "DurationSeconds": 0.0,
+                                    "IsFromSpell": false,
+                                    "IsNotDispelable": false,
+                                    "ToCaster": false,
+                                    "AsChild": true,
+                                    "SameDuration": true,
+                                    "NotLinkToAreaEffect": false,
+                                    "IgnoreParentContext": false,
+                                },
+                            ],
+                        },
+                        "IfFalse": {
+                            "Actions": [
+                                {
+                                    "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                                    "name": "$ContextActionApplyBuff$5bf44484-d346-4d4e-b240-735e72f4fbcf",
+                                    "m_Buff": "!bp_3ee42d04faf9477bb7765c3fcb7f7a27", // AllIsDarknessSmiteBuff_NoScabbard
+                                    "Permanent": false,
+                                    "UseDurationSeconds": false,
+                                    "DurationValue": {
+                                        "Rate": "Rounds",
+                                        "DiceType": "Zero",
+                                        "DiceCountValue": {
+                                            "ValueType": "Simple",
+                                            "Value": 0,
+                                            "ValueRank": "Default",
+                                            "ValueShared": "Damage",
+                                            "Property": "None",
+                                            "m_CustomProperty": null,
+                                            "m_AbilityParameter": "Level",
+                                        },
+                                        "BonusValue": {
+                                            "ValueType": "Simple",
+                                            "Value": 0,
+                                            "ValueRank": "Default",
+                                            "ValueShared": "Damage",
+                                            "Property": "None",
+                                            "m_CustomProperty": null,
+                                            "m_AbilityParameter": "Level",
+                                        },
+                                        "m_IsExtendable": true,
+                                    },
+                                    "DurationSeconds": 0.0,
+                                    "IsFromSpell": false,
+                                    "IsNotDispelable": false,
+                                    "ToCaster": false,
+                                    "AsChild": true,
+                                    "SameDuration": true,
+                                    "NotLinkToAreaEffect": false,
+                                    "IgnoreParentContext": false,
+                                },
+                            ],
+                        },
+                    },
+                ],
+            },
+        },
+        {},
+        {},
+        {},
+        {},
+    ],
+}
