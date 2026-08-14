@@ -448,6 +448,10 @@
         {
             "Guid": "f78a249bacba9924b9595e52495cb02f",
             "Filename": "CraneStyleWingBuff.patch"
+        },
+        {
+            "Guid": "2936d727551c4e8796dc18f717e9bf07",
+            "Filename": "SecondChanceProgression.patch"
         }
     ]
 }
