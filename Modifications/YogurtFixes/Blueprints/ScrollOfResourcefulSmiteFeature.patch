@@ -1,0 +1,12 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {
+            "$type": "f2efec85de75f5e4894158b16f8441ec, IncreaseResourceAmount",
+            "name": "$IncreaseResourceAmount$16a67b36-32d7-46d1-ba71-6b6a0f1889d5",
+            "m_Resource": "!bp_7b5115b376fd4987b2c070da20ba91ea", // AllIsDarknessResource
+            "Value": 1,
+        },
+    ],
+}

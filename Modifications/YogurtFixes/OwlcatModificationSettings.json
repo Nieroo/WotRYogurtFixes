@@ -460,6 +460,14 @@
         {
             "Guid": "7e5b63faeca24474db0bfd019167dda4",
             "Filename": "AbundantSmite.patch"
+        },
+        {
+            "Guid": "9865ab29b25b69246a4e5a7edc040ec9",
+            "Filename": "PaladinsRingFeature.patch"
+        },
+        {
+            "Guid": "9fb43ef1973a406e83b4acea3dfabefe",
+            "Filename": "ScrollOfResourcefulSmiteFeature.patch"
         }
     ]
 }
