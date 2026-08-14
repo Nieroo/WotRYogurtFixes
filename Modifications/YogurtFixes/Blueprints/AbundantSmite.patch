@@ -1,0 +1,34 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {
+            "Group": "Any",
+        },
+        {
+            "$type": "6569de6749ae3b749883f9fedbd76ac7, IncreaseResourceAmountBySharedValue",
+            "m_Flags": 0,
+            "name": "$IncreaseResourceAmountBySharedValue$92c46c68-3ecc-495d-a540-c61e369b9c8e",
+            "m_Resource": "!bp_7b5115b376fd4987b2c070da20ba91ea", // AllIsDarknessResource
+            "Value": {
+                "ValueType": "Rank",
+                "Value": 0,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "None",
+                "m_CustomProperty": null,
+            },
+            "Decrease": false,
+        },
+        {
+            "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+            "m_Flags": 0,
+            "name": "$PrerequisiteFeature$489e4a50-cb8a-464e-a2c9-91784d4aba84",
+            "Group": "Any",
+            "CheckInProgression": false,
+            "HideInUI": false,
+            "m_Feature": "!bp_2ddbfce6b2844c60bb28ecf33923d2a2", // TorturedCrusaderAllIsDarknessFeature
+        },
+    ],
+}

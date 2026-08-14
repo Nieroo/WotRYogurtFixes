@@ -456,6 +456,10 @@
         {
             "Guid": "2e6eaaf0855a46c5abb22c050063dd57",
             "Filename": "FinalJusticeAbilityBuff.patch"
+        },
+        {
+            "Guid": "7e5b63faeca24474db0bfd019167dda4",
+            "Filename": "AbundantSmite.patch"
         }
     ]
 }
