@@ -1,0 +1,27 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "_#NullMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "Activated": {
+                "Actions": [
+                    {},
+                    {
+                        //"m_Buff": "!bp_3ee42d04faf9477bb7765c3fcb7f7a27", // AllIsDarknessSmiteBuff_NoScabbard
+                        "m_Buff": null,
+                    },
+                ],
+            },
+        },
+    ],
+}

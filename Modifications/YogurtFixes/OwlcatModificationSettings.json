@@ -452,6 +452,10 @@
         {
             "Guid": "2936d727551c4e8796dc18f717e9bf07",
             "Filename": "SecondChanceProgression.patch"
+        },
+        {
+            "Guid": "2e6eaaf0855a46c5abb22c050063dd57",
+            "Filename": "FinalJusticeAbilityBuff.patch"
         }
     ]
 }
