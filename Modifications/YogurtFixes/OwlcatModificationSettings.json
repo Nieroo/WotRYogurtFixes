@@ -444,6 +444,10 @@
         {
             "Guid": "43b7315eb58242943848750af3671a25",
             "Filename": "BackgroundMercenary.patch"
+        },
+        {
+            "Guid": "f78a249bacba9924b9595e52495cb02f",
+            "Filename": "CraneStyleWingBuff.patch"
         }
     ]
 }
