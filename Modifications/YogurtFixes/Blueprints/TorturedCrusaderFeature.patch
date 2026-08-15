@@ -1,0 +1,13 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {
+            //"m_Resource": "!bp_9dedf41d995ff4446a181f143c3db98c", // LayOnHandsResource
+            "m_Resource": "!bp_ee2040db5d9b412094b5c3120ef38292", // LayOnHandsResourceTorturedCrusader
+        },
+        {},
+        {},
+        {},
+    ],
+}

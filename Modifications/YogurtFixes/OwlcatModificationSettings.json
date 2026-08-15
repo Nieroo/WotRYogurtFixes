@@ -480,6 +480,30 @@
         {
             "Guid": "d29df27d8a2f2f040b86fd5a079582c6",
             "Filename": "AuraOfGreaterCourageEffectBuff.patch"
+        },
+        {
+            "Guid": "42b00dea1ecd43d9ab3b975ce8b845cc",
+            "Filename": "TorturedCrusaderFeature.patch"
+        },
+        {
+            "Guid": "544546d914e64c609a0c03735a123b5c",
+            "Filename": "TorturedCrusaderSecondChanceLayHandsSelf.patch"
+        },
+        {
+            "Guid": "180568e019c744e2969081e474c4402d",
+            "Filename": "TorturedCrusaderSecondChanceLayHandsSelf8lvl.patch"
+        },
+        {
+            "Guid": "ecbfbffc97544ef1892e37514ec6643f",
+            "Filename": "AloneInTheDarkFeatureDescription.patch"
+        },
+        {
+            "Guid": "2ddbfce6b2844c60bb28ecf33923d2a2",
+            "Filename": "TorturedCrusaderAllIsDarknessFeature.patch"
+        },
+        {
+            "Guid": "0e4687883dd0431bb8328662d8553b8e",
+            "Filename": "AloneInTheDarkSmite4thlevel.patch"
         }
     ]
 }

@@ -293,5 +293,25 @@
             "Key": "373e25c4-1810-4eb5-9247-d60f7c3fb036",
             "Value": "When you cast this {g|Encyclopedia:Spell}spell{/g} you strengthen your paladin's aura of courage. Until the end of its duration, all allies within 10 feet of you are immune to fear (magical or otherwise). If you do not have the aura of courage class feature, aura of greater courage has no effect."
         },
+        {
+            "Key": "TorturedCrusaderSecondChanceLayHandsSelf8lvl_DESC",
+            "Value": "A tortured crusader can {g|Encyclopedia:Healing}heal{/g} her wounds as a {g|Encyclopedia:Swift_Action}swift action{/g}. With one use of this ability, a tortured crusader can heal {g|Encyclopedia:Dice}1d8{/g} {g|Encyclopedia:HP}hit points{/g} of {g|Encyclopedia:Damage}damage{/g} for every two paladin levels she possesses."
+        },
+        {
+            "Key": "6fac3fd5-3220-4bbf-848f-60087933088a",
+            "Value": "A tortured crusader can call out to the powers of good to aid her in her struggle against evil. As a {g|Encyclopedia:Swift_Action}swift action{/g}, the tortured crusader chooses one target within sight to smite. The tortured crusader adds half her {g|Encyclopedia:Wisdom}Wisdom{/g} {g|Encyclopedia:Bonus}bonus{/g} (minimum 1) to her {g|Encyclopedia:Attack}attack rolls{/g} and adds her paladin level to all {g|Encyclopedia:Damage}damage rolls{/g} made against the target of her smite. Smite evil attacks automatically bypass any {g|Encyclopedia:Damage_Reduction}DR{/g} the creature might possess.\nIn addition, while smite evil is in effect, the tortured crusader gains a +4 deflection bonus to her {g|Encyclopedia:Armor_Class}AC{/g} against attacks made by the target of the smite. Smite evil lasts until the target dies or the tortured crusader selects a new target. A tortured crusader can use this ability once per day at 1st level, and one additional time per day for every 5 levels she has, to a total of 5 times per day at 20th level (not counting the 3 additional uses granted by her unbroken paragon feature at 20th level).\nSmite evil lasts until the target dies or the tortured crusader selects a new target.\nThis ability can be used on any creature, not just evil ones."
+        },
+        {
+            "Key": "e86da556-03b2-4ccb-8ef2-ccff31f7055a",
+            "Value": "All Is Darkness — Lay On Hands"
+        },
+        {
+            "Key": "cb624756-4453-428c-a3c4-18df2fbb387d",
+            "Value": "A tortured crusader can use smite evil by expending two uses of her lay on hands ability.\nA tortured crusader can call out to the powers of good to aid her in her struggle against evil. As a {g|Encyclopedia:Swift_Action}swift action{/g}, the tortured crusader chooses one target within sight to smite. The tortured crusader adds half her {g|Encyclopedia:Wisdom}Wisdom{/g} {g|Encyclopedia:Bonus}bonus{/g} (minimum 1) to her {g|Encyclopedia:Attack}attack rolls{/g} and adds her paladin level to all {g|Encyclopedia:Damage}damage rolls{/g} made against the target of her smite. Smite evil attacks automatically bypass any {g|Encyclopedia:Damage_Reduction}DR{/g} the creature might possess.\nIn addition, while smite evil is in effect, the tortured crusader gains a +4 deflection bonus to her {g|Encyclopedia:Armor_Class}AC{/g} against attacks made by the target of the smite. Smite evil lasts until the target dies or the tortured crusader selects a new target. A tortured crusader can use this ability once per day at 1st level, and one additional time per day for every 5 levels she has, to a total of 5 times per day at 20th level (not counting the 3 additional uses granted by her unbroken paragon feature at 20th level).\nSmite evil lasts until the target dies or the tortured crusader selects a new target.\nThis ability can be used on any creature, not just evil ones."
+        },
+        {
+            "Key": "c4b4e952-cc28-4619-bb2e-9893fd48a973",
+            "Value": "Lay On Hands"
+        },
     ],
 }
