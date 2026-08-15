@@ -289,5 +289,9 @@
             "Key": "5ae0486d-b065-4dad-bb46-66930e61be9b",
             "Value": "Mercenary adds {g|Encyclopedia:Knowledge_World}Knowledge (world){/g} to the list of her class {g|Encyclopedia:Skills}skills{/g}. She also becomes proficient with light armor, spears, longspears and javelins.\nIf the character already has the class skill, {g|Encyclopedia:Weapon_Proficiency}weapon proficiency{/g} or armor proficiency granted by the selected background from her class during character creation, then the corresponding {g|Encyclopedia:Bonus}bonuses{/g} from background change to a +1 competence bonus in case of skills, a +1 trait bonus to attack rolls in case of weapon proficiency and a –1 {g|Encyclopedia:Armor_Check_Penalty}Armor Check Penalty{/g} reduction in case of armor proficiency."
         },
+        {
+            "Key": "373e25c4-1810-4eb5-9247-d60f7c3fb036",
+            "Value": "When you cast this {g|Encyclopedia:Spell}spell{/g} you strengthen your paladin's aura of courage. Until the end of its duration, all allies within 10 feet of you are immune to fear (magical or otherwise). If you do not have the aura of courage class feature, aura of greater courage has no effect."
+        },
     ],
 }

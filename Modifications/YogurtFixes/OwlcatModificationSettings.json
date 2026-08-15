@@ -476,6 +476,10 @@
         {
             "Guid": "acb787cf9f76e924a9a93bbd011af040",
             "Filename": "AuraOfGreaterCourage.patch"
+        },
+        {
+            "Guid": "d29df27d8a2f2f040b86fd5a079582c6",
+            "Filename": "AuraOfGreaterCourageEffectBuff.patch"
         }
     ]
 }
