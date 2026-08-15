@@ -1,0 +1,43 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {
+            "Actions": {
+                "Actions": [
+                    {
+                        "ConditionsChecker": {
+                            "Operation": "Or",
+                            "Conditions": [
+                                {},
+                                {
+                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                    "name": "$ContextConditionHasFact$97a9e7cd-d1f1-4e0c-b9d9-0b26dbfc2331",
+                                    "Not": false,
+                                    "m_Fact": "!bp_b15e384109d1af147a31f6119f92c876" // DivineGuardianCourageousDefense
+                                },
+                                {
+                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                    "name": "$ContextConditionHasFact$3dc8237a-18d9-4c3f-a0b5-46be0fb00213",
+                                    "Not": false,
+                                    "m_Fact": "!bp_8121d2fb0b4cd4746a2cda39ef77a9a5" // MartyrAuraOfCourageFeature
+                                },
+                                {
+                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                    "name": "$ContextConditionHasFact$aa5ef241-bfe9-43ed-a901-eaddd3e52796",
+                                    "Not": false,
+                                    "m_Fact": "!bp_25a015e8c4724a4699b96a4002a9711b" // AloneInTheDarkFeatureLevel3AuraOfCourageFeature
+                                },
+                            ],
+                        },
+                    },
+                ],
+            },
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+    ],
+}

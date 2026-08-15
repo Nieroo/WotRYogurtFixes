@@ -472,6 +472,10 @@
         {
             "Guid": "c09d87fb8a5742499d6b820a0e700504",
             "Filename": "AllIsDarknessSmiteEvilBuff.patch"
+        },
+        {
+            "Guid": "acb787cf9f76e924a9a93bbd011af040",
+            "Filename": "AuraOfGreaterCourage.patch"
         }
     ]
 }
