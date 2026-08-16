@@ -1,0 +1,18 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "m_Facts": [
+                "!bp_c33f2d68d93ceee488aa4004347dffca", // ReducedReach
+                "!bp_5c1c2f9aa37ca7445a31bdb4ab16255b", // Triceratops_Feature_PowerfulChargeFeature
+                "!bp_c8a4cc7e52e24f6bb7d7ce57173177a6", // custom (CreatureHasGrownUp1.jbp)
+            ],
+        },
+    ],
+}

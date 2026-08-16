@@ -512,6 +512,62 @@
         {
             "Guid": "337734854898476aa78887c835958b45",
             "Filename": "NormalizeSizeAnimalGrowthBuff.patch"
+        },
+        {
+            "Guid": "beb608c45bb2aef42802e2afdf018a32",
+            "Filename": "AnimalCompanionUpgradeMonitor.patch"
+        },
+        {
+            "Guid": "abda5a76b8a5901478495ffdc5450c9e",
+            "Filename": "AnimalCompanionUpgradeBear.patch"
+        },
+        {
+            "Guid": "59f2a25bc27f1a2408721dc24f0589c5",
+            "Filename": "AnimalCompanionUpgradeBoar.patch"
+        },
+        {
+            "Guid": "c938099ca0438b242b3edecfa9083e9f",
+            "Filename": "AnimalCompanionUpgradeCentipede.patch"
+        },
+        {
+            "Guid": "9763e77bfdcd32541848a9095ac53455",
+            "Filename": "AnimalCompanionUpgradeDog.patch"
+        },
+        {
+            "Guid": "70206f918cecc9440925dad944760928",
+            "Filename": "AnimalCompanionUpgradeElk.patch"
+        },
+        {
+            "Guid": "b8c98af302ee334499d30a926306327d",
+            "Filename": "AnimalCompanionUpgradeLeopard.patch"
+        },
+        {
+            "Guid": "6a23d16a4476af644af89d91f9f96790",
+            "Filename": "AnimalCompanionUpgradeMammoth.patch"
+        },
+        {
+            "Guid": "f1e949c3d93fc234da255b94629c5b3a",
+            "Filename": "AnimalCompanionUpgradeSmilodon.patch"
+        },
+        {
+            "Guid": "6b359372670a8824e904d41b2dee327b",
+            "Filename": "AnimalCompanionUpgradeTriceratops.patch"
+        },
+        {
+            "Guid": "5ae6dc5f479b5ea408ccaf75212155e8",
+            "Filename": "AnimalCompanionUpgradeVelociraptor.patch"
+        },
+        {
+            "Guid": "fb27e69b4ca4e904bac8e97833c4a12c",
+            "Filename": "AnimalCompanionUpgradeWolf.patch"
+        },
+        {
+            "Guid": "a77145bb9a91b514b85a79f4be5b1eb7",
+            "Filename": "TriceratopsStatuetteUpgradeUnit.patch"
+        },
+        {
+            "Guid": "2ab097ce05284cc8b89e5c3416b70727",
+            "Filename": "BlizzardServantTierIFeature.patch"
         }
     ]
 }

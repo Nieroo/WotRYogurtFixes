@@ -1,0 +1,19 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "m_Facts": [
+                "!bp_c33f2d68d93ceee488aa4004347dffca", // ReducedReach
+                "!bp_563ed3d1dec943b39ff2d382d94d5782", // PowerfulChargeElkFeature
+                "!bp_4507d5c3bfcc4f1487d7a43c223947cc", // ElkTrippingChargeFeature
+                "!bp_c8a4cc7e52e24f6bb7d7ce57173177a6", // custom (CreatureHasGrownUp1.jbp)
+            ],
+        },
+        {},
+    ],
+}

@@ -1,0 +1,24 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+            "m_Flags": 0,
+            "name": "$AddFacts$00b04202-9155-433b-b862-9d0576f7ca5a",
+            "m_Facts": [
+                "!bp_c8a4cc7e52e24f6bb7d7ce57173177a6", // custom (CreatureHasGrownUp1.jbp)
+            ],
+            "Dummy": null,
+            "CasterLevel": 0,
+            "DoNotRestoreMissingFacts": false,
+            "HasDifficultyRequirements": false,
+            "InvertDifficultyRequirements": false,
+            "MinDifficulty": "Story",
+        },
+    ],
+}

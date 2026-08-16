@@ -16,81 +16,9 @@
                             "Conditions": [
                                 {
                                     "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$286a9af0-2673-4177-90dc-d67bc909ac9d",
+                                    "name": "$ContextConditionHasFact$355c163a-c26e-4a02-b2c8-86f1abae3b18",
                                     "Not": false,
-                                    "m_Fact": "!bp_beb608c45bb2aef42802e2afdf018a32" // AnimalCompanionUpgradeMonitor
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$95a8e03a-5fe4-4885-9585-0da0f4b0d523",
-                                    "Not": false,
-                                    "m_Fact": "!bp_abda5a76b8a5901478495ffdc5450c9e" // AnimalCompanionUpgradeBear
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$75bff2d7-307b-4b6a-9eff-dc679f025616",
-                                    "Not": false,
-                                    "m_Fact": "!bp_59f2a25bc27f1a2408721dc24f0589c5" // AnimalCompanionUpgradeBoar
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$29ae5e96-9225-4138-ac25-7dd3682f69c4",
-                                    "Not": false,
-                                    "m_Fact": "!bp_c938099ca0438b242b3edecfa9083e9f" // AnimalCompanionUpgradeCentipede
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$bc45340d-ac2a-403e-a58c-2451f95b7f34",
-                                    "Not": false,
-                                    "m_Fact": "!bp_9763e77bfdcd32541848a9095ac53455" // AnimalCompanionUpgradeDog
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$d11f658f-8c91-4622-9ff3-b30fc4ee2316",
-                                    "Not": false,
-                                    "m_Fact": "!bp_70206f918cecc9440925dad944760928" // AnimalCompanionUpgradeElk
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$e418b265-040c-40d5-9270-6f1989d7dd46",
-                                    "Not": false,
-                                    "m_Fact": "!bp_b8c98af302ee334499d30a926306327d" // AnimalCompanionUpgradeLeopard
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$b49dcf53-0c04-4bd3-9618-59e70f94cb97",
-                                    "Not": false,
-                                    "m_Fact": "!bp_6a23d16a4476af644af89d91f9f96790" // AnimalCompanionUpgradeMammoth
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$a9f12df8-f7ae-442c-964d-5bd53fb51c88",
-                                    "Not": false,
-                                    "m_Fact": "!bp_f1e949c3d93fc234da255b94629c5b3a" // AnimalCompanionUpgradeSmilodon
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$3e81650f-842c-4d86-9923-91273cb358fd",
-                                    "Not": false,
-                                    "m_Fact": "!bp_6b359372670a8824e904d41b2dee327b" // AnimalCompanionUpgradeTriceratops
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$f3ec83b1-6215-4b1c-b3e8-1d03e41f218a",
-                                    "Not": false,
-                                    "m_Fact": "!bp_5ae6dc5f479b5ea408ccaf75212155e8" // AnimalCompanionUpgradeVelociraptor
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$cd7cead9-e41f-4b43-9662-683eb04212e1",
-                                    "Not": false,
-                                    "m_Fact": "!bp_fb27e69b4ca4e904bac8e97833c4a12c" // AnimalCompanionUpgradeWolf
-                                },
-                                {
-                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
-                                    "name": "$ContextConditionHasFact$d963bf6f-5ce1-4f61-ba5b-2238d2ec9caf",
-                                    "Not": false,
-                                    "m_Fact": "!bp_a77145bb9a91b514b85a79f4be5b1eb7" // TriceratopsStatuetteUpgradeUnit
+                                    "m_Fact": "!bp_c8a4cc7e52e24f6bb7d7ce57173177a6" // custom (CreatureHasGrownUp1.jbp)
                                 },
                             ],
                         },

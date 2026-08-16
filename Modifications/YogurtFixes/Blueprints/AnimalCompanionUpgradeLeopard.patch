@@ -1,0 +1,17 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {
+            "m_Facts": [
+                "!bp_c33f2d68d93ceee488aa4004347dffca", // ReducedReach
+                "!bp_9b9eac6709e1c084cb18c3a366e0ec87", // SneakAttack
+                "!bp_c8a4cc7e52e24f6bb7d7ce57173177a6", // custom (CreatureHasGrownUp1.jbp)
+            ],
+        },
+        {},
+    ],
+}

@@ -1,0 +1,17 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "m_Facts": [
+                "!bp_1a3b471ecea51f7439a946b23577fd70", // OverrunAbility
+                "!bp_9292099e5fd70f84fb07fbb9b8b6a5a5", // MammothTrample
+                "!bp_c8a4cc7e52e24f6bb7d7ce57173177a6", // custom (CreatureHasGrownUp1.jbp)
+            ],
+        },
+    ],
+}

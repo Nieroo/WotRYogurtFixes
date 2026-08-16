@@ -1,0 +1,18 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "m_Facts": [
+                "!bp_c33f2d68d93ceee488aa4004347dffca", // ReducedReach
+                "!bp_fad3b744c99d42a48196ffd4d5557d15", // ShifterGrabBear
+                "!bp_07a93dfded2b440182b2665a989e7782", // BearHugFeature
+                "!bp_c8a4cc7e52e24f6bb7d7ce57173177a6", // custom (CreatureHasGrownUp1.jbp)
+            ],
+        },
+    ],
+}
