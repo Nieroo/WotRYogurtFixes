@@ -504,6 +504,10 @@
         {
             "Guid": "0e4687883dd0431bb8328662d8553b8e",
             "Filename": "AloneInTheDarkSmite4thlevel.patch"
+        },
+        {
+            "Guid": "56923211d2ac95e43b8ac5031bab74d8",
+            "Filename": "AnimalGrowth.patch"
         }
     ]
 }
