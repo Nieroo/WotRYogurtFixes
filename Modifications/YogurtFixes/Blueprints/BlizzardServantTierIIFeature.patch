@@ -7,21 +7,13 @@
         {},
         {},
         {},
-        {
-            "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
-            "m_Flags": 0,
-            "name": "$AddStatBonus$e158d9e0-85db-4bb3-9e61-2e111f46e0cf",
-            "Descriptor": "NaturalArmor",
-            "Stat": "AC",
-            "Value": 2,
-            "ScaleByBasicAttackBonus": false,
-        },
+        {},
         {
             "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
             "m_Flags": 0,
-            "name": "$AddFacts$b990888b-c79f-46a9-95d4-5d12fbedf8f4",
+            "name": "$AddFacts$8c7b72ba-d5db-4fb9-9b4c-09aa92b92f75",
             "m_Facts": [
-                "!bp_61cf87278607468d95169dd6f23496f6", // custom (CreatureHasGrownUp3.jbp)
+                "!bp_d9037de055bf4707a38e97a6dea5eee0", // custom (CreatureHasGrownUp2.jbp)
             ],
             "Dummy": null,
             "CasterLevel": 0,

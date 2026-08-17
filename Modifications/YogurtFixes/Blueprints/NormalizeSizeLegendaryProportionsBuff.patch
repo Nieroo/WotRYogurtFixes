@@ -4,13 +4,13 @@
         {
             "$type": "6e5523c38f556614fb970220b86809a8, AddBuffActions",
             "m_Flags": 0,
-            "name": "$AddBuffActions$2f506d80-47f3-4bd2-8375-11d38640d8a2",
+            "name": "$AddBuffActions$cc6ea4df-73e0-48cc-9074-376ae77a2c3b",
             "Activated": {
                 "Actions": [
                     {
                         "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
-                        "name": "$ContextActionApplyBuff$957de517-b72b-466a-9053-9e618099f37b",
-                        "m_Buff": "!bp_2d7ba606ed674a5f9b0ee3ed216bfa7e", // custom (UnitSizeIncreaseBy1.jbp)
+                        "name": "$ContextActionApplyBuff$432a7609-1340-4116-9940-ba013588a6c2",
+                        "m_Buff": "!bp_84224b8bddad4c1399b87855bab79d44", // custom (UnitNormalizeSize.jbp)
                         "Permanent": true,
                         "UseDurationSeconds": false,
                         "DurationValue": {
@@ -59,9 +59,5 @@
                 "Actions": [],
             },
         },
-        {},
-        {},
-        {},
-        {},
     ],
 }

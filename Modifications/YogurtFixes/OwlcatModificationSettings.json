@@ -568,6 +568,18 @@
         {
             "Guid": "2ab097ce05284cc8b89e5c3416b70727",
             "Filename": "BlizzardServantTierIFeature.patch"
+        },
+        {
+            "Guid": "4ce640f9800d444418779a214598d0a3",
+            "Filename": "LegendaryProportionsBuff.patch"
+        },
+        {
+            "Guid": "01465dfa521e40d5b92c9e35b8435ee4",
+            "Filename": "NormalizeSizeLegendaryProportionsBuff.patch"
+        },
+        {
+            "Guid": "762290033ea4477885c24ac1f73b7edb",
+            "Filename": "BlizzardServantTierIIFeature.patch"
         }
     ]
 }
