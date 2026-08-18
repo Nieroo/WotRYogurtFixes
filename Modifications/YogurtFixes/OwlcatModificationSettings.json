@@ -580,6 +580,30 @@
         {
             "Guid": "762290033ea4477885c24ac1f73b7edb",
             "Filename": "BlizzardServantTierIIFeature.patch"
+        },
+        {
+            "Guid": "c84fbb4414925f344b894e9511626296",
+            "Filename": "RighteousMightEvilBuff.patch"
+        },
+        {
+            "Guid": "17206974f2a2c164db26d1af7fac57d5",
+            "Filename": "RighteousMightGoodBuff.patch"
+        },
+        {
+            "Guid": "1fc9f0bd6b7743fbbee7709471465cfa",
+            "Filename": "NormalizeSizeRighteousMightEvilBuff.patch"
+        },
+        {
+            "Guid": "3adf7e17392e402ba87c488d84183a1e",
+            "Filename": "NormalizeSizeRighteousMightGoodBuff.patch"
+        },
+        {
+            "Guid": "906262fda0fbda442b27f9b0a04e5aa0",
+            "Filename": "FrightfulAspectBuff.patch"
+        },
+        {
+            "Guid": "7fca0219039542fea20a819c3356024b",
+            "Filename": "NormalizeSizeFrightfulAspectBuff.patch"
         }
     ]
 }

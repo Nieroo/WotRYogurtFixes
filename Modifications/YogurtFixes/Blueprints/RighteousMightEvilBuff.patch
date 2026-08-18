@@ -1,0 +1,71 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "$type": "6e5523c38f556614fb970220b86809a8, AddBuffActions",
+            "m_Flags": 0,
+            "name": "$AddBuffActions$7c27e670-e8d4-444c-9c42-fd7367f440c7",
+            "Activated": {
+                "Actions": [
+                    {
+                        "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                        "name": "$ContextActionApplyBuff$677b4f51-3fb0-4500-afe3-0b25356fdff8",
+                        "m_Buff": "!bp_2d7ba606ed674a5f9b0ee3ed216bfa7e", // custom (UnitSizeIncreaseBy1.jbp)
+                        "Permanent": true,
+                        "UseDurationSeconds": false,
+                        "DurationValue": {
+                            "Rate": "Rounds",
+                            "DiceType": "Zero",
+                            "DiceCountValue": {
+                                "ValueType": "Simple",
+                                "Value": 0,
+                                "ValueRank": "Default",
+                                "ValueShared": "Damage",
+                                "Property": "None",
+                                "m_CustomProperty": null,
+                                "m_AbilityParameter": "Level",
+                                "PropertyName": "Value1",
+                            },
+                            "BonusValue": {
+                                "ValueType": "Simple",
+                                "Value": 1,
+                                "ValueRank": "Default",
+                                "ValueShared": "Damage",
+                                "Property": "None",
+                                "m_CustomProperty": null,
+                                "m_AbilityParameter": "Level",
+                                "PropertyName": "Value1",
+                            },
+                            "m_IsExtendable": true,
+                        },
+                        "DurationSeconds": 0.0,
+                        "IsFromSpell": false,
+                        "IsNotDispelable": true,
+                        "ToCaster": false,
+                        "AsChild": true,
+                        "SameDuration": false,
+                        "NotLinkToAreaEffect": false,
+                        "IgnoreParentContext": false,
+                    },
+                ],
+            },
+            "Deactivated": {
+                "Actions": [],
+            },
+            "NewRound": {
+                "Actions": [],
+            },
+            "Dispose": {
+                "Actions": [],
+            },
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+    ],
+}
