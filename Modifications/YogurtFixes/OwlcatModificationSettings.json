@@ -628,6 +628,10 @@
         {
             "Guid": "1dfc2f933e7833f41922411962e1d58a",
             "Filename": "TricksterMicroscopicProportionsBuff.patch"
+        },
+        {
+            "Guid": "4b1f07a71a982824988d7f48cd49f3f8",
+            "Filename": "HideousLaughterBuff.patch"
         }
     ]
 }

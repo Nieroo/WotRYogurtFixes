@@ -1,0 +1,16 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "$type": "4c36aacebf153574eb39757fc3965edb, AddCondition",
+            "name": "$AddCondition$81a5c74b-c30b-465c-a706-99c018005e2f",
+            "m_Overrides": [],
+            "Condition": "MovementBan",
+        },
+    ],
+}
