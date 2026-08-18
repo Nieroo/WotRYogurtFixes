@@ -1,0 +1,39 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "$type": "f2efec85de75f5e4894158b16f8441ec, IncreaseResourceAmount",
+            "m_Flags": 0,
+            "name": "$IncreaseResourceAmount$dde5323b-14ab-4f3d-98a9-6ef959f23722",
+            "m_Resource": "!bp_9d9c90a9a1f52d04799294bf91c80a82", // KiPowerResource
+            "Value": 2,
+        },
+        {
+            "$type": "f2efec85de75f5e4894158b16f8441ec, IncreaseResourceAmount",
+            "m_Flags": 0,
+            "name": "$IncreaseResourceAmount$7d6bbad1-7534-4f02-9aaf-ca011690e26d",
+            "m_Resource": "!bp_7d002c1025fbfe2458f1509bf7a89ce1", // ScaledFistPowerResource
+            "Value": 2,
+        },
+        {},
+        {},
+        {},
+        {
+            "$type": "f2efec85de75f5e4894158b16f8441ec, IncreaseResourceAmount",
+            "m_Flags": 0,
+            "name": "$IncreaseResourceAmount$8dcf70bb-323a-4e38-bdb4-692f0558a78e",
+            "m_Resource": "!bp_fd01f3f969a04febab7877a17aebb812", // DrunkenKiPowerResource
+            "Value": 2,
+        },
+        {
+            "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+            "m_Flags": 0,
+            "name": "$PrerequisiteFeature$db8b56ce-b13e-4001-ab84-606ecadb435a",
+            "Group": "Any",
+            "CheckInProgression": false,
+            "HideInUI": false,
+            "IsFeatureSelectionWhiteList": false,
+            "m_Feature": "!bp_814ddce615b84e488fb7a196acebd408", // KiPowerDrunkenFeature
+        },
+    ],
+}

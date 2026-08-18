@@ -632,6 +632,14 @@
         {
             "Guid": "4b1f07a71a982824988d7f48cd49f3f8",
             "Filename": "HideousLaughterBuff.patch"
+        },
+        {
+            "Guid": "fd01f3f969a04febab7877a17aebb812",
+            "Filename": "DrunkenKiPowerResource.patch"
+        },
+        {
+            "Guid": "231a2a603d0b437e939553e6da3e7247",
+            "Filename": "ExtraKi.patch"
         }
     ]
 }
