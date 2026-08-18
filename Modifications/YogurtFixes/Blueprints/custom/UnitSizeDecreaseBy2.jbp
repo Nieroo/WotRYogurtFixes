@@ -1,0 +1,292 @@
+{
+    "AssetId": "5074f924f9d243c6b4f0283e255158fd",
+    "Data": {
+        "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+        "Components": [
+            {
+                "$type": "6e5523c38f556614fb970220b86809a8, AddBuffActions",
+                "m_Flags": 0,
+                "name": "$AddBuffActions$b11ed035-1aaa-48b4-9ee2-f35ba1968fe0",
+                "Activated": {
+                    "Actions": [
+                        {
+                            "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+                            "name": "$Conditional$9b26cffd-64ff-4858-b3c4-a16d6a834151",
+                            "Comment": "",
+                            "ConditionsChecker": {
+                                "Operation": "Or",
+                                "Conditions": [
+                                    {
+                                        "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                        "name": "$ContextConditionHasFact$69fa189a-d401-425a-9685-a066958535c0",
+                                        "Not": false,
+                                        "m_Fact": "!bp_61cf87278607468d95169dd6f23496f6" // custom (CreatureHasGrownUp3.jbp)
+                                    },
+                                ],
+                            },
+                            "IfTrue": {
+                                "Actions": [
+                                    {
+                                        "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                                        "name": "$ContextActionApplyBuff$e74bc3aa-eb31-457a-8a16-bdd0f0af5df2",
+                                        "m_Buff": "!bp_8d45d68f6aed43668cd55fe8d469e032", // custom (UnitSizeDeltaPlus1.jbp)
+                                        "Permanent": true,
+                                        "UseDurationSeconds": false,
+                                        "DurationValue": {
+                                            "Rate": "Rounds",
+                                            "DiceType": "Zero",
+                                            "DiceCountValue": {
+                                                "ValueType": "Simple",
+                                                "Value": 0,
+                                                "ValueRank": "Default",
+                                                "ValueShared": "Damage",
+                                                "Property": "None",
+                                                "m_CustomProperty": null,
+                                                "m_AbilityParameter": "Level",
+                                                "PropertyName": "Value1",
+                                            },
+                                            "BonusValue": {
+                                                "ValueType": "Simple",
+                                                "Value": 1,
+                                                "ValueRank": "Default",
+                                                "ValueShared": "Damage",
+                                                "Property": "None",
+                                                "m_CustomProperty": null,
+                                                "m_AbilityParameter": "Level",
+                                                "PropertyName": "Value1",
+                                            },
+                                            "m_IsExtendable": true,
+                                        },
+                                        "DurationSeconds": 0.0,
+                                        "IsFromSpell": false,
+                                        "IsNotDispelable": true,
+                                        "ToCaster": false,
+                                        "AsChild": true,
+                                        "SameDuration": false,
+                                        "NotLinkToAreaEffect": false,
+                                        "IgnoreParentContext": false,
+                                    },
+                                ],
+                            },
+                            "IfFalse": {
+                                "Actions": [
+                                    {
+                                        "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+                                        "name": "$Conditional$526cffdd-4adb-4185-b103-518ffe3e6066",
+                                        "Comment": "",
+                                        "ConditionsChecker": {
+                                            "Operation": "Or",
+                                            "Conditions": [
+                                                {
+                                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                                    "name": "$ContextConditionHasFact$2b71cfbe-714e-436d-acb1-1111437f26ff",
+                                                    "Not": false,
+                                                    "m_Fact": "!bp_d9037de055bf4707a38e97a6dea5eee0" // custom (CreatureHasGrownUp2.jbp)
+                                                },
+                                            ],
+                                        },
+                                        "IfTrue": {
+                                            "Actions": [
+                                                {
+                                                    "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                                                    "name": "$ContextActionApplyBuff$ad5b09f6-9e67-4d17-820b-66ebe4d21956",
+                                                    "m_Buff": "!bp_cbc58ed168d345228c4565e2ebca57e6", // custom (UnitSizeDelta0.jbp)
+                                                    "Permanent": true,
+                                                    "UseDurationSeconds": false,
+                                                    "DurationValue": {
+                                                        "Rate": "Rounds",
+                                                        "DiceType": "Zero",
+                                                        "DiceCountValue": {
+                                                            "ValueType": "Simple",
+                                                            "Value": 0,
+                                                            "ValueRank": "Default",
+                                                            "ValueShared": "Damage",
+                                                            "Property": "None",
+                                                            "m_CustomProperty": null,
+                                                            "m_AbilityParameter": "Level",
+                                                            "PropertyName": "Value1",
+                                                        },
+                                                        "BonusValue": {
+                                                            "ValueType": "Simple",
+                                                            "Value": 1,
+                                                            "ValueRank": "Default",
+                                                            "ValueShared": "Damage",
+                                                            "Property": "None",
+                                                            "m_CustomProperty": null,
+                                                            "m_AbilityParameter": "Level",
+                                                            "PropertyName": "Value1",
+                                                        },
+                                                        "m_IsExtendable": true,
+                                                    },
+                                                    "DurationSeconds": 0.0,
+                                                    "IsFromSpell": false,
+                                                    "IsNotDispelable": true,
+                                                    "ToCaster": false,
+                                                    "AsChild": true,
+                                                    "SameDuration": false,
+                                                    "NotLinkToAreaEffect": false,
+                                                    "IgnoreParentContext": false,
+                                                },
+                                            ],
+                                        },
+                                        "IfFalse": {
+                                            "Actions": [
+                                                {
+                                                    "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+                                                    "name": "$Conditional$ffd65942-6c6c-43c6-926d-97f41f99e0a8",
+                                                    "Comment": "",
+                                                    "ConditionsChecker": {
+                                                        "Operation": "Or",
+                                                        "Conditions": [
+                                                            {
+                                                                "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                                                "name": "$ContextConditionHasFact$f2125451-0954-4cdb-b5f7-85623f7475a0",
+                                                                "Not": false,
+                                                                "m_Fact": "!bp_c8a4cc7e52e24f6bb7d7ce57173177a6" // custom (CreatureHasGrownUp1.jbp)
+                                                            },
+                                                        ],
+                                                    },
+                                                    "IfTrue": {
+                                                        "Actions": [
+                                                            {
+                                                                "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                                                                "name": "$ContextActionApplyBuff$98ac4e81-786f-486f-9b81-edf6363c7cd6",
+                                                                "m_Buff": "!bp_3a295dd62c2845fc9d362bad4fe28fe2", // custom (UnitSizeDeltaMinus1.jbp)
+                                                                "Permanent": true,
+                                                                "UseDurationSeconds": false,
+                                                                "DurationValue": {
+                                                                    "Rate": "Rounds",
+                                                                    "DiceType": "Zero",
+                                                                    "DiceCountValue": {
+                                                                        "ValueType": "Simple",
+                                                                        "Value": 0,
+                                                                        "ValueRank": "Default",
+                                                                        "ValueShared": "Damage",
+                                                                        "Property": "None",
+                                                                        "m_CustomProperty": null,
+                                                                        "m_AbilityParameter": "Level",
+                                                                        "PropertyName": "Value1",
+                                                                    },
+                                                                    "BonusValue": {
+                                                                        "ValueType": "Simple",
+                                                                        "Value": 1,
+                                                                        "ValueRank": "Default",
+                                                                        "ValueShared": "Damage",
+                                                                        "Property": "None",
+                                                                        "m_CustomProperty": null,
+                                                                        "m_AbilityParameter": "Level",
+                                                                        "PropertyName": "Value1",
+                                                                    },
+                                                                    "m_IsExtendable": true,
+                                                                },
+                                                                "DurationSeconds": 0.0,
+                                                                "IsFromSpell": false,
+                                                                "IsNotDispelable": true,
+                                                                "ToCaster": false,
+                                                                "AsChild": true,
+                                                                "SameDuration": false,
+                                                                "NotLinkToAreaEffect": false,
+                                                                "IgnoreParentContext": false,
+                                                            },
+                                                        ],
+                                                    },
+                                                    "IfFalse": {
+                                                        "Actions": [
+                                                            {
+                                                                "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                                                                "name": "$ContextActionApplyBuff$92fad3b2-c700-45b2-ab3a-7c3e0cea52c0",
+                                                                "m_Buff": "!bp_695a7775415a457099a49051e12ef465", // custom (UnitSizeDeltaMinus2.jbp)
+                                                                "Permanent": true,
+                                                                "UseDurationSeconds": false,
+                                                                "DurationValue": {
+                                                                    "Rate": "Rounds",
+                                                                    "DiceType": "Zero",
+                                                                    "DiceCountValue": {
+                                                                        "ValueType": "Simple",
+                                                                        "Value": 0,
+                                                                        "ValueRank": "Default",
+                                                                        "ValueShared": "Damage",
+                                                                        "Property": "None",
+                                                                        "m_CustomProperty": null,
+                                                                        "m_AbilityParameter": "Level",
+                                                                        "PropertyName": "Value1",
+                                                                    },
+                                                                    "BonusValue": {
+                                                                        "ValueType": "Simple",
+                                                                        "Value": 1,
+                                                                        "ValueRank": "Default",
+                                                                        "ValueShared": "Damage",
+                                                                        "Property": "None",
+                                                                        "m_CustomProperty": null,
+                                                                        "m_AbilityParameter": "Level",
+                                                                        "PropertyName": "Value1",
+                                                                    },
+                                                                    "m_IsExtendable": true,
+                                                                },
+                                                                "DurationSeconds": 0.0,
+                                                                "IsFromSpell": false,
+                                                                "IsNotDispelable": true,
+                                                                "ToCaster": false,
+                                                                "AsChild": true,
+                                                                "SameDuration": false,
+                                                                "NotLinkToAreaEffect": false,
+                                                                "IgnoreParentContext": false,
+                                                            },
+                                                        ],
+                                                    },
+                                                },
+                                            ],
+                                        },
+                                    },
+                                ],
+                            },
+                        },
+                    ],
+                },
+                "Deactivated": {
+                    "Actions": [],
+                },
+                "NewRound": {
+                    "Actions": [],
+                },
+                "Dispose": {
+                    "Actions": [],
+                },
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": null,
+        "IsClassFeature": false,
+        "m_Flags": "HiddenInUi",
+        "Stacking": "Replace",
+        "Ranks": 0,
+        "TickEachSecond": false,
+        "Frequency": "Rounds",
+        "FxOnStart": null,
+        "FxOnRemove": null,
+        "ResourceAssetIds": [],
+        "EmulateAbilityContext": false,
+    },
+}

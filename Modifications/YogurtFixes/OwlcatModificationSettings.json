@@ -604,6 +604,30 @@
         {
             "Guid": "7fca0219039542fea20a819c3356024b",
             "Filename": "NormalizeSizeFrightfulAspectBuff.patch"
+        },
+        {
+            "Guid": "1f1a0c31f40741fabb26cad859f0b752",
+            "Filename": "DLC3_GiantIslandEnlargeBuff.patch"
+        },
+        {
+            "Guid": "51afcb44344a45569fec113ce99916dd",
+            "Filename": "DLC3_LegendaryProportionsBuff.patch"
+        },
+        {
+            "Guid": "e3a9786b626d4b50ac58a8b3cbdc00f4",
+            "Filename": "Gorum_Buff.patch"
+        },
+        {
+            "Guid": "cace8d48668048138a076e870e758f4b",
+            "Filename": "DLC5_ChaoticTransformationEnlargePersonBuff.patch"
+        },
+        {
+            "Guid": "8ef70dff830b4f38a877491286c4ec2d",
+            "Filename": "DLC5_ChaoticTransformationReducePersonBuff.patch"
+        },
+        {
+            "Guid": "1dfc2f933e7833f41922411962e1d58a",
+            "Filename": "TricksterMicroscopicProportionsBuff.patch"
         }
     ]
 }
