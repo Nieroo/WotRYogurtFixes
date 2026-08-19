@@ -664,6 +664,18 @@
         {
             "Guid": "423579db10309a14fbb1a76b2ce773d5",
             "Filename": "IceBody.patch"
+        },
+        {
+            "Guid": "563ed3d1dec943b39ff2d382d94d5782",
+            "Filename": "PowerfulChargeElkFeature.patch"
+        },
+        {
+            "Guid": "5c1c2f9aa37ca7445a31bdb4ab16255b",
+            "Filename": "Triceratops_Feature_PowerfulChargeFeature.patch"
+        },
+        {
+            "Guid": "39ded4810eff44578a3f0c84bcf6cd53",
+            "Filename": "ShifterBoarPowerfulChargeFeature.patch"
         }
     ]
 }
