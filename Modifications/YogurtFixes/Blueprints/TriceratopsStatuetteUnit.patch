@@ -1,0 +1,9 @@
+{
+    "m_AddFacts": [
+        "!bp_0bbbbed021c64d4b857b8ffa2bdeebfb", // TrippingGore
+        "!bp_da6417809bdedfa468dd2fd0cc74be92", // NaturalArmor9
+        "!bp_13c87ac5985cc85498ef9d1ac8b78923", // TripDefenseFourLegs
+        //"!bp_bda3a926ff6a493b95cd2deadfb3aa0a", // TriceratopsDefenceFeature
+        "!bp_47c8a674fb0449b2894038e0de380bc5", // TriceratopsGreaterChargeFeature
+    ],
+}

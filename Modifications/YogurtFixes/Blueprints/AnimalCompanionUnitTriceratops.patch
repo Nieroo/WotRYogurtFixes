@@ -1,0 +1,10 @@
+{
+    "m_AddFacts": [
+        "!bp_da6417809bdedfa468dd2fd0cc74be92", // NaturalArmor9
+        "!bp_13c87ac5985cc85498ef9d1ac8b78923", // TripDefenseFourLegs
+        "!bp_75bb2b3c41c99e041b4743fdb16a4289", // AnimalCompanionSlotFeature
+        "!bp_a95311b3dc996964cbaa30ff9965aaf6", // AnimalType
+        "!bp_47c8a674fb0449b2894038e0de380bc5", // TriceratopsGreaterChargeFeature
+        //"!bp_bda3a926ff6a493b95cd2deadfb3aa0a", // TriceratopsDefenceFeature
+    ],
+}

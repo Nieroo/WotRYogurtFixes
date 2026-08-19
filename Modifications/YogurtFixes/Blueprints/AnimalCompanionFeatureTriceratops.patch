@@ -1,0 +1,21 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {
+            "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+            "m_Flags": 0,
+            "name": "$AddFacts$3ce9d2eb-7b0b-43a6-b909-0de22b260042",
+            "m_Facts": [
+                "!bp_bda3a926ff6a493b95cd2deadfb3aa0a", // TriceratopsDefenceFeature
+            ],
+            "Dummy": null,
+            "CasterLevel": 0,
+            "DoNotRestoreMissingFacts": false,
+            "HasDifficultyRequirements": false,
+            "InvertDifficultyRequirements": false,
+            "MinDifficulty": "Story",
+        },
+    ],
+}

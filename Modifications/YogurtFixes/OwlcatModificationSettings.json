@@ -676,6 +676,34 @@
         {
             "Guid": "39ded4810eff44578a3f0c84bcf6cd53",
             "Filename": "ShifterBoarPowerfulChargeFeature.patch"
+        },
+        {
+            "Guid": "2d3f409bb0956d44187e9ec8340163f8",
+            "Filename": "AnimalCompanionFeatureTriceratops.patch"
+        },
+        {
+            "Guid": "38bb191c78ab44ada7c40bae6c36d418",
+            "Filename": "AnimalCompanionFeatureTriceratopsBuff.patch"
+        },
+        {
+            "Guid": "51744ec49565c0340b11a1a6dac7920b",
+            "Filename": "AnimalCompanionUnitTriceratops.patch"
+        },
+        {
+            "Guid": "b7ed989aa5c54ab8898909910e1db145",
+            "Filename": "AnimalCompanionUnitTriceratops_PreorderBonus.patch"
+        },
+        {
+            "Guid": "52c854f77105445a9457572ab5826c00",
+            "Filename": "AnimalCompanionFeatureTriceratops_PreorderBonus.patch"
+        },
+        {
+            "Guid": "2ee7c2fbb02945b3b9ad0cde70905271",
+            "Filename": "TriceratopsStatuetteCorrectFeature.patch"
+        },
+        {
+            "Guid": "cc9177cc8dccc1449be084e7784ff52d",
+            "Filename": "TriceratopsStatuetteUnit.patch"
         }
     ]
 }
