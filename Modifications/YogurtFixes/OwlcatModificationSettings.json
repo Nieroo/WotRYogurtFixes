@@ -640,6 +640,30 @@
         {
             "Guid": "231a2a603d0b437e939553e6da3e7247",
             "Filename": "ExtraKi.patch"
+        },
+        {
+            "Guid": "2eabea6a1f9a58246a822f207e8ca79e",
+            "Filename": "IronBodyBuff.patch"
+        },
+        {
+            "Guid": "b574e1583768798468335d8cdb77e94c",
+            "Filename": "FieryBodyBuff.patch"
+        },
+        {
+            "Guid": "a6da7d6a5c9377047a7bd2680912860f",
+            "Filename": "IceBodyBuff.patch"
+        },
+        {
+            "Guid": "1daab3baedcd2db4e9f596ae91bff1c5",
+            "Filename": "FieryBody.patch"
+        },
+        {
+            "Guid": "91ab01d2958a31e48b149ae7c88c4ca6",
+            "Filename": "IceBodyUnarmed1d6Cold.patch"
+        },
+        {
+            "Guid": "423579db10309a14fbb1a76b2ce773d5",
+            "Filename": "IceBody.patch"
         }
     ]
 }

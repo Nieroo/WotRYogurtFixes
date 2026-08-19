@@ -1,0 +1,26 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "$type": "05fab0d4998390a4cbf88da0ab1e4123, AddMechanicsFeature",
+            "name": "$AddMechanicsFeature$e4b46aea-ebb8-4da3-9b92-0375bda49c86",
+            "m_Feature": "ImprovedUnarmedStrike",
+        },
+    ],
+}
