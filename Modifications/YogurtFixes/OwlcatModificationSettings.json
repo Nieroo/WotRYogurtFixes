@@ -704,6 +704,10 @@
         {
             "Guid": "cc9177cc8dccc1449be084e7784ff52d",
             "Filename": "TriceratopsStatuetteUnit.patch"
+        },
+        {
+            "Guid": "57381165c3f4b4740a872e54f62c3a14",
+            "Filename": "AnimalCompanionUnitMonitor.patch"
         }
     ]
 }

@@ -1,0 +1,11 @@
+{
+    "m_AddFacts": [
+        "!bp_16fc201a83edcde4cbd64c291ebe0d07", // NaturalArmor4
+        "!bp_3640816d1ca94d2a9ea0722c6b465962", // ShifterGrabLizard
+        "!bp_13c87ac5985cc85498ef9d1ac8b78923", // TripDefenseFourLegs
+        "!bp_75bb2b3c41c99e041b4743fdb16a4289", // AnimalCompanionSlotFeature
+        "!bp_a95311b3dc996964cbaa30ff9965aaf6", // AnimalType
+        "!bp_6c5c5dcfb2b54dd4a97f219805e502bd", // AnimalCompanionScent30
+        "!bp_816c33a683184dc89d8c75a9760c0491", // MonitorLizardChargeFeature
+    ],
+}
