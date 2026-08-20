@@ -15,13 +15,42 @@
             ],
         },
         {},
+        {
+            // Bite
+            "m_Condition": {
+                "ConditionsChecker": {
+                    "Conditions": [
+                        {},
+                        {},
+                        {
+                            "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                            "name": "$ContextConditionHasFact$755129d0-4805-4f9e-8546-a363cd034196",
+                            "Not": false,
+                            "m_Fact": "!bp_9a44fc170dbe46d2a9e0e1e44666c714", // VelociraptorAgileMovementFeature
+                        },
+                    ],
+                },
+            },
+        },
         {},
         {},
         {},
         {},
         {},
-        {},
-        {},
+        {
+            // Wing
+            "m_Condition": {
+                "ConditionsChecker": {
+                    "Conditions": [
+                        {
+                            //"Category": "Talon",
+                            "Category": "Wing",
+                        },
+                        {},
+                    ],
+                },
+            },
+        },
         {
             "$type": "22e02859a2404bfda115d9a25503661d, PrerequisiteConditionForWeaponCategory",
             "m_Flags": 0,

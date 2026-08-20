@@ -16,7 +16,23 @@
             ],
         },
         {},
-        {},
+        {
+            // Bite
+            "m_Condition": {
+                "ConditionsChecker": {
+                    "Conditions": [
+                        {},
+                        {},
+                        {
+                            "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                            "name": "$ContextConditionHasFact$4c1a6cd4-a36a-4dcd-9573-a2f3f75b11db",
+                            "Not": false,
+                            "m_Fact": "!bp_9a44fc170dbe46d2a9e0e1e44666c714", // VelociraptorAgileMovementFeature
+                        },
+                    ],
+                },
+            },
+        },
         {},
         {},
         {},
