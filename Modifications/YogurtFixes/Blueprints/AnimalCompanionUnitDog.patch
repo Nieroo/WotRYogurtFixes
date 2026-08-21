@@ -1,0 +1,11 @@
+{
+    "m_AddFacts": [
+        "!bp_f957b4444b6fb404e84ae2a5765797bb", // TrippingBite
+        "!bp_987ba44303e88054c9504cb3083ba0c9", // NaturalArmor6
+        "!bp_13c87ac5985cc85498ef9d1ac8b78923", // TripDefenseFourLegs
+        "!bp_75bb2b3c41c99e041b4743fdb16a4289", // AnimalCompanionSlotFeature
+        "!bp_a95311b3dc996964cbaa30ff9965aaf6", // AnimalType
+        "!bp_1d989569237e4bd7b1fcde90fdab36d4", // DogGoodBoyFeature
+        "!bp_6c5c5dcfb2b54dd4a97f219805e502bd", // AnimalCompanionScent30
+    ],
+}

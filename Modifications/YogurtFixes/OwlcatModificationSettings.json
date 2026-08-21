@@ -712,6 +712,18 @@
         {
             "Guid": "17bce13288dc45408667d10144c777f2",
             "Filename": "WolfTeardownFeature.patch"
+        },
+        {
+            "Guid": "918939943bf32ba4a95470ea696c2ba5",
+            "Filename": "AnimalCompanionUnitDog.patch"
+        },
+        {
+            "Guid": "c487bfdbaffd467880cddde3c1e9fdb5",
+            "Filename": "DogGoodBoyBuff.patch"
+        },
+        {
+            "Guid": "9ea6faf6400b4c78bf252adb88afccf1",
+            "Filename": "DogGoodBoyBuff7.patch"
         }
     ]
 }
