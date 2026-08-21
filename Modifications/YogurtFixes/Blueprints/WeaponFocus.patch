@@ -10,9 +10,9 @@
         {
             "m_WeaponCategories": [
                 "Tentacle",
-                //"Spike",
+                "Tentacle", //"Spike",
                 "Sting",
-                "Tail",
+                "Sting", //"Tail",
             ],
         },
         {},
@@ -83,6 +83,39 @@
                         {
                             "$type": "4a8280d06cf242c5947d12391323a65e, ContextConditionCharacterClass",
                             "name": "$ContextConditionCharacterClass$ae9e0b9f-9050-4b35-9a5c-9516b70e5e8d",
+                            "Not": false,
+                            "CheckCaster": false,
+                            "m_Class": "!bp_a406d6ebea5c46bba3160246be03e96f", // ShifterClass
+                            "MinLevel": 1,
+                        }
+                    ],
+                },
+            },
+        },
+        {
+            "$type": "22e02859a2404bfda115d9a25503661d, PrerequisiteConditionForWeaponCategory",
+            "m_Flags": 0,
+            "name": "$PrerequisiteConditionForWeaponCategory$454402ad-cb49-40d3-8587-e38acb2c8d26",
+            "m_WeaponCategories": [
+                "Tail",
+            ],
+            "m_Condition": {
+                "$type": "1d392c8d9feed78408fbcb18f9468fb9, OrAndLogic",
+                "name": "$ContextConditionHasFact$5ad84641-a451-46be-9766-69f022123be2",
+                "Not": false,
+                "Comment": "",
+                "ConditionsChecker": {
+                    "Operation": "Or",
+                    "Conditions": [
+                        {
+                            "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                            "name": "$ContextConditionHasFact$4859ed80-2c35-45ed-ac09-4bf8e33995ad",
+                            "Not": false,
+                            "m_Fact": "!bp_9680f3bd382841ee92ac5e826ebac07b", // custom (IHaveATail.jbp)
+                        },
+                        {
+                            "$type": "4a8280d06cf242c5947d12391323a65e, ContextConditionCharacterClass",
+                            "name": "$ContextConditionCharacterClass$a84b6c75-666e-4391-81cc-56f9387cc2c9",
                             "Not": false,
                             "CheckCaster": false,
                             "m_Class": "!bp_a406d6ebea5c46bba3160246be03e96f", // ShifterClass

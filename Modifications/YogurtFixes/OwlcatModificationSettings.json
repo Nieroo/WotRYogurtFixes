@@ -768,6 +768,10 @@
         {
             "Guid": "28d1986d57a7081439fbb581aa6f960c",
             "Filename": "AnimalCompanionUnitVelociraptor.patch"
+        },
+        {
+            "Guid": "7edf8a604926e364e8c07fafa8c54001",
+            "Filename": "GiantCentipedePoisonFeature.patch"
         }
     ]
 }
