@@ -1,0 +1,10 @@
+{
+    "m_AddFacts": [
+        "!bp_f6e106931f95fec4eb995f0d0629fb84", // NaturalArmor3
+        "!bp_75bb2b3c41c99e041b4743fdb16a4289", // AnimalCompanionSlotFeature
+        "!bp_a95311b3dc996964cbaa30ff9965aaf6", // AnimalType
+        "!bp_6c5c5dcfb2b54dd4a97f219805e502bd", // AnimalCompanionScent30
+        "!bp_9a44fc170dbe46d2a9e0e1e44666c714", // VelociraptorAgileMovementFeature
+        "!bp_6ca443b54829420390adb2614a69e004", // custom (ICanBite.jbp)
+    ],
+}

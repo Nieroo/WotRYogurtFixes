@@ -1,0 +1,10 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            //"m_WeaponType": "!bp_952e30e6cb40b454789a9db6e5f6dd09", // BiteType
+            "m_WeaponType": "!bp_118fdd03e569a66459ab01a20af6811a", // Claw1d4
+        },
+        {},
+    ],
+}

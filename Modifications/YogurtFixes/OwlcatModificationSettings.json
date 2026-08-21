@@ -752,6 +752,22 @@
         {
             "Guid": "07a93dfded2b440182b2665a989e7782",
             "Filename": "BearHugFeature.patch"
+        },
+        {
+            "Guid": "7e11b375ec4e48f09642b14ca5a58346",
+            "Filename": "SmilodonGrappleBuff.patch"
+        },
+        {
+            "Guid": "8a6986e17799d7d4b90f0c158b31c5b9",
+            "Filename": "AnimalCompanionUnitSmilodon.patch"
+        },
+        {
+            "Guid": "16426365939c42dda587f90b5ad594c6",
+            "Filename": "AnimalCompanionUnitSmilodon_PreorderBonus.patch"
+        },
+        {
+            "Guid": "28d1986d57a7081439fbb581aa6f960c",
+            "Filename": "AnimalCompanionUnitVelociraptor.patch"
         }
     ]
 }
