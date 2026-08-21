@@ -321,5 +321,9 @@
             "Key": "2bc42290-905e-43b7-8a5b-bd1acb360d44",
             "Value": "{g|Encyclopedia:Size}Size{/g}: Medium\n{g|Encyclopedia:Speed}Speed{/g}: 50 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +5 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d6{/g} plus trip)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 13, {g|Encyclopedia:Dexterity}Dex{/g} 15, {g|Encyclopedia:Constitution}Con{/g} 15, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 12, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 7th level, a wolf's size becomes Large and it gains Str +8, Dex –2, Con +4, and +2 to its natural armor {g|Encyclopedia:Bonus}bonus{/g} to AC.\nTeardown: whenever a wolf succeeds at a trip {g|Encyclopedia:Combat_Maneuvers}combat maneuver{/g} against an enemy, it deals half its {g|Encyclopedia:Strength}Strength{/g} modifier {g|Encyclopedia:Damage_Type}bludgeoning, piercing, slashing damage{/g} to that enemy."
         },
+        {
+            "Key": "e57d7c1d-04b5-452a-b49f-295019179350",
+            "Value": "{g|Encyclopedia:Size}Size{/g}: Medium\n{g|Encyclopedia:Speed}Speed{/g}: 40 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +7 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: gore ({g|Encyclopedia:Dice}1d8{/g}), slam (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 14, {g|Encyclopedia:Dexterity}Dex{/g} 14, {g|Encyclopedia:Constitution}Con{/g} 13, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 13, {g|Encyclopedia:Charisma}Cha{/g} 7\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 7th level, a mastodon's size becomes Large and it gains Str +8, Dex –2, Con +4, +3 to its natural armor {g|Encyclopedia:Bonus}bonus{/g} to AC, and the trample (2d6) and overrun abilities."
+        },
     ],
 }
