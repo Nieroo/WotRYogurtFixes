@@ -12,5 +12,14 @@
                 "!bp_c8a4cc7e52e24f6bb7d7ce57173177a6", // custom (CreatureHasGrownUp1.jbp)
             ],
         },
+        {
+            "$type": "a2844c135c0324e439072bd3cc2f9260, AddStatBonus",
+            "m_Flags": 0,
+            "name": "$AddStatBonus$c4f154e5-2c59-4230-8977-537adc9a72aa",
+            "Descriptor": "NaturalArmor",
+            "Stat": "AC",
+            "Value": 2,
+            "ScaleByBasicAttackBonus": false,
+        },
     ],
 }
