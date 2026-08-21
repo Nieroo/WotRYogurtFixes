@@ -341,5 +341,13 @@
             "Key": "a66ca57d-3221-407a-bf87-19bf2631cad5",
             "Value": "{g|Encyclopedia:Size}Size{/g}: Medium\n{g|Encyclopedia:Speed}Speed{/g}: 40 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +6 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d6{/g} plus poison)\nSkill points: 4 per level\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 9, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 13, {g|Encyclopedia:Intelligence}Int{/g} —, {g|Encyclopedia:Wisdom}Wis{/g} 10, {g|Encyclopedia:Charisma}Cha{/g} 2\nSpecial attacks: poison (frequency: 1/{g|Encyclopedia:Combat_Round}round{/g} for 6 rounds; effect: 1d3 Dex {g|Encyclopedia:AbilityDamage}damage{/g}; cure: 1 {g|Encyclopedia:Saving_Throw}save{/g}; {g|Encyclopedia:DC}DC{/g} 10 + half the animal companion's level + its {g|Encyclopedia:Constitution}Constitution{/g} modifier)\n{g|Encyclopedia:CMD}CMD{/g}: can't be tripped.\nAt 7th level, a hissing centipede's size becomes Large and it gains Str +8, Dex –2, Con +4, +2 to its natural armor {g|Encyclopedia:Bonus}bonus{/g} to AC, and a tail attack (1d2 plus trip).\nThis animal companion can't be used as a mount."
         },
+        {
+            "Key": "3f3707f8-8f8d-43ab-9ee8-734bc52f976c",
+            "Value": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} against {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}, your base {g|Encyclopedia:Speed}speed{/g} increases by 20 feet, you become immune to the effects of difficult terrain.\nIn addition, you gain a secondary gore attack ({g|Encyclopedia:Critical}critical{/g} multiplier 19–20/×2, {g|Encyclopedia:Damage_Type}slashing damage{/g} 1d8 if you are {g|Encyclopedia:Size}medium size{/g})."
+        },
+        {
+            "Key": "5128deac-d130-471b-9da6-476116d319a3",
+            "Value": "When you cast this {g|Encyclopedia:Spell}spell{/g}, you take on an aspect of a stag, including some of its physical characteristics.\nYou gain a +2 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} against {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}, your base {g|Encyclopedia:Speed}speed{/g} increases by 20 feet, you become immune to the effects of difficult terrain.\nIn addition, you gain a secondary gore attack ({g|Encyclopedia:Critical}critical{/g} multiplier 19–20/×2, {g|Encyclopedia:Damage_Type}slashing damage{/g} 1d8 if you are {g|Encyclopedia:Size}medium size{/g})."
+        },
     ],
 }

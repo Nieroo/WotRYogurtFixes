@@ -1,0 +1,40 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "SpellsByLevel": [
+        {},
+        {},
+        {},
+        {},
+        {
+            "m_Spells": [
+                "!bp_3361c5df793b4c8448756146a88026ad", // CureSeriousWoundsCast
+                "!bp_a8666d26bbbd9b640958284e0eee3602", // LifeBlast
+                "!bp_92681f181b507b34ea87018e8f7a528a", // DispelMagic
+                "!bp_e48638596c955a74c8a32dbc90b518c1", // ObsidianFlow
+                "!bp_16ce660837fb2544e96c3b7eaad73c63", // VolcanicStorm
+                "!bp_76a629d019275b94184a1a8733cac45e", // ProtectionFromEnergyCommunal
+                "!bp_20b548bf09bb3ea4bafea78dcb4f3db6", // Echolocation
+                "!bp_84ccca10da2a4484c89a837fbea2a829", // TouchOfSlimeCast
+                "!bp_6b30813c3709fc44b92dc8fd8191f345", // SlowMud
+                "!bp_2daf9c5112f16d54ab3cd6904c705c59", // ThornBody
+                "!bp_e418c20c8ce362943a8025d82c865c1c", // CapeOfWasps
+                "!bp_fcb028205a71ee64d98175ff39a0abf9", // IceStorm
+                "!bp_0087fc2d64b6095478bc7b8d7d512caf", // FreedomOfMovementCast
+                "!bp_d1afa8bc28c99104da7d784115552de5", // SpikeStones
+                "!bp_e42b1dbff4262c6469a9ff0a6ce730e3", // SummonElementalMediumBase
+                "!bp_c83db50513abdf74ca103651931fac4b", // SummonNaturesAllyIV
+                "!bp_f9910c76efc34af41b6e43d5d8752f0f", // FlameStrike
+                "!bp_265582bc494c4b12b5860b508a2f89a2", // LifeBubble
+                "!bp_98544596a01d4f7bbf7cc3ff98a1fb69", // ExplosionOfRot
+                "!bp_b844a29343974aeab1d37d38db2f530e", // ThirstingEntangle
+                "!bp_6a0ecb1bae18e51458be036b34073da5", // AspectOfTheStag
+            ],
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+    ],
+}

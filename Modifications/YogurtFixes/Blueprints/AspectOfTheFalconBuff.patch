@@ -1,0 +1,9 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "m_Icon": {
+        "guid": "7ca027aab83e03e40bbd8367d141564f",
+    },
+    "FxOnStart": {
+        "AssetId": "4ceb5f75b6f02a146b814a971ba1f8e6",
+    },
+}

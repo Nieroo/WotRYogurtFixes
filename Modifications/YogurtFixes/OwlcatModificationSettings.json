@@ -772,6 +772,142 @@
         {
             "Guid": "7edf8a604926e364e8c07fafa8c54001",
             "Filename": "GiantCentipedePoisonFeature.patch"
+        },
+        {
+            "Guid": "bad8638d40639d04fa2f80a1cac67d6b",
+            "Filename": "DruidSpellList.patch"
+        },
+        {
+            "Guid": "29f3c338532390546bc5347826a655c4",
+            "Filename": "RangerSpellList.patch"
+        },
+        {
+            "Guid": "d090b791bfe381740b98ed4ff909b1cf",
+            "Filename": "HunterSpelllist.patch"
+        },
+        {
+            "Guid": "6a0ecb1bae18e51458be036b34073da5",
+            "Filename": "AspectOfTheStag.patch"
+        },
+        {
+            "Guid": "624ed102958178c4781ce19531d51281",
+            "Filename": "AspectOfTheStagBuff.patch"
+        },
+        {
+            "Guid": "6449ed3a54f5b7942b655fd798ae4d4b",
+            "Filename": "DrovierAspectOfTheStagFeature.patch"
+        },
+        {
+            "Guid": "727b5fff735ecf2488cb395cdd3b7a6a",
+            "Filename": "DrovierAspectOfTheStagToggleAbility.patch"
+        },
+        {
+            "Guid": "5de9e71d013d1024eb14f4c5605b31dc",
+            "Filename": "AspectOfTheFalconBuff.patch"
+        },
+        {
+            "Guid": "7c3a2b21ffb8faf49a4656a04487d8b4",
+            "Filename": "DrovierAspectOfTheFalconFeature.patch"
+        },
+        {
+            "Guid": "7c8bea2dee51aed4a86d4999a56539e4",
+            "Filename": "DrovierAspectOfTheFalconToggleAbility.patch"
+        },
+        {
+            "Guid": "cfa8a489f31078b4291b3ab0a258dcdb",
+            "Filename": "AspectOfTheBearBuff.patch"
+        },
+        {
+            "Guid": "4f576cc5fab868e4d9bbe37d40bd2a57",
+            "Filename": "DrovierAspectOfTheBearFeature.patch"
+        },
+        {
+            "Guid": "75d6b94fb5f8fb742b6bf7c1efd489cc",
+            "Filename": "DrovierAspectOfTheBearToggleAbility.patch"
+        },
+        {
+            "Guid": "98d9d1a761c8ade49964aa97ecd8dc1a",
+            "Filename": "AspectOfTheWolfBuff.patch"
+        },
+        {
+            "Guid": "1bc2172a483c76541b313465ca070c4b",
+            "Filename": "DrovierAspectOfTheWolfFeature.patch"
+        },
+        {
+            "Guid": "f31e3d916e59cac4f890b75254ccac19",
+            "Filename": "DrovierAspectOfTheWolfToggleAbility.patch"
+        },
+        {
+            "Guid": "7bdb6a9fb6b37614e96f155748ae50c6",
+            "Filename": "AspectOfTheFalcon.patch"
+        },
+        {
+            "Guid": "a4ad1b8fa11e7c347a608c004efce9d5",
+            "Filename": "AspectOfTheBear.patch"
+        },
+        {
+            "Guid": "a09966aa734f13f4b8e1d77f99be182b",
+            "Filename": "AnimalAspectGorilla.patch"
+        },
+        {
+            "Guid": "2b0b1321fdc53df4dabae1cbf33d46f4",
+            "Filename": "AnimalAspectGorillaBuff.patch"
+        },
+        {
+            "Guid": "9d77bb24637d0ef469c830622bd6a230",
+            "Filename": "AnimalAspectMonkey.patch"
+        },
+        {
+            "Guid": "1334f902291e41241ad1421e2470aa50",
+            "Filename": "AnimalAspectMonkeyBuff.patch"
+        },
+        {
+            "Guid": "48f8f5ead2653b64f8b4febc0b01f39f",
+            "Filename": "AnimalAspectRacoon.patch"
+        },
+        {
+            "Guid": "4122d10b461a30e4289031087e814fa3",
+            "Filename": "AnimalAspectRacoonBuff.patch"
+        },
+        {
+            "Guid": "a2cad54019ee78e47ad6c3babd32bcca",
+            "Filename": "AnimalAspectRaptor.patch"
+        },
+        {
+            "Guid": "bc09681834490cd4e92ec4883f7a9220",
+            "Filename": "AnimalAspectRaptorBuff.patch"
+        },
+        {
+            "Guid": "a3b1801c312c37342b83de1c2a324b73",
+            "Filename": "AnimalAspectGreaterGorilla.patch"
+        },
+        {
+            "Guid": "234543d86f2229f4bb5620b64f61dbf9",
+            "Filename": "AnimalAspectGreaterGorillaBuff.patch"
+        },
+        {
+            "Guid": "51e7dbca6acff7844a10785e715abc6c",
+            "Filename": "AnimalAspectGreaterMonkey.patch"
+        },
+        {
+            "Guid": "6bf59a6fca16f6d4887e3544e5c2f689",
+            "Filename": "AnimalAspectGreaterMonkeyBuff.patch"
+        },
+        {
+            "Guid": "4643935aa6c93d4448acb3188b0baed9",
+            "Filename": "AnimalAspectGreaterRacoon.patch"
+        },
+        {
+            "Guid": "69c8bf56daedae0469614ed172ce592b",
+            "Filename": "AnimalAspectGreaterRacoonBuff.patch"
+        },
+        {
+            "Guid": "e41dbc71b7ac7b54c8d23055c3c8e6bf",
+            "Filename": "AnimalAspectGreaterRaptor.patch"
+        },
+        {
+            "Guid": "31e87010b70f3374a83819a3f3578dad",
+            "Filename": "AnimalAspectGreaterRaptorBuff.patch"
         }
     ]
 }

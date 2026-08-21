@@ -1,0 +1,34 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {
+            "m_Flags": "Disabled",
+        },
+        {},
+        {},
+        {
+            "$type": "e4181e2a638237a4c9f02ceb97e297b7, AbilityExecuteActionOnCast",
+            "m_Flags": 0,
+            "name": "$AbilityExecuteActionOnCast$ca2b156e-a7f1-4f50-be33-f7b1c79c33ec",
+            "Conditions": {
+                "Operation": "And",
+                "Conditions": [],
+            },
+            "Actions": {
+                "Actions": [
+                    {
+                        "$type": "1f10cf40f10af68469ef9165d44e506b, ContextActionRemoveBuffsByDescriptor",
+                        "name": "$ContextActionRemoveBuffsByDescriptor$168da504-4056-4f64-bb68-1952ee0db48d",
+                        "NotSelf": false,
+                        "SpellDescriptor": {
+                            "m_IntValue": 8589934592,
+                        },
+                    },
+                ],
+            },
+        },
+    ],
+}

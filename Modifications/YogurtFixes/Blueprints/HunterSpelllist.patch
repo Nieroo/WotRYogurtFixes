@@ -1,0 +1,44 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "SpellsByLevel": [
+        {},
+        {},
+        {},
+        {
+            "m_Spells": [
+                "!bp_6b90c773a6543dc49b2505858ce33db5", // CureModerateWoundsCast
+                "!bp_d219494150ac1f24f9ce14a3d4f66d26", // FeatherStepMass
+                "!bp_04e820e1ce3a66f47a50ad5074d3ae40", // DelayPoisonCommunal
+                "!bp_2a6eda8ef30379142a4b75448fb214a3", // PoisonCast
+                "!bp_9779c8578acd919419f563c33d7b2af5", // SpitVenom
+                "!bp_f1100650705a69c4384d3edd88ba0f52", // MagicFangGreater
+                "!bp_4093d5a0eb5cae94e909eb1e0e1a6b36", // RemoveDisease
+                "!bp_e80a4d6c0efa5774cbd515e3e37095b0", // LongstriderGreater
+                "!bp_e7240516af4241b42b2cd819929ea9da", // NeutralizePoison
+                "!bp_754c478a2aa9bb54d809e648c3f7ac0e", // DominateAnimal
+                "!bp_fdcf7e57ec44f704591f11b45f4acf61", // SummonNaturesAllyIII
+                "!bp_1a36c8b9ed655c249a9f9e8d4731f001", // SoothingMud
+                "!bp_48e2744846ed04b4580be1a3343a5d3d", // Contagion
+                "!bp_a8666d26bbbd9b640958284e0eee3602", // LifeBlast
+                "!bp_7bb0c402f7f789d4d9fae8ca87b4c7e2", // ResistEnergyCommunal
+                "!bp_7ec0ffdd8779c344f85337109af0c6c5", // ChameleonStrideGreater
+                "!bp_76a629d019275b94184a1a8733cac45e", // ProtectionFromEnergyCommunal
+                "!bp_8a76293f5ab8485da95ef6293a11358c", // BurningEntangle
+                "!bp_c9c56af3b25be3942aa0ffd12f11cf35", // AnimalAspectGreaterBase
+                "!bp_42c78009dd5cb8e429b27c13d92152b7", // InstantEnemy
+                "!bp_4fe69e00f43203e4fb4c5d128af18309", // NaturesExile
+                "!bp_265582bc494c4b12b5860b508a2f89a2", // LifeBubble
+                "!bp_2a9ef0e0b5822a24d88b16673a267456", // CallLightning
+                "!bp_0e1272506f9f4480b7c3e7e1e53b6439", // VengefulComets
+                "!bp_6a0ecb1bae18e51458be036b34073da5", // AspectOfTheStag
+            ],
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+    ],
+}

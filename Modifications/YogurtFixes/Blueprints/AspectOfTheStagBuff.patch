@@ -1,0 +1,30 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {
+            "$type": "a211de801d19bed40aa07f684a29c219, ACBonusAgainstAttackOfOpportunity",
+            "name": "$ACBonusAgainstAttackOfOpportunity$141ce492-ba00-4e24-92dc-d5dc121ece78",
+            "NotAttackOfOpportunity": false,
+            "Bonus": {
+                "ValueType": "Simple",
+                "Value": 2,
+                "ValueRank": "Default",
+                "ValueShared": "Damage",
+                "Property": "None",
+                "m_CustomProperty": null,
+            },
+        },
+        {
+            "$type": "5d938ab571d77a442a4a38918365396d, AddAdditionalLimb",
+            "name": "$AddAdditionalLimb$80cc540c-0e1d-4e85-8cea-1ea6dee49385",
+            "m_Weapon": "!bp_796cf82e59e647ff95adda37c2cc76d5", // custom (StagGoreAttack.jbp)
+        },
+    ],
+    "FxOnStart": {
+        "AssetId": "352469f228a3b1f4cb269c7ab0409b8e",
+    },
+}

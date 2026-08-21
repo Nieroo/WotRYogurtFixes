@@ -1216,5 +1216,13 @@
             "Key": "a66ca57d-3221-407a-bf87-19bf2631cad5",
             "Value": "{g|Encyclopedia:Size}Размер{/g}: средний\n{g|Encyclopedia:Speed}Скорость{/g}: 40 футов\n{g|Encyclopedia:Armor_Class}Защита{/g}: +6 естественная\n{g|Encyclopedia:Attack}Атака{/g}: укус ({g|Encyclopedia:Dice}1d6{/g} плюс яд)\nОчки навыков: 4 за уровень\n{g|Encyclopedia:Ability_Scores}Характеристики{/g}: {g|Encyclopedia:Strength}Сил{/g} 9, {g|Encyclopedia:Dexterity}Лвк{/g} 13, {g|Encyclopedia:Constitution}Вын{/g} 13, {g|Encyclopedia:Intelligence}Инт{/g} —, {g|Encyclopedia:Wisdom}Мдр{/g} 10, {g|Encyclopedia:Charisma}Хар{/g} 2\nОсобые атаки: яд (частота: 1/{g|Encyclopedia:Combat_Round}раунд{/g} на 6 раундов; действие: 1d3 {g|Encyclopedia:AbilityDamage}урона{/g} Лвк; лечение: 1 {g|Encyclopedia:Saving_Throw}спасбросок{/g}; {g|Encyclopedia:DC}сложность{/g} 10 + половина уровня верного зверя + его модификатор {g|Encyclopedia:Constitution}Выносливости{/g})\n{g|Encyclopedia:CMD}Защита от боевых маневров{/g}: нельзя сбить с ног.\nНа 7 уровне шипящая многоножка становится крупного размера и получает Сил +8, Лвк –2, Вын +4, естественный {g|Encyclopedia:Bonus}бонус{/g} +2 к защите и атаку хвостом (1d2 плюс сбивание с ног).\nЭтот верный зверь не может использоваться в качестве ездового животного."
         },
+        {
+            "Key": "3f3707f8-8f8d-43ab-9ee8-734bc52f976c",
+            "Value": "Вы получаете {g|Encyclopedia:Bonus}бонус{/g} +2 к {g|Encyclopedia:Armor_Class}защите{/g} против {g|Encyclopedia:Attack_Of_Opportunity}внеочередных атак{/g}, ваша базовая {g|Encyclopedia:Speed}скорость{/g} увеличивается на 20 футов, вы становитесь невосприимчивы к эффектам труднопреодолимой местности.\nКроме того, вы получаете вторичную атаку рогами ({g|Encyclopedia:Critical}критический{/g} множитель 19–20/×2, {g|Encyclopedia:Damage_Type}режущий урон{/g} 1d8 для существ {g|Encyclopedia:Size}среднего размера{/g})."
+        },
+        {
+            "Key": "5128deac-d130-471b-9da6-476116d319a3",
+            "Value": "Сотворив это {g|Encyclopedia:Spell}заклинание{/g}, вы принимаете аспект оленя, приобретая некоторые из его физических характеристик.\nВы получаете {g|Encyclopedia:Bonus}бонус{/g} +2 к {g|Encyclopedia:Armor_Class}защите{/g} против {g|Encyclopedia:Attack_Of_Opportunity}внеочередных атак{/g}, ваша базовая {g|Encyclopedia:Speed}скорость{/g} увеличивается на 20 футов, вы становитесь невосприимчивы к эффектам труднопреодолимой местности.\nКроме того, вы получаете вторичную атаку рогами ({g|Encyclopedia:Critical}критический{/g} множитель 19–20/×2, {g|Encyclopedia:Damage_Type}режущий урон{/g} 1d8 для существ {g|Encyclopedia:Size}среднего размера{/g})."
+        },
     ],
 }
