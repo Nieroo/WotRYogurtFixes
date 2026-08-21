@@ -1,0 +1,15 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Action": {
+                "Actions": [
+                    {
+                        "IgnoreCritical": true,
+                        "IgnoreUnitModifiers": true,
+                    },
+                ],
+            },
+        },
+    ],
+}

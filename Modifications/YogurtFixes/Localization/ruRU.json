@@ -1200,5 +1200,9 @@
             "Key": "e57d7c1d-04b5-452a-b49f-295019179350",
             "Value": "{g|Encyclopedia:Size}Размер{/g}: средний\n{g|Encyclopedia:Speed}Скорость{/g}: 40 футов\n{g|Encyclopedia:Armor_Class}Защита{/g}: +7 естественная\n{g|Encyclopedia:Attack}Атака{/g}: вспарывающий удар ({g|Encyclopedia:Dice}1d8{/g}), крушащий удар (1d6)\n{g|Encyclopedia:Ability_Scores}Характеристики{/g}: {g|Encyclopedia:Strength}Сил{/g} 14, {g|Encyclopedia:Dexterity}Лвк{/g} 14, {g|Encyclopedia:Constitution}Вын{/g} 13, {g|Encyclopedia:Intelligence}Инт{/g} 2, {g|Encyclopedia:Wisdom}Мдр{/g} 13, {g|Encyclopedia:Charisma}Хар{/g} 7\nОсобые свойства: {g|Encyclopedia:Scent}нюх{/g}\nНа 7 уровне мамонт становится крупного размера и получает Сил +8, Лвк –2, Вын +4, естественный {g|Encyclopedia:Bonus}бонус{/g} +3 к защите, а также затаптывание (2d6) и вторжение."
         },
+        {
+            "Key": "049424fb-3eed-4925-8b20-53d08fea3948",
+            "Value": "{g|Encyclopedia:Size}Размер{/g}: средний\n{g|Encyclopedia:Speed}Скорость{/g}: 40 футов\n{g|Encyclopedia:Armor_Class}Защита{/g}: +6 естественная\n{g|Encyclopedia:Attack}Атака{/g}: укус ({g|Encyclopedia:Dice}1d6{/g}), 2 когтя (1d4)\n{g|Encyclopedia:Ability_Scores}Характеристики{/g}: {g|Encyclopedia:Strength}Сил{/g} 17, {g|Encyclopedia:Dexterity}Лвк{/g} 13, {g|Encyclopedia:Constitution}Вын{/g} 13, {g|Encyclopedia:Intelligence}Инт{/g} 2, {g|Encyclopedia:Wisdom}Мдр{/g} 13, {g|Encyclopedia:Charisma}Хар{/g} 6\nОсобые свойства: {g|Encyclopedia:Scent}нюх{/g}\nНа 7 уровне пещерный медведь становится крупного размера и получает Сил +4, Лвк –2, Вын +4, естественный {g|Encyclopedia:Bonus}бонус{/g} +4 к защите и способность {g|FeatureGrab}хватала{/g} с атаками когтями.\nМедвежьи объятия: когда пещерный медведь успешно совершает {g|Encyclopedia:Combat_Maneuvers}боевой маневр{/g} захват, он наносит цели {g|Encyclopedia:Damage_Type}дробящий урон{/g}, равный 2d8 + его модификатор Силы."
+        },
     ],
 }

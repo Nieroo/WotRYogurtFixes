@@ -325,5 +325,9 @@
             "Key": "e57d7c1d-04b5-452a-b49f-295019179350",
             "Value": "{g|Encyclopedia:Size}Size{/g}: Medium\n{g|Encyclopedia:Speed}Speed{/g}: 40 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +7 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: gore ({g|Encyclopedia:Dice}1d8{/g}), slam (1d6)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 14, {g|Encyclopedia:Dexterity}Dex{/g} 14, {g|Encyclopedia:Constitution}Con{/g} 13, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 13, {g|Encyclopedia:Charisma}Cha{/g} 7\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 7th level, a mastodon's size becomes Large and it gains Str +8, Dex –2, Con +4, +3 to its natural armor {g|Encyclopedia:Bonus}bonus{/g} to AC, and the trample (2d6) and overrun abilities."
         },
+        {
+            "Key": "049424fb-3eed-4925-8b20-53d08fea3948",
+            "Value": "{g|Encyclopedia:Size}Size{/g}: Medium\n{g|Encyclopedia:Speed}Speed{/g}: 40 ft.\n{g|Encyclopedia:Armor_Class}AC{/g}: +6 natural armor\n{g|Encyclopedia:Attack}Attacks{/g}: bite ({g|Encyclopedia:Dice}1d6{/g}), 2 claws (1d4)\n{g|Encyclopedia:Ability_Scores}Ability scores{/g}: {g|Encyclopedia:Strength}Str{/g} 17, {g|Encyclopedia:Dexterity}Dex{/g} 13, {g|Encyclopedia:Constitution}Con{/g} 13, {g|Encyclopedia:Intelligence}Int{/g} 2, {g|Encyclopedia:Wisdom}Wis{/g} 13, {g|Encyclopedia:Charisma}Cha{/g} 6\nSpecial qualities: {g|Encyclopedia:Scent}scent{/g}\nAt 7th level, a dire bear's size becomes Large and it gains Str +4, Dex –2, Con +4, +4 to its natural armor {g|Encyclopedia:Bonus}bonus{/g} to AC, and the {g|FeatureGrab}grabber{/g} ability with its claw attacks.\nBear Hug: Whenever a dire bear succeeds at a grapple {g|Encyclopedia:Combat_Maneuvers}combat maneuver{/g} against an enemy, it deals 2d8 + its Strength modifier {g|Encyclopedia:Damage_Type}bludgeoning damage{/g} to that enemy."
+        },
     ],
 }

@@ -744,6 +744,14 @@
         {
             "Guid": "f8895e843e3d456e9f76b595968072a4",
             "Filename": "GhostRiderAnimalCompanionFeatureHorse.patch"
+        },
+        {
+            "Guid": "a207eff7953731b44acf1a3fa4354c2d",
+            "Filename": "AnimalCompanionUnitBear.patch"
+        },
+        {
+            "Guid": "07a93dfded2b440182b2665a989e7782",
+            "Filename": "BearHugFeature.patch"
         }
     ]
 }
