@@ -1,0 +1,11 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "m_UpgradeFeature": "!bp_63c7fb121ab916045b4589caa44fbfb0", // AnimalCompanionUpgradeHorse
+        },
+        {},
+        {},
+        {},
+    ],
+}
