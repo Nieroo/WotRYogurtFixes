@@ -83,7 +83,6 @@
             "m_InventoryPutSound": "",
             "m_InventoryTakeSound": "",
         },
-        //"m_Type": "!bp_352b738b4ebfd554b909852e7f3b690a", // GoreType
         "m_Type": "!bp_1ecb9f65b8bc47f4a5a14c6d362ef845", // custom (StagGoreType.jbp)
         "m_Size": "Medium",
         "m_Enchantments": [],
