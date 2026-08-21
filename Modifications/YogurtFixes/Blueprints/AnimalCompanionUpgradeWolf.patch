@@ -6,7 +6,12 @@
         {},
         {},
         {},
-        {},
+        {
+            "m_Facts": [
+                "!bp_c33f2d68d93ceee488aa4004347dffca", // ReducedReach
+                //"!bp_17bce13288dc45408667d10144c777f2", // WolfTeardownFeature
+            ],
+        },
         {
             "m_Facts": [
                 "!bp_23fb6647239e47b7bb5bfce1213e0db0", // IterativeNaturalAttacksBuff

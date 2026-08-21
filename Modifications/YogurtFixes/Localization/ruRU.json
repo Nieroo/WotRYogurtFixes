@@ -1188,5 +1188,13 @@
             "Key": "c4b4e952-cc28-4619-bb2e-9893fd48a973",
             "Value": "Возложение рук"
         },
+        {
+            "Key": "18c22cbe-1111-495d-8f6c-164178a73bf0",
+            "Value": "Когда волк успешно совершает {g|Encyclopedia:Combat_Maneuvers}боевой маневр{/g} сбивание с ног, он наносит цели {g|Encyclopedia:Damage_Type}дробящий, колющий, режущий урон{/g}, равный половине его модификатора {g|Encyclopedia:Strength}Силы{/g}."
+        },
+        {
+            "Key": "2bc42290-905e-43b7-8a5b-bd1acb360d44",
+            "Value": "{g|Encyclopedia:Size}Размер{/g}: средний\n{g|Encyclopedia:Speed}Скорость{/g}: 50 футов\n{g|Encyclopedia:Armor_Class}Защита{/g}: +5 естественная\n{g|Encyclopedia:Attack}Атака{/g}: укус ({g|Encyclopedia:Dice}1d6{/g} плюс сбивание с ног)\n{g|Encyclopedia:Ability_Scores}Характеристики{/g}: {g|Encyclopedia:Strength}Сил{/g} 13, {g|Encyclopedia:Dexterity}Лвк{/g} 15, {g|Encyclopedia:Constitution}Вын{/g} 15, {g|Encyclopedia:Intelligence}Инт{/g} 2, {g|Encyclopedia:Wisdom}Мдр{/g} 12, {g|Encyclopedia:Charisma}Хар{/g} 6\nОсобые свойства: {g|Encyclopedia:Scent}нюх{/g}\nНа 7 уровне волк становится крупного размера и получает Сил +8, Лвк –2, Вын +4 и естественный {g|Encyclopedia:Bonus}бонус{/g} +2 к защите.\nРастерзание: когда волк успешно совершает {g|Encyclopedia:Combat_Maneuvers}боевой маневр{/g} сбивание с ног, он наносит цели {g|Encyclopedia:Damage_Type}дробящий, колющий, режущий урон{/g}, равный половине его модификатора {g|Encyclopedia:Strength}Силы{/g}."
+        },
     ],
 }
