@@ -908,6 +908,10 @@
         {
             "Guid": "31e87010b70f3374a83819a3f3578dad",
             "Filename": "AnimalAspectGreaterRaptorBuff.patch"
+        },
+        {
+            "Guid": "3b64bb1b7d57f9a46af49e567d6266dd",
+            "Filename": "ScrollOfAspectOfTheStag.patch"
         }
     ]
 }
