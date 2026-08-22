@@ -1,0 +1,26 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {
+            "m_Features": [
+                "!bp_a1de1e4f92195b442adb946f0e2b9d4e", // EmpowerSpellFeat
+                "!bp_f180e72e4a9cbaa4da8be9bc958132ef", // ExtendSpellFeat
+                "!bp_2f5d1e705c7967546b72ad8218ccf99c", // HeightenSpellFeat
+                "!bp_7f2b282626862e345935bbea5e66424b", // MaximizeSpellFeat
+                "!bp_ef7ece7bb5bb66a41b256976b27f424e", // QuickenSpellFeat
+                "!bp_46fad72f54a33dc4692d3b62eca7bb78", // ReachSpellFeat
+                "!bp_cd26b9fa3f734461a0fcedc81cafaaac", // PersistentSpellFeat
+                "!bp_fbf5d9ce931f47f3a0c818b3f8ef8414", // BolsteredSpellFeat
+                "!bp_85f3340093d144dd944fff9a9adfd2f2", // SelectiveSpellFeat
+                "!bp_094b6278f7b570f42aeaa98379f07cf2", // CompletelyNormalSpellFeat
+                "!bp_8ad7fd39abea4722b39eb5a67d606a41", // IntensifiedSpell
+                "!bp_c101ad6879a94204a780506f7a554865", // PiercingSpell
+            ],
+        },
+        {},
+        {},
+        {},
+    ],
+}

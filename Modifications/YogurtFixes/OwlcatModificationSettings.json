@@ -912,6 +912,10 @@
         {
             "Guid": "3b64bb1b7d57f9a46af49e567d6266dd",
             "Filename": "ScrollOfAspectOfTheStag.patch"
+        },
+        {
+            "Guid": "4a7c05adfbaf05446a6bf664d28fb103",
+            "Filename": "LoremasterClass.patch"
         }
     ]
 }
