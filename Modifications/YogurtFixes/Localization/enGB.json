@@ -343,11 +343,11 @@
         },
         {
             "Key": "3f3707f8-8f8d-43ab-9ee8-734bc52f976c",
-            "Value": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} against {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}, your base {g|Encyclopedia:Speed}speed{/g} increases by 20 feet, you become immune to the effects of difficult terrain.\nIn addition, you gain a secondary gore attack ({g|Encyclopedia:Critical}critical{/g} multiplier 19–20/×2, {g|Encyclopedia:Damage_Type}slashing damage{/g} 1d8 if you are {g|Encyclopedia:Size}medium size{/g})."
+            "Value": "You gain a +2 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} against {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}, your base {g|Encyclopedia:Speed}speed{/g} increases by 20 feet, you become immune to the effects of difficult terrain.\nIn addition, you gain a secondary gore attack ({g|Encyclopedia:Critical}critical{/g} multiplier 19–20/×2, 1d8 {g|Encyclopedia:Damage_Type}piercing damage{/g} if you are {g|Encyclopedia:Size}medium size{/g})."
         },
         {
             "Key": "5128deac-d130-471b-9da6-476116d319a3",
-            "Value": "When you cast this {g|Encyclopedia:Spell}spell{/g}, you take on an aspect of a stag, including some of its physical characteristics.\nYou gain a +2 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} against {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}, your base {g|Encyclopedia:Speed}speed{/g} increases by 20 feet, you become immune to the effects of difficult terrain.\nIn addition, you gain a secondary gore attack ({g|Encyclopedia:Critical}critical{/g} multiplier 19–20/×2, {g|Encyclopedia:Damage_Type}slashing damage{/g} 1d8 if you are {g|Encyclopedia:Size}medium size{/g})."
+            "Value": "When you cast this {g|Encyclopedia:Spell}spell{/g}, you take on an aspect of a stag, including some of its physical characteristics.\nYou gain a +2 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} against {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}, your base {g|Encyclopedia:Speed}speed{/g} increases by 20 feet, you become immune to the effects of difficult terrain.\nIn addition, you gain a secondary gore attack ({g|Encyclopedia:Critical}critical{/g} multiplier 19–20/×2, 1d8 {g|Encyclopedia:Damage_Type}piercing damage{/g} if you are {g|Encyclopedia:Size}medium size{/g})."
         },
     ],
 }

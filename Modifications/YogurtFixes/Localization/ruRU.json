@@ -1218,11 +1218,11 @@
         },
         {
             "Key": "3f3707f8-8f8d-43ab-9ee8-734bc52f976c",
-            "Value": "Вы получаете {g|Encyclopedia:Bonus}бонус{/g} +2 к {g|Encyclopedia:Armor_Class}защите{/g} против {g|Encyclopedia:Attack_Of_Opportunity}внеочередных атак{/g}, ваша базовая {g|Encyclopedia:Speed}скорость{/g} увеличивается на 20 футов, вы становитесь невосприимчивы к эффектам труднопреодолимой местности.\nКроме того, вы получаете вторичную атаку рогами ({g|Encyclopedia:Critical}критический{/g} множитель 19–20/×2, {g|Encyclopedia:Damage_Type}режущий урон{/g} 1d8 для существ {g|Encyclopedia:Size}среднего размера{/g})."
+            "Value": "Вы получаете {g|Encyclopedia:Bonus}бонус{/g} +2 к {g|Encyclopedia:Armor_Class}защите{/g} против {g|Encyclopedia:Attack_Of_Opportunity}внеочередных атак{/g}, ваша базовая {g|Encyclopedia:Speed}скорость{/g} увеличивается на 20 футов, вы становитесь невосприимчивы к эффектам труднопреодолимой местности.\nКроме того, вы получаете вторичную атаку рогами ({g|Encyclopedia:Critical}критический{/g} множитель 19–20/×2, {g|Encyclopedia:Damage_Type}колющий урон{/g} 1d8 для существ {g|Encyclopedia:Size}среднего размера{/g})."
         },
         {
             "Key": "5128deac-d130-471b-9da6-476116d319a3",
-            "Value": "Сотворив это {g|Encyclopedia:Spell}заклинание{/g}, вы принимаете аспект оленя, приобретая некоторые из его физических характеристик.\nВы получаете {g|Encyclopedia:Bonus}бонус{/g} +2 к {g|Encyclopedia:Armor_Class}защите{/g} против {g|Encyclopedia:Attack_Of_Opportunity}внеочередных атак{/g}, ваша базовая {g|Encyclopedia:Speed}скорость{/g} увеличивается на 20 футов, вы становитесь невосприимчивы к эффектам труднопреодолимой местности.\nКроме того, вы получаете вторичную атаку рогами ({g|Encyclopedia:Critical}критический{/g} множитель 19–20/×2, {g|Encyclopedia:Damage_Type}режущий урон{/g} 1d8 для существ {g|Encyclopedia:Size}среднего размера{/g})."
+            "Value": "Сотворив это {g|Encyclopedia:Spell}заклинание{/g}, вы принимаете аспект оленя, приобретая некоторые из его физических характеристик.\nВы получаете {g|Encyclopedia:Bonus}бонус{/g} +2 к {g|Encyclopedia:Armor_Class}защите{/g} против {g|Encyclopedia:Attack_Of_Opportunity}внеочередных атак{/g}, ваша базовая {g|Encyclopedia:Speed}скорость{/g} увеличивается на 20 футов, вы становитесь невосприимчивы к эффектам труднопреодолимой местности.\nКроме того, вы получаете вторичную атаку рогами ({g|Encyclopedia:Critical}критический{/g} множитель 19–20/×2, {g|Encyclopedia:Damage_Type}колющий урон{/g} 1d8 для существ {g|Encyclopedia:Size}среднего размера{/g})."
         },
     ],
 }
