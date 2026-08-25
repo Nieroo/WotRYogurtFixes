@@ -1000,6 +1000,10 @@
         {
             "Guid": "8a2bdb52b158bc24d83c9ef1a2cb2af4",
             "Filename": "SpellSpecialization20.patch"
+        },
+        {
+            "Guid": "98c05aeff6e3d384f8aec6d584973642",
+            "Filename": "BloodragerSpellList.patch"
         }
     ]
 }

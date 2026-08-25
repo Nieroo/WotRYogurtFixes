@@ -1,0 +1,35 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "SpellsByLevel": [
+        {},
+        {},
+        {},
+        {
+            "m_Spells": [
+                "!bp_61a7ed778dd93f344a5dacdbad324cc9", // BeastShapeI
+                "!bp_2d81362af43aeac4387a3d4fced489c3", // Fireball
+                "!bp_486eaff58293f6441a5c2759c4872f98", // Haste
+                "!bp_5ab0d42fb68c9e34abae4921822b9d63", // Heroism
+                "!bp_c7104f7526c4c524f91474614054547e", // HoldPerson
+                "!bp_d2cff9243a7ee804cb6d5be47af30c73", // LightningBolt
+                "!bp_0f92caa35619f234298d95a4b6dda90d", // MagicWeaponGreater
+                "!bp_d2f116cfe05fcdd4a94e80143b67046f", // ProtectionFromEnergy
+                "!bp_97b991256e43bb140b263c326f690ce2", // Rage
+                "!bp_68a9e6d7256f1354289a39003a46d826", // StinkingCloud
+                "!bp_8a28a811ca5d20d49a863e832c31cce1", // VampiricTouchCast
+                "!bp_c9c56af3b25be3942aa0ffd12f11cf35", // AnimalAspectGreaterBase
+                "!bp_fc58ddcff6ab1394eb6c18e9126bb990", // ForcePunchCast
+                "!bp_448aa456600749d18c14ad979cc88a67", // ExcruciatingDeformation
+                "!bp_b0ffc8eaff404f2e9e0a3ee9f4c35486", // SilverDarts
+                "!bp_64923c9c808143c7ab7adba5a27f0ca4", // KeenEdge
+            ],
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+    ],
+}
