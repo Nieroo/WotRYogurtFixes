@@ -916,6 +916,90 @@
         {
             "Guid": "4a7c05adfbaf05446a6bf664d28fb103",
             "Filename": "LoremasterClass.patch"
+        },
+        {
+            "Guid": "f327a765a4353d04f872482ef3e48c35",
+            "Filename": "SpellSpecializationFirst.patch"
+        },
+        {
+            "Guid": "e69a85f633ae8ca4398abeb6fa11b1fe",
+            "Filename": "SpellSpecialization1.patch"
+        },
+        {
+            "Guid": "66f3e2b78b5d29c45a4c2f622541da79",
+            "Filename": "SpellSpecialization2.patch"
+        },
+        {
+            "Guid": "4e44d8d7dcf273345b154bb5f1e437ed",
+            "Filename": "SpellSpecialization3.patch"
+        },
+        {
+            "Guid": "e974bdad073505b478a441acba207f48",
+            "Filename": "SpellSpecialization4.patch"
+        },
+        {
+            "Guid": "fad3217b3e569ec48a052ae7918078c1",
+            "Filename": "SpellSpecialization5.patch"
+        },
+        {
+            "Guid": "4c141a49e4a416944adbdefab8f9bc9b",
+            "Filename": "SpellSpecialization6.patch"
+        },
+        {
+            "Guid": "28af16000bcaa614094783bb6af86428",
+            "Filename": "SpellSpecialization7.patch"
+        },
+        {
+            "Guid": "e953dabc5485bc64ba88c5c539e338bf",
+            "Filename": "SpellSpecialization8.patch"
+        },
+        {
+            "Guid": "eabd9c10a6c30934f9d7e22b6027977b",
+            "Filename": "SpellSpecialization9.patch"
+        },
+        {
+            "Guid": "2b96df8e6eb1f794eaf7e1defbf4f54b",
+            "Filename": "SpellSpecialization10.patch"
+        },
+        {
+            "Guid": "ec77f8ec59534ac4887296392ffec97e",
+            "Filename": "SpellSpecialization11.patch"
+        },
+        {
+            "Guid": "c222c3b2679ff6d4da400cd954f9c5fc",
+            "Filename": "SpellSpecialization12.patch"
+        },
+        {
+            "Guid": "1d38a238a88b9aa49917b3a6b7f7f3ba",
+            "Filename": "SpellSpecialization13.patch"
+        },
+        {
+            "Guid": "c80f7a789ea11e8419acecfbad430759",
+            "Filename": "SpellSpecialization14.patch"
+        },
+        {
+            "Guid": "0455bde9d7c7b8d488dd546ae140af64",
+            "Filename": "SpellSpecialization15.patch"
+        },
+        {
+            "Guid": "b75abb0228e6ddb4c80e00cd76e343f6",
+            "Filename": "SpellSpecialization16.patch"
+        },
+        {
+            "Guid": "74441cf4ebc51734c885617f61cf72b9",
+            "Filename": "SpellSpecialization17.patch"
+        },
+        {
+            "Guid": "75d2790d361aef44ba551ae84d766bbc",
+            "Filename": "SpellSpecialization18.patch"
+        },
+        {
+            "Guid": "09a6ff29f55dad544b9949702f2ed2c8",
+            "Filename": "SpellSpecialization19.patch"
+        },
+        {
+            "Guid": "8a2bdb52b158bc24d83c9ef1a2cb2af4",
+            "Filename": "SpellSpecialization20.patch"
         }
     ]
 }

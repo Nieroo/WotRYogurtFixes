@@ -1,0 +1,83 @@
+{
+    "_#ArrayMergeSettings": "Union",
+    "BlueprintParameterVariants": [
+        "!bp_6a0ecb1bae18e51458be036b34073da5", // AspectOfTheStag
+        "!bp_c9c56af3b25be3942aa0ffd12f11cf35", // AnimalAspectGreaterBase
+        "!bp_1626dbd11c4143b2a5641da8f227b78c", // IncendiaryRunes
+        "!bp_ed22aa8751c049fa915dabfa29712c08", // HauntingMists
+        "!bp_a2b05555c704458aaadc34be52a63633", // GhoulTouchCast
+        "!bp_b0ffc8eaff404f2e9e0a3ee9f4c35486", // SilverDarts
+        "!bp_64923c9c808143c7ab7adba5a27f0ca4", // KeenEdge
+        "!bp_ff652882623d43f184eb6abef741e20e", // ExplosiveRunes
+        "!bp_448aa456600749d18c14ad979cc88a67", // ExcruciatingDeformation
+        "!bp_c0c2ef5955cb415ca482597f1bfc4eca", // CurseOfMagicNegation
+        "!bp_cb55ae9517a444548d3457f91f829679", // Repulsion
+        "!bp_c6c516e59ca34f34aefb82a850287b97", // ArchonsTrumpet
+        "!bp_8b02310b46e54de1ae9ba7161831938d", // SymbolOfWeakness
+        "!bp_9cebb7c46c8d4c55a0e98da9b103fd37", // SymbolOfVulnerability
+        "!bp_5e36df08c71748f7936bce310181fb71", // MeteorSwarm
+        "!bp_a896760c975d4f3b96f279aa3cdf2292", // RevivingFinale
+        "!bp_c411f9aa46b84efcbca1954c4cb16023", // PurgingFinale
+        "!bp_2daf19a1e59545fba89b3d2a822c20b4", // SongOfDiscordGreater
+        "!bp_ca577309cedc4f1daf6fe5795fb2619b", // IllOmen
+        "!bp_73f8182ddd684a57a7f9678e516209a3", // FungalInfestationAbility
+        "!bp_039b8b8b6d5747e3a37c447a46a58761", // OracleBurden
+        "!bp_4912cf545d1e48ba8f786dc67d5abb4b", // BreathofFliesAbility
+        "!bp_78abd9a61abf4c80a8a8cf05ff55f033", // Implosion
+        "!bp_b5f4ea77492d4f23ad3a6f429cbfa35e", // ArcanaTheft
+
+        "!bp_143775c49ae6b7446b805d3b2e702298", // DispelMagicTarget
+        "!bp_6d490c80598f1d34bb277735b52d52c1", // DispelMagicGreaterTarget
+        "!bp_9efb34c2990349c58e1f3b599c7c4d6b", // PeerThroughResistance
+        "!bp_768b18138fb44b70b686c23119e66e02", // PeerThroughReflexes
+        "!bp_255ae2be713947ad9162fc207457035c", // PeerThroughMind
+        "!bp_9f0f0233dc0d43239afa77dbb3f3b948", // PeerThroughEndurance
+        "!bp_1d06e3306677431e846e6e6afdcc2138", // PeerThroughAvoidance
+        "!bp_249c0abba99e4d6f82437b83db57f52c", // PeerThroughSpellResistance
+
+        "!bp_a508fd48695440cd8216526a859ecb53", // DragonSmite
+        "!bp_1e42ecaa79454e85b274edc73e130a03", // SummonDragonI
+        "!bp_bfc6aa5be6bc41f68ca78aef37913e9f", // DragonMight
+        "!bp_8af93e330e1642298c88ec6080e5de12", // DragonDemand
+        "!bp_51b498f1cacd42e08ed6852f53261f11", // SummonDragonII
+        "!bp_f7bc6e97e7d44ed8ba5c4d9f76a5a3d3", // DragonPride
+        "!bp_59d08b909d684b91a137766ab22f4b1a", // DragonWrath
+        "!bp_d35b16edbd5c436286e34cf7bcbdb645", // ThousandBites
+        "!bp_cb127670411c41298a4aa4d0a165a20b", // SummonDragonIII
+        "!bp_cff9e3bf5ccf40c489023bf368c2c802", // DragonUltimateApsu
+        "!bp_5b1984f4af00412eb0c0efb0ebb90189", // DragonUltimateDahak
+
+        "!bp_ca8bc7d438e6b004a87222f3c32572f2", // BoneSpearConjure
+        "!bp_16c3fe873538010459a8a3fd61304825", // DeathRealm
+
+        "!bp_394c1ced7c9c420d9e6a15770fea6f05", // LivingPlagueAbility
+
+        "!bp_69bdc2c9678bd0d44bcb2ebe959d028e", // FormOfTheDragonIRed
+        "!bp_3d77ee3fc4913c44b9df7c5bbcdc4906", // ProtectionFromAcid
+        "!bp_65254c7a2cf18944287207e1de3e44e8", // SummonElementalElderEarth
+        "!bp_021d39c8e0eec384ba69140f4875e166", // ProtectionFromCold
+        "!bp_c82a0d6472794d245a186eff5d6f0f41", // ElementalBodyIIIWater
+
+        "!bp_2ac7637daeb2aa143a3bae860095b63e", // ProtectionFromGood
+        "!bp_97d0a51ca60053047afb9aca900fb71b", // BurningHandsAcid
+        "!bp_435222be97067a447b2b40d3c58a058e", // ScorchingRayAcid
+        "!bp_83ed16546af22bb43bd08734a8b51941", // BurningHandsCold
+        "!bp_7ef096fdc8394e149a9e8dced7576fee", // ScorchingRayCold
+        "!bp_728b3daffb1d9fd45958c6e60876b7a9", // BurningHandsElecricity
+        "!bp_96ca3143601d6b242802655336620d91", // ScorchingRayElecricity
+        "!bp_8d3d5b62878d5b24391c1d7834d0d706", // SummonNaturesAllyVIIISingle
+        "!bp_f6751c3b22dbd884093e350a37420368", // SummonNaturesAllyIXSingle
+
+        "!bp_ddfb4ac970225f34dbff98a10a4a8844", // ResistFire
+        "!bp_3f9605134d34e1243b096e1f6cb4c148", // ProtectionFromFire
+
+        "!bp_5990d4f32cf8c6241948d2993d09179d", // ElementalBodyIEarth
+        "!bp_2d46a6f1dbef51f4c9e14fc163ee4124", // ElementalBodyIWater
+        "!bp_650f8c91aaa5b114db83f541addd66d6", // ElementalBodyIAir
+        "!bp_bb6bb6d6d4b27514dae8ec694433dcd3", // ElementalBodyIFire
+
+        "!bp_d8f88028204bc2041be9d9d51f58e6a5", // SummonElementalSmallFire
+        "!bp_7b30211b83d55194db872b6c9c0d9cc1", // SummonElementalMediumFire
+        "!bp_b3a203742191449458d2544b3f442194", // SummonElementalLargeFire
+    ],
+}
