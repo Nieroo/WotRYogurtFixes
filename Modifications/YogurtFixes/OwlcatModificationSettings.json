@@ -1004,6 +1004,14 @@
         {
             "Guid": "98c05aeff6e3d384f8aec6d584973642",
             "Filename": "BloodragerSpellList.patch"
+        },
+        {
+            "Guid": "22a522d4ef636974f985a1f089a5ea23",
+            "Filename": "EcclesitheurgeDomainMastery.patch"
+        },
+        {
+            "Guid": "2a97721a11434058a530c70ff73b640c",
+            "Filename": "DeathDomainAllowedSeparatist.patch"
         }
     ]
 }

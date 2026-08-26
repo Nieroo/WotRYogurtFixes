@@ -1,0 +1,49 @@
+{
+    "Components": [
+        {
+            "$type": "d79ad4ed064aa4f43ace0e9c238fb9b9, AddFacts",
+            "m_Flags": 0,
+            "name": "$AddFacts$b957f55a812448fc9bf9005acc5e1038",
+            "m_Facts": [
+                "!bp_6ccd6fce67694d329ae35ecbf14f2884", // custom (EcclesitheurgeDomainMasteryAbadarBuff.jbp)
+                "!bp_ed56f8bb433742898e03508065772e8d", // custom (EcclesitheurgeDomainMasteryAreshkagalBuff.jbp)
+                "!bp_e053a36393db4aa7994f4f8ec368d773", // custom (EcclesitheurgeDomainMasteryAsmodeusBuff.jbp)
+                "!bp_f46cf3985b7f4f52be719213dfb672c7", // custom (EcclesitheurgeDomainMasteryBaphometBuff.jbp)
+                "!bp_75acc1403b714e2ebd79fcf31cebb784", // custom (EcclesitheurgeDomainMasteryCalistriaBuff.jbp)
+                "!bp_e96934877b584970ae6108ef01c71ea0", // custom (EcclesitheurgeDomainMasteryCaydenCaileanBuff.jbp)
+                "!bp_5d835f6033b545a49c00918e4542bfd5", // custom (EcclesitheurgeDomainMasteryDeskariBuff.jbp)
+                "!bp_79244ea442ff49e38f46b8870d965163", // custom (EcclesitheurgeDomainMasteryDesnaBuff.jbp)
+                "!bp_ccffc411c2244e4f96beb4fe26403efb", // custom (EcclesitheurgeDomainMasteryErastilBuff.jbp)
+                "!bp_8020c37dc1a24cae8c27dfa882d8dbc2", // custom (EcclesitheurgeDomainMasteryGodclawBuff.jbp)
+                "!bp_4d5d361e4bb5485cbb65d059be425b0d", // custom (EcclesitheurgeDomainMasteryGorumBuff.jbp)
+                "!bp_9293e80c06a4479a94a1fbf9ddb817a0", // custom (EcclesitheurgeDomainMasteryGozrehBuff.jbp)
+                "!bp_d866c0c7e58344dea95a4b22fd863f30", // custom (EcclesitheurgeDomainMasteryGreenFaithBuff.jbp)
+                "!bp_2f41081020b94a828e2f2413e5930392", // custom (EcclesitheurgeDomainMasteryGyronnaBuff.jbp)
+                "!bp_4b695f06883c41fe972fd57897f3736c", // custom (EcclesitheurgeDomainMasteryIomedaeBuff.jbp)
+                "!bp_02a8d7293c304b6780b51a6cf32d9c5c", // custom (EcclesitheurgeDomainMasteryIroriBuff.jbp)
+                "!bp_271c02de1e6941b08f72fe73709e1c91", // custom (EcclesitheurgeDomainMasteryKabririBuff.jbp)
+                "!bp_4274c6f5a9b2441996e699c9ef262664", // custom (EcclesitheurgeDomainMasteryLamashtuBuff.jbp)
+                "!bp_6575bddf0c344697bdaf12600b34d01d", // custom (EcclesitheurgeDomainMasteryLichDeityBuff.jbp)
+                "!bp_6b77b0686a0c49f5b9747cd996fbfca8", // custom (EcclesitheurgeDomainMasteryNethysBuff.jbp)
+                "!bp_2f63d7e0553743feba579cdb932bb7cf", // custom (EcclesitheurgeDomainMasteryNorgorberBuff.jbp)
+                "!bp_acc7db5cbc70415980e1653fa77708d9", // custom (EcclesitheurgeDomainMasteryPharasmaBuff.jbp)
+                "!bp_591eb06577414d5f9665e7fbd7e2834a", // custom (EcclesitheurgeDomainMasteryPuluraBuff.jbp)
+                "!bp_f9714bb6cb0a4a6699ba2ac0fb727075", // custom (EcclesitheurgeDomainMasteryRovagugBuff.jbp)
+                "!bp_07762c6f78c541d4afcfc53fb9cd9505", // custom (EcclesitheurgeDomainMasterySarenraeBuff.jbp)
+                "!bp_0002494c8cd74fd8a9ecd3049b51e2d7", // custom (EcclesitheurgeDomainMasteryShelynBuff.jbp)
+                "!bp_4a2b84dfa38f4d229afddc70bf1164ce", // custom (EcclesitheurgeDomainMasteryToragBuff.jbp)
+                "!bp_975a3ffcedd74d0f9ef4255c1b52a13d", // custom (EcclesitheurgeDomainMasteryUrgathoaBuff.jbp)
+                "!bp_de7a82892a9d4ffe9b7609505557b357", // custom (EcclesitheurgeDomainMasteryZonKuthonBuff.jbp)
+                "!bp_d9a64db10eff4d0782955c4bbfd359e9", // custom (EcclesitheurgeDomainMasteryAchaekekBuff.jbp)
+                "!bp_6bf4fb25f92c461e9306f030eca19626", // custom (EcclesitheurgeDomainMasteryApsuBuff.jbp)
+                "!bp_0bda3a4af0ff4cc7b248bd6733b686f5", // custom (EcclesitheurgeDomainMasteryDahakBuff.jbp)
+            ],
+            "Dummy": null,
+            "CasterLevel": 0,
+            "DoNotRestoreMissingFacts": false,
+            "HasDifficultyRequirements": false,
+            "InvertDifficultyRequirements": false,
+            "MinDifficulty": "Story",
+        },
+    ],
+}

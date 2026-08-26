@@ -1,0 +1,103 @@
+{
+    "AssetId": "0bda3a4af0ff4cc7b248bd6733b686f5",
+    "Data":
+    {
+        "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+        "Components": [
+            {
+                "$type": "25d172d2be8f52f468b2050d14d59806, AddFactContextActions",
+                "name": "$AddFactContextActions$ff879e70-4b21-4563-ac32-759f68845392",
+                "Activated": {
+                    "Actions": [
+                        {
+                            "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+                            "name": "$Conditional$4a548126-0e42-4970-9c47-60d8969d6ca4",
+                            "ConditionsChecker": {
+                                "Operation": "And",
+                                "Conditions": [
+                                    {
+                                        "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                        "name": "$ContextConditionHasFact$44cd9b2b-f28e-4cad-bdc8-1b711d787cde",
+                                        "Not": false,
+                                        "m_Fact": "!bp_8f7118d68f6e44dea94dddb51f38cbdd", // DahakFeature
+                                    },
+                                ],
+                            },
+                            "IfTrue": {
+                                "Actions": [
+                                    {
+                                        "$type": "6e7c340ab284b5d4abb5b75a0a5da91a, RemoveFact",
+                                        "name": "$RemoveFact$da5d421f-c14f-4df0-807a-4683da89a1f2",
+                                        "Unit": {
+                                            "$type": "cf2430390b1b475490921b4ba97a682f, ContextTargetUnit",
+                                            "name": "$ContextTargetUnit$5dd111c1-c431-45dc-8400-22efb2acf8db",
+                                        },
+                                        "m_Fact": "!bp_8f7118d68f6e44dea94dddb51f38cbdd", // DahakFeature
+                                    },
+                                    {
+                                        "$type": "1e13328c4121c4a46a640f93d374e595, ContextActionAddFeature",
+                                        "name": "$ContextActionAddFeature$c33d019b-62ef-4c8d-a7ef-17f51cfeefaa",
+                                        "m_PermanentFeature": "!bp_8f7118d68f6e44dea94dddb51f38cbdd", // DahakFeature
+                                        "m_SetRankFrom": null,
+                                    },
+                                    {
+                                        "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+                                        "name": "$ContextActionRemoveSelf$ea1412da-09d1-43ee-aaf5-22e6a6dad3a4",
+                                    },
+                                ],
+                            },
+                            "IfFalse": {
+                                "Actions": [
+                                    {
+                                        "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+                                        "name": "$ContextActionRemoveSelf$963894a3e16c40dba8f70c6d8131af18",
+                                    },
+                                ],
+                            },
+                        },
+                    ],
+                },
+                "Deactivated": {
+                    "Actions": [],
+                },
+                "NewRound": {
+                    "Actions": [],
+                },
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": null,
+        "IsClassFeature": false,
+        "m_Flags": "HiddenInUi",
+        "Stacking": "Replace",
+        "Ranks": 0,
+        "TickEachSecond": false,
+        "Frequency": "Rounds",
+        "FxOnStart": null,
+        "FxOnRemove": null,
+        "ResourceAssetIds": [],
+        "EmulateAbilityContext": false,
+    },
+}

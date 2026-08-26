@@ -1,0 +1,103 @@
+{
+    "AssetId": "6ccd6fce67694d329ae35ecbf14f2884",
+    "Data":
+    {
+        "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+        "Components": [
+            {
+                "$type": "25d172d2be8f52f468b2050d14d59806, AddFactContextActions",
+                "name": "$AddFactContextActions$ff879e70-4b21-4563-ac32-759f68845392",
+                "Activated": {
+                    "Actions": [
+                        {
+                            "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+                            "name": "$Conditional$4a548126-0e42-4970-9c47-60d8969d6ca4",
+                            "ConditionsChecker": {
+                                "Operation": "And",
+                                "Conditions": [
+                                    {
+                                        "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                        "name": "$ContextConditionHasFact$44cd9b2b-f28e-4cad-bdc8-1b711d787cde",
+                                        "Not": false,
+                                        "m_Fact": "!bp_6122dacf418611540a3c91e67197ee4e", // AbadarFeature
+                                    },
+                                ],
+                            },
+                            "IfTrue": {
+                                "Actions": [
+                                    {
+                                        "$type": "6e7c340ab284b5d4abb5b75a0a5da91a, RemoveFact",
+                                        "name": "$RemoveFact$b1ff1bd9-19fd-4a31-9274-0a15bfa657da",
+                                        "Unit": {
+                                            "$type": "cf2430390b1b475490921b4ba97a682f, ContextTargetUnit",
+                                            "name": "$ContextTargetUnit$32576cfb-052b-4e69-83dc-6a9c9a01a226",
+                                        },
+                                        "m_Fact": "!bp_6122dacf418611540a3c91e67197ee4e", // AbadarFeature
+                                    },
+                                    {
+                                        "$type": "1e13328c4121c4a46a640f93d374e595, ContextActionAddFeature",
+                                        "name": "$ContextActionAddFeature$0f14ad10-ac25-435a-b468-9827d5192c4a",
+                                        "m_PermanentFeature": "!bp_6122dacf418611540a3c91e67197ee4e", // AbadarFeature
+                                        "m_SetRankFrom": null,
+                                    },
+                                    {
+                                        "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+                                        "name": "$ContextActionRemoveSelf$ea1412da-09d1-43ee-aaf5-22e6a6dad3a4",
+                                    },
+                                ],
+                            },
+                            "IfFalse": {
+                                "Actions": [
+                                    {
+                                        "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+                                        "name": "$ContextActionRemoveSelf$963894a3e16c40dba8f70c6d8131af18",
+                                    },
+                                ],
+                            },
+                        },
+                    ],
+                },
+                "Deactivated": {
+                    "Actions": [],
+                },
+                "NewRound": {
+                    "Actions": [],
+                },
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": null,
+        "IsClassFeature": false,
+        "m_Flags": "HiddenInUi",
+        "Stacking": "Replace",
+        "Ranks": 0,
+        "TickEachSecond": false,
+        "Frequency": "Rounds",
+        "FxOnStart": null,
+        "FxOnRemove": null,
+        "ResourceAssetIds": [],
+        "EmulateAbilityContext": false,
+    },
+}
