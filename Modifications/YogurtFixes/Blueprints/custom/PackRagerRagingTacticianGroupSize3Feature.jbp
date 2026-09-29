@@ -1,0 +1,47 @@
+{
+    "AssetId": "7781ed0c18e14a07b18e735c3112aec5",
+    "Data": {
+        "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+        "Components": [
+            {
+                "$type": "886514ed5ee24e0da4cda44316d3904b, IncreaseActivatableAbilityGroupSize",
+                "name": "$IncreaseActivatableAbilityGroupSize$3649c5ad-e061-4ef0-b544-8dcf1e31979d",
+                "m_Overrides": [],
+                "Group": "RagingTactician",
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": null,
+        "HideInUI": true,
+        "HideInCharacterSheetAndLevelUp": true,
+        "HideNotAvailibleInUI": false,
+        "DlcType": "None",
+        "Groups": [],
+        "Ranks": 3,
+        "ReapplyOnLevelUp": false,
+        "IsClassFeature": true,
+        "IsPrerequisiteFor": null,
+    },
+}

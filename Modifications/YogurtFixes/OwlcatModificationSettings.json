@@ -1012,6 +1012,10 @@
         {
             "Guid": "2a97721a11434058a530c70ff73b640c",
             "Filename": "DeathDomainAllowedSeparatist.patch"
+        },
+        {
+            "Guid": "3f0a548044dbad04b82535237584772b",
+            "Filename": "PackRagerArchetype.patch"
         }
     ]
 }

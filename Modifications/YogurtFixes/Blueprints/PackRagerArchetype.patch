@@ -1,0 +1,19 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "AddFeatures": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            // "Level": 19,
+            "m_Features": [
+                //"!bp_e25ab87d62b468543ba14a1f424c3786", // PackRagerRagingTacticianGroupSizeFeature
+                "!bp_7781ed0c18e14a07b18e735c3112aec5", // custom (PackRagerRagingTacticianGroupSize3Feature.jbp)
+            ],
+        },
+    ],
+}
