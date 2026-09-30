@@ -1,0 +1,30 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+           "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+           "name": "$AddFeatureIfHasFact$d8d9324e-7d8d-4c90-a987-4dc881cda511",
+           "m_CheckedFact": "!bp_6337b37f2a7c11b4ab0831d6780bce2a", // ShakeItOff
+           "m_Feature": "!bp_31c7c262c1b0421ab325da44078411a4", // PackRagerShakeItOffToggleAbility
+           "Not": false,
+        },
+        {
+           "$type": "0235a93dc6eb6864a839fcc72bb44c36, AddFeatureIfHasFact",
+           "name": "$AddFeatureIfHasFact$c9091b72-ce1b-4617-af51-5e2c76eef9e7",
+           "m_CheckedFact": "!bp_d8d641edc9a74a64809f56feff9495b6", // SpellChain
+           "m_Feature": "!bp_1049b5a87d3f4fd58d0f1782ecde55ba", // PackRagerSpellChainToggleAbility
+           "Not": false,
+        },
+    ],
+}

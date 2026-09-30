@@ -1,0 +1,82 @@
+{
+    "AssetId": "aec20e378171497f985bd50111d62f32",
+    "Data": {
+        "$type": "4e19ee98b71c98b40ba235cfa715b760, BlueprintAbilityAreaEffect",
+        "Components": [
+            {
+                "$type": "24be9d7901731604fb3e9dcc6c21fbb6, AbilityAreaEffectRunAction",
+                "name": "$AbilityAreaEffectRunAction$fd9c9336-de96-490c-b52f-9dbe93dc04a9",
+                "UnitEnter": {
+                    "Actions": [
+                        {
+                            "$type": "5d13a597de91e4746b804f8233518523, ContextActionApplyBuff",
+                            "name": "$ContextActionApplyBuff$289ac7e7-de2b-4c42-879e-04b6b0e6a8df",
+                            "m_Buff": "!bp_d10e196383fa40698a13cc2d36af6ea1", // custom (PackRagerSpellChainBuff.jbp)
+                            "Permanent": true,
+                            "UseDurationSeconds": false,
+                            "DurationValue": {
+                                "Rate": "Rounds",
+                                "DiceType": "Zero",
+                                "DiceCountValue": {
+                                    "ValueType": "Simple",
+                                    "Value": 0,
+                                    "ValueRank": "Default",
+                                    "ValueShared": "Damage",
+                                    "Property": "None",
+                                    "m_CustomProperty": null,
+                                },
+                                "BonusValue": {
+                                    "ValueType": "Simple",
+                                    "Value": 0,
+                                    "ValueRank": "Default",
+                                    "ValueShared": "Damage",
+                                    "Property": "None",
+                                    "m_CustomProperty": null,
+                                },
+                                "m_IsExtendable": true,
+                            },
+                            "DurationSeconds": 0.0,
+                            "IsFromSpell": false,
+                            "IsNotDispelable": true,
+                            "ToCaster": false,
+                            "AsChild": true,
+                            "SameDuration": false,
+                        },
+                    ],
+                },
+                "UnitExit": {
+                    "Actions": [
+                        {
+                            "$type": "23ddfb172c2d3c144ab007dec380d712, ContextActionRemoveBuff",
+                            "name": "$ContextActionRemoveBuff$b83578a9-f699-421d-be8d-084f49ff2637",
+                            "m_Buff": "!bp_d10e196383fa40698a13cc2d36af6ea1", // custom (PackRagerSpellChainBuff.jbp)
+                            "RemoveRank": false,
+                            "ToCaster": false,
+                        },
+                    ],
+                },
+                "UnitMove": {
+                    "Actions": [],
+                },
+                "Round": {
+                    "Actions": [],
+                },
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_TargetType": "Ally",
+        "SpellResistance": false,
+        "AffectEnemies": false,
+        "AggroEnemies": false,
+        "AffectDead": false,
+        "IgnoreSleepingUnits": false,
+        "Shape": "Cylinder",
+        "Size": {
+            "m_Value": 50.0,
+        },
+        "Fx": null,
+        "CanBeUsedInTacticalCombat": false,
+        "m_SizeInCells": 0,
+    },
+}

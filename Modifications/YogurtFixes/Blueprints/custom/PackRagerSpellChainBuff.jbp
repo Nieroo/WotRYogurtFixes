@@ -1,0 +1,49 @@
+{
+    "AssetId": "d10e196383fa40698a13cc2d36af6ea1",
+    "Data": {
+        "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+        "Components": [
+            {
+                "$type": "0519921424b403e4b8fdb50563b63091, AddTemporaryFeat",
+                "name": "$AddTemporaryFeat$761c66a9-3afd-4faf-a822-436fa8616b99",
+                "m_Feat": "!bp_d8d641edc9a74a64809f56feff9495b6", // SpellChain
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": {
+            "guid": "77b3a39fb33ba5b4086cd4616e4a220b",
+            "fileid": 21300000,
+        },
+        "IsClassFeature": true,
+        "m_Flags": "HiddenInUi, StayOnDeath",
+        "Stacking": "Replace",
+        "Ranks": 0,
+        "TickEachSecond": false,
+        "Frequency": "Minutes",
+        "FxOnStart": null,
+        "FxOnRemove": null,
+        "ResourceAssetIds": [],
+    },
+}

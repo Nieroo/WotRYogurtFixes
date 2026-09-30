@@ -1,0 +1,50 @@
+{
+    "AssetId": "edef965a0b4d4657a4bc356ca3ecc349",
+    "Data": {
+        "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+        "Components": [
+            {
+                "$type": "25b073dd90738ed46939db4777aafe17, AddAreaEffect",
+                "name": "$AddAreaEffect$967fd53d-89e0-454c-981c-3de28c0cb715",
+                "m_Overrides": [],
+                "m_AreaEffect": "!bp_aec20e378171497f985bd50111d62f32", // custom (PackRagerSpellChainArea.jbp)
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": {
+            "guid": "77b3a39fb33ba5b4086cd4616e4a220b",
+            "fileid": 21300000,
+        },
+        "IsClassFeature": true,
+        "m_Flags": "HiddenInUi, StayOnDeath",
+        "Stacking": "Replace",
+        "Ranks": 0,
+        "TickEachSecond": false,
+        "Frequency": "Rounds",
+        "FxOnStart": null,
+        "FxOnRemove": null,
+        "ResourceAssetIds": [],
+    },
+}

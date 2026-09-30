@@ -1,0 +1,51 @@
+{
+    "AssetId": "ee44086c2c844400ba4c1f0df4bda12f",
+    "Data": {
+        "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+        "Components": [
+            {
+                "$type": "eb30e3ab60d893e4189e1be10a29a9e2, BuffExtraEffects",
+                "name": "$BuffExtraEffects$a7481f0d-0d72-4a9b-a0c4-792aa8ade298",
+                "m_Overrides": [],
+                "m_CheckedBuff": "!bp_da8ce41ac3cd74742b80984ccc3c9613", // StandartRageBuff
+                "m_ExtraEffectBuff": "!bp_6290e78f945d4c09b99f978cd9f08bab", // custom (PackRagerShakeItOffAreaBuff.jbp)
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": {
+            "guid": "77b3a39fb33ba5b4086cd4616e4a220b",
+            "fileid": 21300000,
+        },
+        "IsClassFeature": true,
+        "m_Flags": "StayOnDeath",
+        "Stacking": "Replace",
+        "Ranks": 0,
+        "TickEachSecond": false,
+        "Frequency": "Rounds",
+        "FxOnStart": null,
+        "FxOnRemove": null,
+        "ResourceAssetIds": [],
+    },
+}

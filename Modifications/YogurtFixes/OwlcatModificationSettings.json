@@ -1016,6 +1016,98 @@
         {
             "Guid": "3f0a548044dbad04b82535237584772b",
             "Filename": "PackRagerArchetype.patch"
+        },
+        {
+            "Guid": "54efaa577ffe5114eb839d1bee8eda95",
+            "Filename": "PackRagerRagingTacticianBaseFeature.patch"
+        },
+        {
+            "Guid": "d8a472f1ecb14a448ad76ef60ed82371",
+            "Filename": "PackRagerVolleyFireAreaBuff.patch"
+        },
+        {
+            "Guid": "6f610da76445e9f4eb2d6f4ebbe4c386",
+            "Filename": "PackRagerVolleyFireBuff.patch"
+        },
+        {
+            "Guid": "8643f72853c575446984611acd4a5ace",
+            "Filename": "PackRagerTandemTripAreaBuff.patch"
+        },
+        {
+            "Guid": "969a3c2a4b9241545a070a1f7d2cd1b7",
+            "Filename": "PackRagerTandemTripBuff.patch"
+        },
+        {
+            "Guid": "4aced32b7f9e36e42b3ebd7f77ac6969",
+            "Filename": "PackRagerShieldWallAreaBuff.patch"
+        },
+        {
+            "Guid": "236e312c3ef599d4592611f4fce33f7d",
+            "Filename": "PackRagerShieldWallBuff.patch"
+        },
+        {
+            "Guid": "66dc855ee366f2c4da6e5fa6f02402d8",
+            "Filename": "PackRagerSeizeTheMomentAreaBuff.patch"
+        },
+        {
+            "Guid": "6b59035cc12026f44997ab129ddb1ce0",
+            "Filename": "PackRagerSeizeTheMomentBuff.patch"
+        },
+        {
+            "Guid": "b98e64f47c0da2547b680842c21cb7ee",
+            "Filename": "PackRagerShieldedCasterAreaBuff.patch"
+        },
+        {
+            "Guid": "2af29ad2e8dbd93498fb97f29eaef0be",
+            "Filename": "PackRagerShieldedCasterBuff.patch"
+        },
+        {
+            "Guid": "7db9b7200058b8b4d9f6aaea7f80dc5c",
+            "Filename": "PackRagerPreciseStrikeAreaBuff.patch"
+        },
+        {
+            "Guid": "1eb018f9dcbbc2547babb490c6a362a6",
+            "Filename": "PackRagerPreciseStrikeBuff.patch"
+        },
+        {
+            "Guid": "175ca70a78702af4d9bec9d30b24458c",
+            "Filename": "PackRagerOutflankAreaBuff.patch"
+        },
+        {
+            "Guid": "1defa80e957ceac46bc68be3d8afcce9",
+            "Filename": "PackRagerOutflankBuff.patch"
+        },
+        {
+            "Guid": "576c713c99ca6e44a93bcff13f1c8623",
+            "Filename": "PackRagerCoordinatedManeuversAreaBuff.patch"
+        },
+        {
+            "Guid": "732090a3f5d0fe84d84f8cc9028a1848",
+            "Filename": "PackRagerCoordinatedManeuversBuff.patch"
+        },
+        {
+            "Guid": "f7a7e8ecf7b1acc44be7ee4d5eede6ac",
+            "Filename": "PackRagerCoordinatedDefenseAreaBuff.patch"
+        },
+        {
+            "Guid": "dc29a6d14d7a6564d9001afd0b99ec5c",
+            "Filename": "PackRagerCoordinatedDefenseBuff.patch"
+        },
+        {
+            "Guid": "3a2e5cfc9c020324ba13f28cc38f884d",
+            "Filename": "PackRagerBackToBackAreaBuff.patch"
+        },
+        {
+            "Guid": "0a4184c41cbbb9543b5eb5f5102b1795",
+            "Filename": "PackRagerBackToBackBuff.patch"
+        },
+        {
+            "Guid": "e868ee1f1c61aa740a70a1d8a3f38935",
+            "Filename": "PackRagerAlliedSpellcasterAreaBuff.patch"
+        },
+        {
+            "Guid": "8569279256f6ed94a8db69c450aa058c",
+            "Filename": "PackRagerAlliedSpellcasterBuff.patch"
         }
     ]
 }
