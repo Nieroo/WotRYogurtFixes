@@ -349,5 +349,41 @@
             "Key": "5128deac-d130-471b-9da6-476116d319a3",
             "Value": "When you cast this {g|Encyclopedia:Spell}spell{/g}, you take on an aspect of a stag, including some of its physical characteristics.\nYou gain a +2 {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g} against {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}, your base {g|Encyclopedia:Speed}speed{/g} increases by 20 feet, you become immune to the effects of difficult terrain.\nIn addition, you gain a secondary gore attack ({g|Encyclopedia:Critical}critical{/g} multiplier 19–20/×2, 1d8 {g|Encyclopedia:Damage_Type}piercing damage{/g} if you are {g|Encyclopedia:Size}medium size{/g})."
         },
+        {
+            "Key": "14894d66-d51c-4499-af0c-6db037a5b2a6",
+            "Value": "Beginning at 3rd level, an arcane trickster can enter a special stance that allows him to improvise a way to treat all enemies as if they were {g|Encyclopedia:Flat_Footed}flat-footed{/g} (nothing can protect the target from this condition). An arcane trickster can maintain this stance for one {g|Encyclopedia:Combat_Round}round{/g} per day. For every two levels beyond 3rd, an arcane trickster can maintain this stance for one additional round, up to a maximum of 4 rounds at 9th level. The target of impromptu sneak attacks loses any {g|Encyclopedia:Dexterity}Dexterity{/g} {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g}, but only against those {g|Encyclopedia:Attack}attacks{/g}. The power can be used against any target, but creatures that are not subject to sneak attacks take no extra {g|Encyclopedia:Damage}damage{/g} (though they still lose any Dexterity bonus to AC against the attack)."
+        },
+        {
+            "Key": "fe501c24-e394-4315-98ed-e1b523c7c23e",
+            "Value": "Beginning at 3rd level, an arcane trickster can enter a special stance that allows him to improvise a way to treat all enemies as if they were {g|Encyclopedia:Flat_Footed}flat-footed{/g} (nothing can protect the target from this condition). An arcane trickster can maintain this stance for one {g|Encyclopedia:Combat_Round}round{/g} per day. For every two levels beyond 3rd, an arcane trickster can maintain this stance for one additional round, up to a maximum of 4 rounds at 9th level. The target of impromptu sneak attacks loses any {g|Encyclopedia:Dexterity}Dexterity{/g} {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Armor_Class}AC{/g}, but only against those {g|Encyclopedia:Attack}attacks{/g}. The power can be used against any target, but creatures that are not subject to sneak attacks take no extra {g|Encyclopedia:Damage}damage{/g} (though they still lose any Dexterity bonus to AC against the attack)."
+        },
+        {
+            "Key": "33c91810-1324-41cf-98b3-7065a466bc9a",
+            "Value": "An assassin can create copies of himself to distract the enemy. As long as at least one copy is present on the battlefield, the assassin treat all enemies as if they were {g|Encyclopedia:Flat_Footed}flat-footed{/g} (nothing can protect the target from this condition). This ability otherwise functions as the {g|SpellsMirrorImage}mirror image{/g} spell. The assassin creates one copy plus one copy for every 3 levels the assassin has beyond 3rd. He can use this ability a number of times per day equal to 1 + his {g|Encyclopedia:Intelligence}Intelligence{/g} modifier."
+        },
+        {
+            "Key": "f00bed07-19cb-4209-9404-cafa74581c0b",
+            "Value": "At 2nd level, a dark lurker gains the ability to travel between shadows and deliver sudden strikes to victims. While within 5 feet of a larger creature, as a {g|Encyclopedia:Standard_Actions}standard action{/g}, the dark lurker can step into the creature's shadow and emerge from the shadow of an enemy larger than the dark lurker within 30 feet, then make a single attack with a melee weapon against that enemy, treating the enemy as if he were {g|Encyclopedia:Flat_Footed}flat-footed{/g} (nothing can protect the target from this condition). At nighttime, the dark lurker gains a +2 circumstance {g|Encyclopedia:Bonus}bonus{/g} on this {g|Encyclopedia:Attack}attack{/g}.\nAt 14th level, as a {g|Encyclopedia:Full_Round_Action}full-round action{/g}, the dark lurker can make a full attack with a melee weapon in a similar way. The first attack in this {g|Encyclopedia:CA_Types}action{/g} is treat an enemy as if he were flat-footed and gains a +2 circumstance bonus if made at nighttime.\nAdditionally, at nighttime, the dark lurker gains a +2 bonus on {g|Encyclopedia:Initiative}initiative{/g} {g|Encyclopedia:Check}checks{/g}."
+        },
+        {
+            "Key": "cfc0499c-a414-4673-9829-77ce361dd41d",
+            "Value": "Once per day, a rogue with this talent can designate a single enemy she is adjacent to as her prey. Until the end of her next turn, she treat this enemy as if he were {g|Encyclopedia:Flat_Footed}flat-footed{/g} (nothing can protect the target from this condition)."
+        },
+        {
+            "Key": "54cfef1d-644d-46a6-a735-fef35fcd0dd7",
+            "Value": "The assassin has perfected his craft to a point where he can deliver the killing blow before his target can react. He can now use his target assassination ability as a {g|Encyclopedia:Standard_Actions}standard action{/g}. The assassin treat his target affected by his mark of death as if he were {g|Encyclopedia:Flat_Footed}flat-footed{/g} (nothing can protect the target from this condition)."
+        },
+        {
+            "Key": "2fca1af9-5bd8-4773-ba98-fbc0008439df",
+            "Value": "The magus can expend 1 point from his arcane pool as a {g|Encyclopedia:Swift_Action}swift action{/g}, allowing him to anticipate his opponent's defenses. Enemies are denied their {g|Encyclopedia:Dexterity}Dexterity{/g} {g|Encyclopedia:Bonus}bonus{/g} against the magus's {g|Encyclopedia:Attack}attacks{/g} until the end of the magus's next turn (nothing can protect the target from this condition)."
+        },
+        {
+            "Key": "05046610-bc55-4af7-96db-2f1fbebf484d",
+            "Value": "At 1st level, a Sable Company marine gains a hippogriff as a mount instead of choosing the hunter's bond class feature at 4th level. This ability functions like the druid's animal companion ability, and the marine's effective druid level is equal to his ranger level.\nWhile the Sable Company marine is mounted, he also {g|Encyclopedia:Attack}attacks{/g} the target of the hippogriff's flying attack, as a {g|Encyclopedia:Full_Round_Action}full-round action{/g}. {g|Encyclopedia:RangedAttack}Ranged attacks{/g} made in this way do not provoke {g|Encyclopedia:Attack_Of_Opportunity}attacks of opportunity{/g}. The target is considered {g|Encyclopedia:Flat_Footed}flat-footed{/g} against the marine's first attack made as part of the flying attack (nothing can protect the target from this condition)."
+        },
+        {
+            "Key": "6239f9d7-45e0-4ca6-8201-81da0aa13695",
+            "Value": "The hippogriff flies straight at the opponent. This ability functions and counts as charging, except that it does not require a clear path to the target and can only be used in combat. The target is considered {g|Encyclopedia:Flat_Footed}flat-footed{/g} against the hippogriff's first {g|Encyclopedia:Attack}attack{/g} made as part of the flying attack (nothing can protect the target from this condition)."
+        },
     ],
 }
