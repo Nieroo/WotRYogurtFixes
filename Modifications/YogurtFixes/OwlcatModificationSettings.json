@@ -1108,6 +1108,18 @@
         {
             "Guid": "8569279256f6ed94a8db69c450aa058c",
             "Filename": "PackRagerAlliedSpellcasterBuff.patch"
+        },
+        {
+            "Guid": "f97986f19a595e2409cfe5d92bcf697c",
+            "Filename": "LoremasterWizardSpellSecret.patch"
+        },
+        {
+            "Guid": "6b73ba9d8a718fb419a484c6e1b92c6d",
+            "Filename": "LoremasterDruidSpellSecret.patch"
+        },
+        {
+            "Guid": "904ce918c85c9f947910340b956fb877",
+            "Filename": "LoremasterClericSpellSecret.patch"
         }
     ]
 }
