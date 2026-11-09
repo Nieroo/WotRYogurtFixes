@@ -1120,6 +1120,10 @@
         {
             "Guid": "904ce918c85c9f947910340b956fb877",
             "Filename": "LoremasterClericSpellSecret.patch"
+        },
+        {
+            "Guid": "3b0073d0b992438db2380551dfcb894e",
+            "Filename": "DLC3_GlassesOfundeniableTruthSetAreaEffect.patch"
         }
     ]
 }

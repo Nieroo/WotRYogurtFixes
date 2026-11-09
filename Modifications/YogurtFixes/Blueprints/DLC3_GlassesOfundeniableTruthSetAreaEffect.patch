@@ -1,0 +1,22 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Round": {
+                "Actions": [
+                    {
+                        "IfFalse": {
+                            "Actions": [
+                                {},
+                                {
+                                    // "m_Spell": "!bp_bd81a3931aa285a4f9844585b5d97e51", // CauseFear
+                                    "m_Spell": "!bp_db0dc94f67c748dbb73a73bd0b29cd2b", // custom (CauseFearOfTruth.jbp)
+                                },
+                            ],
+                        },
+                    },
+                ],
+            },
+        },
+    ],
+}

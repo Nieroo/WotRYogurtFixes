@@ -385,5 +385,13 @@
             "Key": "6239f9d7-45e0-4ca6-8201-81da0aa13695",
             "Value": "The hippogriff flies straight at the opponent. This ability functions and counts as charging, except that it does not require a clear path to the target and can only be used in combat. The target is considered {g|Encyclopedia:Flat_Footed}flat-footed{/g} against the hippogriff's first {g|Encyclopedia:Attack}attack{/g} made as part of the flying attack (nothing can protect the target from this condition)."
         },
+        {
+            "Key": "29600790-0a32-46ff-966d-491a456977de",
+            "Value": "This robe grants its wearer +2 circumstance {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Wisdom}Wisdom{/g} {g|Encyclopedia:Ability_Scores}ability score{/g}. When this robe is equipped together with the Glasses of undeniable truth, it grants its wearer a 10 foot aura of fear. Any hostile creature who starts its {g|Encyclopedia:Combat_Round}round{/g} inside this aura is affected with the {g|SpellsCauseFear}cause fear{/g} spell ({g|Encyclopedia:DC}DC{/g} = 25 + the wearer's {g|Encyclopedia:Charisma}Charisma{/g} modifier). Unlike the spell, this effect is not limited by the creature’s {g|Encyclopedia:Hit_Dice}Hit Dice{/g}."
+        },
+        {
+            "Key": "b4181aee-e3b3-4746-aa0e-7cabd39d2732",
+            "Value": "The Glasses of Undeniable Truth and the Robe of Unspeakable Truth, equipped together, give the wearer a +2 circumstance {g|Encyclopedia:Bonus}bonus{/g} to {g|Encyclopedia:Intelligence}Intelligence{/g} {g|Encyclopedia:Ability_Scores}ability score{/g} and a 10 foot aura of fear. Any creature who starts its {g|Encyclopedia:Combat_Round}round{/g} inside this aura is affected with the {g|SpellsCauseFear}cause fear{/g} spell ({g|Encyclopedia:DC}DC{/g} = 25 + the wearer's {g|Encyclopedia:Charisma}Charisma{/g} modifier). Unlike the spell, this effect is not limited by the creature’s {g|Encyclopedia:Hit_Dice}Hit Dice{/g}."
+        },
     ],
 }
