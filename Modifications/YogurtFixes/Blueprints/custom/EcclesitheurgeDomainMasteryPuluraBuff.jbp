@@ -40,18 +40,18 @@
                                         "m_PermanentFeature": "!bp_ebb0b46f95dbac74681c78aae895dbd0", // PuluraFeature
                                         "m_SetRankFrom": null,
                                     },
-                                    {
-                                        "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
-                                        "name": "$ContextActionRemoveSelf$ea1412da-09d1-43ee-aaf5-22e6a6dad3a4",
-                                    },
+                                    //{
+                                    //    "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+                                    //    "name": "$ContextActionRemoveSelf$ea1412da-09d1-43ee-aaf5-22e6a6dad3a4",
+                                    //},
                                 ],
                             },
                             "IfFalse": {
                                 "Actions": [
-                                    {
-                                        "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
-                                        "name": "$ContextActionRemoveSelf$963894a3e16c40dba8f70c6d8131af18",
-                                    },
+                                    //{
+                                    //    "$type": "1e0ebe55f7204066b7cdb0eb124b863a, ContextActionRemoveSelf",
+                                    //    "name": "$ContextActionRemoveSelf$963894a3e16c40dba8f70c6d8131af18",
+                                    //},
                                 ],
                             },
                         },
