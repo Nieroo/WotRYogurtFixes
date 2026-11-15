@@ -1,0 +1,12 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "m_BaseValueType": "ClassLevel",
+            "m_Class": [
+                "!bp_1b9873f1e7bfe5449bc84d03e9c8e3cc", // WitchClass
+            ],
+        },
+        {},
+    ],
+}

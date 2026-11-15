@@ -1124,6 +1124,58 @@
         {
             "Guid": "3b0073d0b992438db2380551dfcb894e",
             "Filename": "DLC3_GlassesOfundeniableTruthSetAreaEffect.patch"
+        },
+        {
+            "Guid": "1b9873f1e7bfe5449bc84d03e9c8e3cc",
+            "Filename": "WitchClass.patch"
+        },
+        {
+            "Guid": "69977e8eb1a98004582e6b0141a56f56",
+            "Filename": "CauldronWitchMixtureAbilityStrength.patch"
+        },
+        {
+            "Guid": "04aee691ba089674d888c054f1dd63fe",
+            "Filename": "CauldronWitchMixtureAbilityStrengthBuff.patch"
+        },
+        {
+            "Guid": "6aed5314518a3574f90a4c35f80bfaeb",
+            "Filename": "CauldronWitchMixtureAbilityDexterity.patch"
+        },
+        {
+            "Guid": "ff0a0b9999c6b014f9804cc18b9c5fc2",
+            "Filename": "CauldronWitchMixtureAbilityDexterityBuff.patch"
+        },
+        {
+            "Guid": "f6d5a4c657ea75d4fb6f68ceb9f89a20",
+            "Filename": "CauldronWitchMixtureAbilityConstitution.patch"
+        },
+        {
+            "Guid": "d85fa215fbf9409479ef1a3a966712a9",
+            "Filename": "CauldronWitchMixtureAbilityConstitutionBuff.patch"
+        },
+        {
+            "Guid": "372e98800c41f7841a02d3a3aa1b7a7f",
+            "Filename": "CauldronWitchMixtureAbilityIntelligence.patch"
+        },
+        {
+            "Guid": "630c65af7cbc18b4da4694a7e0c3d126",
+            "Filename": "CauldronWitchMixtureAbilityIntelligenceBuff.patch"
+        },
+        {
+            "Guid": "e2b9f9f434cdce444a84b4ec81483d2d",
+            "Filename": "CauldronWitchMixtureAbilityWisdom.patch"
+        },
+        {
+            "Guid": "08cc6b3581c4e1647b9964feb37313d5",
+            "Filename": "CauldronWitchMixtureAbilityWisdomBuff.patch"
+        },
+        {
+            "Guid": "69475b49cdaa3f84ca85fea6ba4b3f01",
+            "Filename": "CauldronWitchMixtureAbilityCharisma.patch"
+        },
+        {
+            "Guid": "9481da6275f19b248af50c87bca0863a",
+            "Filename": "CauldronWitchMixtureAbilityCharismaBuff.patch"
         }
     ]
 }
