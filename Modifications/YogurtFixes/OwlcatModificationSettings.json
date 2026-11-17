@@ -1176,6 +1176,10 @@
         {
             "Guid": "9481da6275f19b248af50c87bca0863a",
             "Filename": "CauldronWitchMixtureAbilityCharismaBuff.patch"
+        },
+        {
+            "Guid": "e624d8c0c594408bbf413e0b353098e5",
+            "Filename": "GeomancyAbilityAreaEffect.patch"
         }
     ]
 }
