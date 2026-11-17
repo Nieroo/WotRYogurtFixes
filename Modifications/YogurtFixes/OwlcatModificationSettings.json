@@ -510,10 +510,6 @@
             "Filename": "AnimalGrowthBuff.patch"
         },
         {
-            "Guid": "337734854898476aa78887c835958b45",
-            "Filename": "NormalizeSizeAnimalGrowthBuff.patch"
-        },
-        {
             "Guid": "beb608c45bb2aef42802e2afdf018a32",
             "Filename": "AnimalCompanionUpgradeMonitor.patch"
         },
@@ -570,64 +566,8 @@
             "Filename": "BlizzardServantTierIFeature.patch"
         },
         {
-            "Guid": "4ce640f9800d444418779a214598d0a3",
-            "Filename": "LegendaryProportionsBuff.patch"
-        },
-        {
-            "Guid": "01465dfa521e40d5b92c9e35b8435ee4",
-            "Filename": "NormalizeSizeLegendaryProportionsBuff.patch"
-        },
-        {
             "Guid": "762290033ea4477885c24ac1f73b7edb",
             "Filename": "BlizzardServantTierIIFeature.patch"
-        },
-        {
-            "Guid": "c84fbb4414925f344b894e9511626296",
-            "Filename": "RighteousMightEvilBuff.patch"
-        },
-        {
-            "Guid": "17206974f2a2c164db26d1af7fac57d5",
-            "Filename": "RighteousMightGoodBuff.patch"
-        },
-        {
-            "Guid": "1fc9f0bd6b7743fbbee7709471465cfa",
-            "Filename": "NormalizeSizeRighteousMightEvilBuff.patch"
-        },
-        {
-            "Guid": "3adf7e17392e402ba87c488d84183a1e",
-            "Filename": "NormalizeSizeRighteousMightGoodBuff.patch"
-        },
-        {
-            "Guid": "906262fda0fbda442b27f9b0a04e5aa0",
-            "Filename": "FrightfulAspectBuff.patch"
-        },
-        {
-            "Guid": "7fca0219039542fea20a819c3356024b",
-            "Filename": "NormalizeSizeFrightfulAspectBuff.patch"
-        },
-        {
-            "Guid": "1f1a0c31f40741fabb26cad859f0b752",
-            "Filename": "DLC3_GiantIslandEnlargeBuff.patch"
-        },
-        {
-            "Guid": "51afcb44344a45569fec113ce99916dd",
-            "Filename": "DLC3_LegendaryProportionsBuff.patch"
-        },
-        {
-            "Guid": "e3a9786b626d4b50ac58a8b3cbdc00f4",
-            "Filename": "Gorum_Buff.patch"
-        },
-        {
-            "Guid": "cace8d48668048138a076e870e758f4b",
-            "Filename": "DLC5_ChaoticTransformationEnlargePersonBuff.patch"
-        },
-        {
-            "Guid": "8ef70dff830b4f38a877491286c4ec2d",
-            "Filename": "DLC5_ChaoticTransformationReducePersonBuff.patch"
-        },
-        {
-            "Guid": "1dfc2f933e7833f41922411962e1d58a",
-            "Filename": "TricksterMicroscopicProportionsBuff.patch"
         },
         {
             "Guid": "4b1f07a71a982824988d7f48cd49f3f8",
