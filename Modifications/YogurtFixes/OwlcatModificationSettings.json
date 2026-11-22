@@ -1280,6 +1280,22 @@
         {
             "Guid": "b0de948d19ea467c8deca91888e68fb1",
             "Filename": "XanthirForeshadowFeature.patch"
+        },
+        {
+            "Guid": "5238b7d5f4c81574ba914d609ac1e692",
+            "Filename": "GlovesOfDuelingFeature.patch"
+        },
+        {
+            "Guid": "f063942ce72136c49a12d34a3fd88197",
+            "Filename": "GlovesOfDuelingFeature2.patch"
+        },
+        {
+            "Guid": "df266754759ade74eb6e3fd650bdb7c9",
+            "Filename": "FencersGiftFeature.patch"
+        },
+        {
+            "Guid": "79b47a435975401cab345d2cea0d3c16",
+            "Filename": "GlovesOfEntropyFeature.patch"
         }
     ]
 }

@@ -1,0 +1,54 @@
+{
+    "AssetId": "b1803faf306c467ea52da98aea3fd849",
+    "Data": {
+        "$type": "cb208b98ceacca84baee15dba53b1979, BlueprintFeature",
+        "Components": [
+            {
+                "$type": "33e70120ce11afc42a87352751f3bb90, WeaponCategoryAttackBonus",
+                "name": "$WeaponCategoryAttackBonus$8373dda4-79b0-4987-808e-bd119a43b1c7",
+                "Category": "Glaive",
+                "AttackBonus": 1,
+                "Descriptor": "UntypedStackable",
+            },
+            {
+                "$type": "843d0fe3338164b4e8beae279e30f520, WeaponTypeDamageBonus",
+                "name": "$WeaponTypeDamageBonus$4bccc72e-789c-45c9-a253-7238d8355624",
+                "m_WeaponType": "!bp_7a14a1b224cd173449cb7ffc77d5f65c", // Glaive
+                "DamageBonus": 1,
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "d8a000ff-9814-445f-8ec0-bfb85d90352b",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": null,
+        "HideInUI": true,
+        "HideInCharacterSheetAndLevelUp": true,
+        "HideNotAvailibleInUI": true,
+        "DlcType": "None",
+        "Groups": [],
+        "Ranks": 1,
+        "ReapplyOnLevelUp": false,
+        "IsClassFeature": false,
+        "IsPrerequisiteFor": [],
+    },
+}

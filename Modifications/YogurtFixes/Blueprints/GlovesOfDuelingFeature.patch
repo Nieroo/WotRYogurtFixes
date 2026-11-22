@@ -1,0 +1,70 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {
+            "$type": "25d172d2be8f52f468b2050d14d59806, AddFactContextActions",
+            "m_Flags": 0,
+            "name": "$AddFactContextActions$1f2752d6-c540-4d74-bc4f-7036c07a17f1",
+            "Activated": {
+                "Actions": [
+                    {
+                        "$type": "52d8973f2e470e14c97b74209680491a, Conditional",
+                        "name": "$Conditional$deb25788-a0f6-469a-b293-4260af4cf41d",
+                        "Comment": "",
+                        "ConditionsChecker": {
+                            "Operation": "And",
+                            "Conditions": [
+                                {
+                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                    "name": "$ContextConditionHasFact$673c207b-9ecd-4bc8-8c37-48e6012b14b1",
+                                    "Not": true,
+                                    "m_Fact": "!bp_c062c6d16aecddc4ab67d9c783b2ad46", // WeaponTrainingPolearms
+                                },
+                                {
+                                    "$type": "9706de75454abeb48bd4cfa7f526a1c2, ContextConditionHasFact",
+                                    "name": "$ContextConditionHasFact$4c9f502c-dd5e-450f-abe1-d14a4d1fe611",
+                                    "Not": false,
+                                    "m_Fact": "!bp_6be2815963114cc0ac2b85a287d7ae83", // BaphometPreacherBookFeature
+                                },
+                            ],
+                        },
+                        "IfTrue": {
+                            "Actions": [
+                                {
+                                    "$type": "7e9b6e3ec852e264e8fcd8c4b5956eee, AddFact",
+                                    "name": "$AddFact$63cf46b8-4f17-455a-98a8-72326b29c80d",
+                                    "Unit": {
+                                        "$type": "cf2430390b1b475490921b4ba97a682f, ContextTargetUnit",
+                                        "name": "$ContextTargetUnit$c24c1f78-6704-46d0-8b75-ee23ccb8373b",
+                                    },
+                                    "m_Fact": "!bp_b1803faf306c467ea52da98aea3fd849", // custom (BaphometPreacherBookFeaturePlus1.jbp)
+                                },
+                            ],
+                        },
+                        "IfFalse": {
+                            "Actions": [],
+                        },
+                    },
+                ],
+            },
+            "Deactivated": {
+                "Actions": [
+                    {
+                        "$type": "6e7c340ab284b5d4abb5b75a0a5da91a, RemoveFact",
+                        "name": "$RemoveFact$4f9fa52f-6b0f-4e6f-a728-468b6a00821f",
+                        "Unit": {
+                            "$type": "cf2430390b1b475490921b4ba97a682f, ContextTargetUnit",
+                            "name": "$ContextTargetUnit$0e4236ab-fb8a-4513-96d4-92c1ac6586ea",
+                        },
+                        "m_Fact": "!bp_b1803faf306c467ea52da98aea3fd849", // custom (BaphometPreacherBookFeaturePlus1.jbp)
+                    },
+                ],
+            },
+            "NewRound": {
+                "Actions": [],
+            },
+        },
+    ],
+}
