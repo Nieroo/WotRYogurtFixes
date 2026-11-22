@@ -1120,6 +1120,166 @@
         {
             "Guid": "e624d8c0c594408bbf413e0b353098e5",
             "Filename": "GeomancyAbilityAreaEffect.patch"
+        },
+        {
+            "Guid": "f244426222d6450a98dae742ad6c85c3",
+            "Filename": "BaphometEscaped.patch"
+        },
+        {
+            "Guid": "1f81ff00cc3e4a7caeacb1624127e98e",
+            "Filename": "BaphometEscapedFeature.patch"
+        },
+        {
+            "Guid": "d15d7384f3ddf804883c543badc776ab",
+            "Filename": "BaphometPreacherBook.patch"
+        },
+        {
+            "Guid": "6be2815963114cc0ac2b85a287d7ae83",
+            "Filename": "BaphometPreacherBookFeature.patch"
+        },
+        {
+            "Guid": "fa1f67444ec844508ea2eb6549581d5d",
+            "Filename": "AboutIzyagna.patch"
+        },
+        {
+            "Guid": "c40878ae14b343778c68972ff4980671",
+            "Filename": "AboutIzyagnaFeature.patch"
+        },
+        {
+            "Guid": "6e09b855929d419893eb2fbaeec80e51",
+            "Filename": "KenabresWardstone.patch"
+        },
+        {
+            "Guid": "3ced8d516e9341ad88597342f72b705a",
+            "Filename": "KenabresWardstoneFeature.patch"
+        },
+        {
+            "Guid": "c0697a86bc2442d0ae9a382caf8623b9",
+            "Filename": "TerendelevOrigin.patch"
+        },
+        {
+            "Guid": "7c7d864e671d4d8b8a7cfe073d108e5f",
+            "Filename": "TerendelevOriginFeature.patch"
+        },
+        {
+            "Guid": "c856cd988c844fadb8da723d8c1dc13e",
+            "Filename": "WorldwoundSetting.patch"
+        },
+        {
+            "Guid": "ae2f7620b5bf4282b95abc8b70c0066c",
+            "Filename": "WorldwoundSettingFeature.patch"
+        },
+        {
+            "Guid": "de12840a4662481f937ff9542a6beb6b",
+            "Filename": "ZachariusNecromancy.patch"
+        },
+        {
+            "Guid": "0c96ac8f976a4fc38148a259cf8ef917",
+            "Filename": "ZachariusNecromancyFeature.patch"
+        },
+        {
+            "Guid": "027188bc60a84c14adca15b58d91db34",
+            "Filename": "AreeluArchitect.patch"
+        },
+        {
+            "Guid": "6711f8274dd74d5e8ac02af7451ca22d",
+            "Filename": "AreeluArchitectFeature.patch"
+        },
+        {
+            "Guid": "95c3a3bee7de4538b20c4e159e3acf8c",
+            "Filename": "CrusadeMainEnemies.patch"
+        },
+        {
+            "Guid": "eba592d1ba5444918fe9cc5776d5177d",
+            "Filename": "CrusadeMainEnemiesFeature.patch"
+        },
+        {
+            "Guid": "6d82798ebe6a4ec985ba8ecbd2fc802d",
+            "Filename": "CrusadeChronicles.patch"
+        },
+        {
+            "Guid": "bd946f5ad1f84e8bae505544afe99edc",
+            "Filename": "CrusadeChroniclesFeature.patch"
+        },
+        {
+            "Guid": "75b3f3672d8c4da7a1ca37a5bf5625e3",
+            "Filename": "ActsOfIomedae.patch"
+        },
+        {
+            "Guid": "f16ea400ed67470b83cfd6c0dedbce6f",
+            "Filename": "ActsOfIomedaeFeature.patch"
+        },
+        {
+            "Guid": "2669932ca67e47d9a97e6582db0301d5",
+            "Filename": "XanthirRevelations.patch"
+        },
+        {
+            "Guid": "c231414680fc4c45889e14bec45e7674",
+            "Filename": "XanthirRevelationsFeature.patch"
+        },
+        {
+            "Guid": "944bc8dce4e80a144b4434402f6d11fb",
+            "Filename": "Xanthir_notes.patch"
+        },
+        {
+            "Guid": "f5de9974738e40389bc7cf09d4504912",
+            "Filename": "Xanthir_notesFeature.patch"
+        },
+        {
+            "Guid": "e9fe24ad25c54b6b8f288ef822c549ce",
+            "Filename": "HowToMythicADemon.patch"
+        },
+        {
+            "Guid": "34a4e11adb6d45328d2d25cbd83fbe65",
+            "Filename": "HowToMythicADemonFeature.patch"
+        },
+        {
+            "Guid": "ec4184f7b7db4805b837fd314ee8dbce",
+            "Filename": "AreeluLetter1.patch"
+        },
+        {
+            "Guid": "fe44ef8bf6bd4d19a90c5856932c0c40",
+            "Filename": "AreeluLetter1Feature.patch"
+        },
+        {
+            "Guid": "9d62838089e4420689a1e230a8186258",
+            "Filename": "AreeluLetter2.patch"
+        },
+        {
+            "Guid": "07a416c7909640e4a4d3b91ea64d4b7a",
+            "Filename": "AreeluLetter2Feature.patch"
+        },
+        {
+            "Guid": "beaa7a8b2f5bfd8459042db7f81867d7",
+            "Filename": "GrimoireOfTheBeast.patch"
+        },
+        {
+            "Guid": "0c69573e86804480bd2174c7c1468503",
+            "Filename": "GrimoireOfTheBeastFeature.patch"
+        },
+        {
+            "Guid": "7d0106b7c70a4630b474494be1c0ea75",
+            "Filename": "BaphometImprisoned.patch"
+        },
+        {
+            "Guid": "b057ad10422343e5a0b362fd09beab29",
+            "Filename": "BaphometImprisonedFeature.patch"
+        },
+        {
+            "Guid": "194a0fc9a69f278499b2f81fbf9fd3ab",
+            "Filename": "MutasafenRevelations.patch"
+        },
+        {
+            "Guid": "fb061da4c4ac4fef96c60263c21d183f",
+            "Filename": "MutasafenRevelationsFeature.patch"
+        },
+        {
+            "Guid": "a40e092665744b8c801fb7fe4c402de7",
+            "Filename": "XanthirForeshadow.patch"
+        },
+        {
+            "Guid": "b0de948d19ea467c8deca91888e68fb1",
+            "Filename": "XanthirForeshadowFeature.patch"
         }
     ]
 }
