@@ -1,0 +1,28 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {},
+        {},
+        {},
+        {
+            "Action": {
+                "Actions": [
+                    {
+                        "ConditionsChecker": {
+                            "Conditions": [
+                                {},
+                                {
+                                    "$type": "b0c4370c781db0142b035f14ca13a6a5, ContextConditionIsEnemy",
+                                    "name": "$ContextConditionIsEnemy$6d232e7b-f3b7-4f09-be8e-faaf3ae4a99f",
+                                    "Not": false,
+                                    "m_Buff": null,
+                                },
+                            ],
+                        },
+                    },
+                ],
+            },
+        },
+    ],
+}

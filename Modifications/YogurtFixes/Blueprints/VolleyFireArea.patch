@@ -1,0 +1,20 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "_#NullMergeSettings": "Merge",
+    "Components": [
+        {
+            "Condition": {
+                "Conditions": [
+                    {
+                        "m_Buff": "!bp_febd99a95065bdf4297acad705f7a797", // VolleyFireEffectBuff
+                    },
+                    {
+                        "$type": "b0c4370c781db0142b035f14ca13a6a5, ContextConditionIsEnemy",
+                        "name": "$ContextConditionIsEnemy$6d232e7b-f3b7-4f09-be8e-faaf3ae4a99f",
+                        "Not": false,
+                    },
+                ],
+            },
+        },
+    ],
+}

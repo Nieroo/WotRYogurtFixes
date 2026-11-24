@@ -1296,6 +1296,22 @@
         {
             "Guid": "79b47a435975401cab345d2cea0d3c16",
             "Filename": "GlovesOfEntropyFeature.patch"
+        },
+        {
+            "Guid": "c4b555225f565bb40a855c1bfeeff07e",
+            "Filename": "VolleyFireFeature.patch"
+        },
+        {
+            "Guid": "04cbc65aa6b205844b609c860e7de4b5",
+            "Filename": "VolleyFireBuff.patch"
+        },
+        {
+            "Guid": "885e0cde5fee0b84798feef6bca1df71",
+            "Filename": "VolleyFireArea.patch"
+        },
+        {
+            "Guid": "febd99a95065bdf4297acad705f7a797",
+            "Filename": "VolleyFireEffectBuff.patch"
         }
     ]
 }

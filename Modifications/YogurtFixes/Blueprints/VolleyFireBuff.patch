@@ -1,0 +1,13 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {},
+        {
+            "$type": "0f4abcc6f460e094eb0754103a4bdef7, UniqueBuff",
+            "m_Flags": 0,
+            "name": "$UniqueBuff$f52b8401-509c-4f49-867e-006474d7d16a",
+        },
+    ],
+    //"m_Flags": 0,
+    "Stacking": "Stack",
+}
