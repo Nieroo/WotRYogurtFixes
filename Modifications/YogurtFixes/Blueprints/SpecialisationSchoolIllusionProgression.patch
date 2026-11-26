@@ -1,0 +1,19 @@
+{
+    "LevelEntries": [
+        {
+            "Level": 1,
+            "m_Features": [
+                "!bp_9be5e050244352d43a1cb50aad8d548f", // IllusionSchoolBaseFeature
+
+                //"!bp_6c29030e9fea36949877c43a6f94ff31", // OppositionSchoolSelection
+                //"!bp_6c29030e9fea36949877c43a6f94ff31", // OppositionSchoolSelection
+            ],
+        },
+        {
+            "Level": 8,
+            "m_Features": [
+                "!bp_f0585eb111ede2c4ebf00b057d069463", // IllusionSchoolGreaterFeature
+            ],
+        },
+    ],
+}

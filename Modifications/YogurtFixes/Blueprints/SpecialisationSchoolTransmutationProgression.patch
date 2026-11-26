@@ -1,0 +1,25 @@
+{
+    "LevelEntries": [
+        {
+            "Level": 1,
+            "m_Features": [
+                "!bp_c459c8200e666ef4c990873d3e501b91", // SpecializationSchoolTransmutation
+
+                //"!bp_6c29030e9fea36949877c43a6f94ff31", // OppositionSchoolSelection
+                //"!bp_6c29030e9fea36949877c43a6f94ff31", // OppositionSchoolSelection
+            ],
+        },
+        {
+            "Level": 8,
+            "m_Features": [
+                "!bp_aeb56418768235640a3ee858d5ee05e8", // TransmutationSchoolChangeShapeFeatureAdd
+            ],
+        },
+        {
+            "Level": 20,
+            "m_Features": [
+                "!bp_6aa7d3496cd68e643adcd439a7306caa", // TransmutationPhysicalEnhancementCapstone
+            ],
+        },
+    ],
+}

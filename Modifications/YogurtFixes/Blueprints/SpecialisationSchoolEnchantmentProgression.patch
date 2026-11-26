@@ -1,0 +1,19 @@
+{
+    "LevelEntries": [
+        {
+            "Level": 1,
+            "m_Features": [
+                "!bp_9e4c4799735ae9c45964e9113107ef02", // EnchantmentSchoolBaseFeature
+
+                //"!bp_6c29030e9fea36949877c43a6f94ff31", // OppositionSchoolSelection
+                //"!bp_6c29030e9fea36949877c43a6f94ff31", // OppositionSchoolSelection
+            ],
+        },
+        {
+            "Level": 8,
+            "m_Features": [
+                "!bp_972ed7d4b0e497345a69b06afc052f67", // EnchantmentSchoolGreaterFeature
+            ],
+        },
+    ],
+}

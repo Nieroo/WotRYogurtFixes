@@ -1,0 +1,25 @@
+{
+    "LevelEntries": [
+        {
+            "Level": 1,
+            "m_Features": [
+                "!bp_c46512b796216b64899f26301241e4e6", // SpecializationSchoolEvocation
+
+                //"!bp_6c29030e9fea36949877c43a6f94ff31", // OppositionSchoolSelection
+                //"!bp_6c29030e9fea36949877c43a6f94ff31", // OppositionSchoolSelection
+            ],
+        },
+        {
+            "Level": 8,
+            "m_Features": [
+                "!bp_de877714f4d224949b403205e8582de4", // ElementalWallFeature
+            ],
+        },
+        {
+            "Level": 20,
+            "m_Features": [
+                "!bp_f50f2336ee59d004c8a37f9c8665bb98", // IntenseSpellsPenetration
+            ],
+        },
+    ],
+}
