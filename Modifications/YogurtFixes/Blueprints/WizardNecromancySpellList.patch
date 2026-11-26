@@ -1,0 +1,108 @@
+{
+    "SpellsByLevel": [
+        {
+            "SpellLevel": 0,
+            "m_Spells": [
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+            ],
+        },
+        {
+            "SpellLevel": 1,
+            "m_Spells": [
+                //"!bp_78e0d5e8ad0e3eb4c8d65e0d34b945b4", // RayOfEnfeeblementCutsceneQuickened
+                "!bp_bd81a3931aa285a4f9844585b5d97e51", // CauseFear
+                "!bp_450af0402422b0b4980d9c2175869612", // RayOfEnfeeblement
+                "!bp_fa3078b9976a5b24caf92e20ee9c0f54", // RayOfSickening
+            ],
+        },
+        {
+            "SpellLevel": 2,
+            "m_Spells": [
+                "!bp_46fd02ad56c35224c9c91c88cd457791", // Blindness
+                "!bp_b7731c2b4fa1c9844a092329177be4c3", // Boneshaker
+                "!bp_0b101dd5618591e478f825f0eef155b4", // CommandUndead
+                "!bp_7a5b5bf845779a941a67251539545762", // FalseLife
+                "!bp_dee3074b2fbfb064b80b973f9b56319e", // PerniciousPoison
+                //"!bp_57fcf8016cf04da4a8b33d2add14de7e", // AnimateDeadLesser
+                "!bp_08cb5f4c3b2695e44971bf5c45205df0", // Scare
+                "!bp_0da2046b4517427bb9b2e304ea6342bf", // BoneFists
+                "!bp_a2b05555c704458aaadc34be52a63633", // GhoulTouchCast
+            ],
+        },
+        {
+            "SpellLevel": 3,
+            "m_Spells": [
+                "!bp_8eead52509987034ea9025d60cc05985", // RayOfExhaustion
+                "!bp_8a28a811ca5d20d49a863e832c31cce1", // VampiricTouchCast
+
+                //"!bp_4b76d32feb089ad4499c3a1ce8e1ac27", // AnimateDead
+                "!bp_57fcf8016cf04da4a8b33d2add14de7e", // AnimateDeadLesser
+            ],
+        },
+        {
+            "SpellLevel": 4,
+            "m_Spells": [
+                "!bp_989ab5c44240907489aba0a8568d0603", // BestowCurse
+                "!bp_48e2744846ed04b4580be1a3343a5d3d", // Contagion
+                "!bp_4b76d32feb089ad4499c3a1ce8e1ac27", // AnimateDead
+                "!bp_f2f1efac32ea2884e84ecaf14657298b", // Boneshatter
+                "!bp_f34fb78eaaec141469079af124bcfa0f", // Enervation
+                "!bp_dc6af3b4fd149f841912d8a3ce0983de", // FalseLifeGreater
+                "!bp_d2aeac47450c76347aebbc02e4f463e0", // Fear
+            ],
+        },
+        {
+            "SpellLevel": 5,
+            "m_Spells": [
+                "!bp_a34921035f2a6714e9be5ca76c5e34b5", // VampiricShadowShield
+                "!bp_8878d0c46dfbd564e9d5756349d5e439", // WavesOfFatigue
+                "!bp_1cde0691195feae45bab5b83ea3f221e", // WrackingRay
+            ],
+        },
+        {
+            "SpellLevel": 6,
+            "m_Spells": [
+                "!bp_d42c6d3f29e07b6409d670792d72bc82", // BansheeBlast
+                "!bp_a89dcbbab8f40e44e920cc60636097cf", // CircleOfDeath
+                "!bp_3167d30dd3c622c46b0c0cb242061642", // Eyebite
+                "!bp_a9a52760290591844a96d0109e30e04d", // UndeathToDeath
+                "!bp_76a11b460be25e44ca85904d6806e5a3", // CreateUndeadBase
+            ],
+        },
+        {
+            "SpellLevel": 7,
+            "m_Spells": [
+                "!bp_82a5b848c05e3f342b893dedb1f9b446", // PlagueStorm
+                "!bp_474ed0aa656cc38499cc9a073d113716", // UmbralStrike
+                "!bp_6f1dcf6cfa92d1948a740195707c0dbe", // FingerOfDeath
+                "!bp_3e4d3b9a5bd03734d9b053b9067c2f38", // WavesOfExhaustion
+
+                "!bp_8b02310b46e54de1ae9ba7161831938d", // SymbolOfWeakness
+            ],
+        },
+        {
+            "SpellLevel": 8,
+            "m_Spells": [
+                "!bp_6101d0f0720927e4ca413de7b3c4b7e5", // BestowCurseGreater
+                "!bp_c3d2294a6740bc147870fff652f3ced5", // DeathClutch
+                "!bp_08323922485f7e246acb3d2276515526", // HorridWilting
+                "!bp_8ba9b6e4df4c46a597154e2b8e7e6e4a", // CreateUndeadGreaterBase
+                "!bp_b4afacd337dac4a40a769a567c038ab7", // Soulreaver
+
+                //"!bp_8ba9b6e4df4c46a597154e2b8e7e6e4a", // CreateUndeadGreaterBase
+            ],
+        },
+        {
+            "SpellLevel": 9,
+            "m_Spells": [
+                "!bp_37302f72b06ced1408bf5bb965766d46", // EnergyDrain
+                "!bp_b24583190f36a8442b212e45226c54fc", // WailOfBanshee
+            ],
+        },
+        {
+            "SpellLevel": 10,
+            "m_Spells": [],
+        },
+    ],
+}

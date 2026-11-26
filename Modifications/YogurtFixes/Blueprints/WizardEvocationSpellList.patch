@@ -1,0 +1,24 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "SpellsByLevel": [
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {
+            "m_Spells": [
+                "!bp_8c29e953190cc67429dc9c701b16b7c2", // CausticEruption
+                "!bp_5c8cde7f0dcec4e49bfa2632dfe2ecc0", // KiShout
+                "!bp_b22fd434bdb60fb4ba1068206402c4cf", // PrismaticSpray
+
+                "!bp_c6c516e59ca34f34aefb82a850287b97", // ArchonsTrumpet
+            ],
+        },
+        {},
+        {},
+        {},
+    ],
+}

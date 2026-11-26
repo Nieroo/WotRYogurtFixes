@@ -1,0 +1,45 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "m_Facts": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+                "!bp_9af2ab69df6538f4793b2f9c3cc85603", // RayOfFrost
+                "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
+                "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
+                "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
+                "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
+                "!bp_252363458703f144788af49ef04d0803", // SpecialisationSchoolEnchantmentProgression
+                "!bp_9e4c4799735ae9c45964e9113107ef02", // EnchantmentSchoolBaseFeature
+
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+            ],
+        },
+        {
+            "m_Spells": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+                "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
+                "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
+                "!bp_9af2ab69df6538f4793b2f9c3cc85603", // RayOfFrost
+                "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
+                "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
+
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+            ],
+        },
+        {
+            "m_Abilites": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+                "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
+                "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
+                "!bp_9af2ab69df6538f4793b2f9c3cc85603", // RayOfFrost
+                "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
+                "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
+                "!bp_97a23111df7547fd8f6417f9ba9b9775", // DismissAreaEffect
+
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+            ],
+        },
+        {},
+    ],
+}

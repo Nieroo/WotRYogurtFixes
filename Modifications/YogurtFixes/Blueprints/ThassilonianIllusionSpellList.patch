@@ -1,0 +1,243 @@
+{
+    "SpellsByLevel": [
+        {
+            "SpellLevel": 0,
+            "m_Spells": [
+                "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+                "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
+                "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
+                "!bp_9af2ab69df6538f4793b2f9c3cc85603", // RayOfFrost
+                "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+                "!bp_97a23111df7547fd8f6417f9ba9b9775", // DismissAreaEffect
+            ],
+        },
+        {
+            "SpellLevel": 1,
+            "m_Spells": [
+                "!bp_4783c3709a74a794dbe7c8e7e0b1b038", // BurningHands
+                "!bp_bd81a3931aa285a4f9844585b5d97e51", // CauseFear
+                "!bp_91da41b9793a4624797921f221db653c", // ColorSpray
+                "!bp_8e7cfa5f213a90549aadd18f8f6f4664", // EarPiercingScream
+                "!bp_39a602aa80cc96f4597778b6d4d49c0a", // FlareBurst
+                "!bp_ef768022b0785eb43a18969903c537c4", // MageShield
+                "!bp_4ac47ddb9fa1eaf43a1b6809980cfbd2", // MagicMissile
+                "!bp_433b1faf4d02cc34abb0ade5ceda47c4", // ProtectionFromAlignment
+                "!bp_450af0402422b0b4980d9c2175869612", // RayOfEnfeeblement
+                "!bp_fa3078b9976a5b24caf92e20ee9c0f54", // RayOfSickening
+                "!bp_ab395d2335d3f384e99dddee8562978f", // ShockingGraspCast
+                "!bp_bb7ecad2d3d2c8247a38f44855c99061", // Sleep
+                "!bp_a5ec7892fb1c2f74598b3a82f3fd679f", // StunningBarrier
+                "!bp_2c38da66e5a599347ac95b3294acbe00", // TrueStrike
+                "!bp_f001c73999fb5a543a199f890108d936", // Vanish
+                "!bp_88367310478c10b47903463c5d0152b0", // Hypnotism
+
+                "!bp_1626dbd11c4143b2a5641da8f227b78c", // IncendiaryRunes
+            ],
+        },
+        {
+            "SpellLevel": 2,
+            "m_Spells": [
+                "!bp_46fd02ad56c35224c9c91c88cd457791", // Blindness
+                "!bp_14ec7a4e52e90fa47a4c8d63c69fd5c1", // Blur
+                "!bp_b7731c2b4fa1c9844a092329177be4c3", // Boneshaker
+                "!bp_eaac3d36e0336cb479209a6f65e25e7c", // BurningArc
+                "!bp_0b101dd5618591e478f825f0eef155b4", // CommandUndead
+                "!bp_7a5b5bf845779a941a67251539545762", // FalseLife
+                "!bp_b6010dda6333bcf4093ce20f0063cd41", // FrigidTouchCast
+                "!bp_fd4d9fd7f87575d47aafe2a64a6e2d8d", // HideousLaughter
+                "!bp_89940cde01689fb46946b2f8cd7b66b7", // Invisibility
+                "!bp_3e4ab69ada402d145a5e0ad3ad4b8564", // MirrorImage
+                "!bp_42a65895ba0cb3a42b6019039dd2bff1", // MoltenOrb
+                "!bp_dee3074b2fbfb064b80b973f9b56319e", // PerniciousPoison
+                "!bp_2cadf6c6350e4684baa109d067277a45", // ProtectionFromAlignmentCommunal
+                "!bp_c28de1f98a3f432448e52e5d47c73208", // ProtectionFromArrows
+                "!bp_21ffef7791ce73f468b6fca4d9371e8b", // ResistEnergy
+                "!bp_08cb5f4c3b2695e44971bf5c45205df0", // Scare
+                "!bp_cdb106d53c65bbc4086183d54c3b97c7", // ScorchingRay
+                "!bp_30e5dc243f937fc4b95d2f8f4e1b7ff3", // SeeInvisibility
+                //"!bp_57fcf8016cf04da4a8b33d2add14de7e", // AnimateDeadLesser
+                "!bp_82962a820ebc0e7408b8582fdc3f4c0c", // SenseVitals
+                "!bp_ed22aa8751c049fa915dabfa29712c08", // HauntingMists
+                "!bp_8bc127ed66044685957e54f19d8dbdb7", // MortalTerror
+                "!bp_0da2046b4517427bb9b2e304ea6342bf", // BoneFists
+                "!bp_a2b05555c704458aaadc34be52a63633", // GhoulTouchCast
+            ],
+        },
+        {
+            "SpellLevel": 3,
+            "m_Spells": [
+                "!bp_0a2f7c6aa81bc6548ac7780d8b70bcbc", // BatteringBlast
+                "!bp_7658b74f626c56a49939d9c20580885e", // DeepSlumber
+                "!bp_92681f181b507b34ea87018e8f7a528a", // DispelMagic
+                "!bp_903092f6488f9ce45a80943923576ab3", // Displacement
+                "!bp_2d81362af43aeac4387a3d4fced489c3", // Fireball
+                "!bp_5ab0d42fb68c9e34abae4921822b9d63", // Heroism
+                "!bp_c7104f7526c4c524f91474614054547e", // HoldPerson
+                "!bp_d2cff9243a7ee804cb6d5be47af30c73", // LightningBolt
+                "!bp_96c9d98b6a9a7c249b6c4572e4977157", // ProtectionFromArrowsCommunal
+                "!bp_d2f116cfe05fcdd4a94e80143b67046f", // ProtectionFromEnergy
+                "!bp_97b991256e43bb140b263c326f690ce2", // Rage
+                "!bp_8eead52509987034ea9025d60cc05985", // RayOfExhaustion
+                "!bp_7bb0c402f7f789d4d9fae8ca87b4c7e2", // ResistEnergyCommunal
+                "!bp_1a045f845778dc54db1c2be33a8c3c0a", // SeeInvisibilityCommunal
+                "!bp_8a28a811ca5d20d49a863e832c31cce1", // VampiricTouchCast
+
+                "!bp_57fcf8016cf04da4a8b33d2add14de7e", // AnimateDeadLesser
+                "!bp_ff652882623d43f184eb6abef741e20e", // ExplosiveRunes
+                "!bp_0e1272506f9f4480b7c3e7e1e53b6439", // VengefulComets
+                "!bp_fc58ddcff6ab1394eb6c18e9126bb990", // ForcePunchCast
+            ],
+        },
+        {
+            "SpellLevel": 4,
+            "m_Spells": [
+                "!bp_989ab5c44240907489aba0a8568d0603", // BestowCurse
+                "!bp_48e2744846ed04b4580be1a3343a5d3d", // Contagion
+                "!bp_4baf4109145de4345861fe0f2209d903", // CrushingDespair
+                "!bp_dd2918e4a77c50044acba1ac93494c36", // OverwhelmingGrief
+                "!bp_b48674cef2bff5e478a007cf57d8345b", // RemoveCurse
+                "!bp_4b76d32feb089ad4499c3a1ce8e1ac27", // AnimateDead
+                "!bp_f2f1efac32ea2884e84ecaf14657298b", // Boneshatter
+                "!bp_cf6c901fb7acc904e85c63b342e9c949", // ConfusionSpell
+                "!bp_f72f8f03bf0136c4180cd1d70eb773a5", // ControlledFireball
+                "!bp_5e826bcdfde7f82468776b55315b2403", // DragonsBreath
+                "!bp_f34fb78eaaec141469079af124bcfa0f", // Enervation
+                "!bp_dc6af3b4fd149f841912d8a3ce0983de", // FalseLifeGreater
+                "!bp_d2aeac47450c76347aebbc02e4f463e0", // Fear
+                "!bp_fcb028205a71ee64d98175ff39a0abf9", // IceStorm
+                "!bp_ecaa0def35b38f949bd1976a6c9539e0", // InvisibilityGreater
+                "!bp_6717dbaef00c0eb4897a1c908a75dfe5", // PhantasmalKiller
+                "!bp_76a629d019275b94184a1a8733cac45e", // ProtectionFromEnergyCommunal
+                "!bp_4b8265132f9c8174f87ce7fa6d0fe47b", // RainbowPattern
+                "!bp_f09453607e683784c8fca646eec49162", // Shout
+                "!bp_c66e86905f7606c4eaa5c774f0357b2b", // Stoneskin
+                "!bp_48a555180a109e545a6e367b1bd3f535", // SymbolOfRevelation
+                "!bp_16ce660837fb2544e96c3b7eaad73c63", // VolcanicStorm
+
+                "!bp_c0c2ef5955cb415ca482597f1bfc4eca", // CurseOfMagicNegation
+                "!bp_caac251ca7601324bbe000372a0a1005", // ShadowConjuration
+            ],
+        },
+        {
+            "SpellLevel": 5,
+            "m_Spells": [
+                "!bp_7792da00c85b9e042a0fdfc2b66ec9a8", // BreakEnchantment
+                "!bp_e7c530f8137630f4d9d7ee1aa7b1edc0", // ConeOfCold
+                "!bp_3fce8e988a51a2a4ea366324d6153001", // ConstrictingCoils
+                "!bp_95f7cdcec94e293489a85afdf5af1fd7", // Dismissal
+                "!bp_d7cbd2004ce66a042aeab2e95a3c5c61", // DominatePerson
+                "!bp_444eed6e26f773a40ab6e4d160c67faa", // Feeblemind
+                "!bp_ebade19998e1f8542a1b55bd4da766b3", // FireSnake
+                "!bp_41e8a952da7a5c247b3ec1c2dbb73018", // HoldMonster
+                "!bp_65e8d23aef5e7784dbeb27b1fca40931", // IcyPrison
+                "!bp_eabf94e4edc6e714cabd96aa69f8b207", // MindFog
+                "!bp_12fb4a4c22549c74d949e2916a2f0b6a", // PhantasmalWeb
+                "!bp_237427308e48c3341b3d532b9d3a001f", // ShadowEvocation
+                "!bp_7c5d556b9a5883048bf030e20daebe31", // StoneskinCommunal
+                "!bp_8fb1a1670b6e1f84b89ea846f589b627", // Thoughtsense
+                "!bp_a34921035f2a6714e9be5ca76c5e34b5", // VampiricShadowShield
+                "!bp_8878d0c46dfbd564e9d5756349d5e439", // WavesOfFatigue
+                "!bp_1cde0691195feae45bab5b83ea3f221e", // WrackingRay
+
+                "!bp_265582bc494c4b12b5860b508a2f89a2", // LifeBubble
+            ],
+        },
+        {
+            "SpellLevel": 6,
+            "m_Spells": [
+                "!bp_d316d3d94d20c674db2c24d7de96f6a7", // Serenity
+                "!bp_d42c6d3f29e07b6409d670792d72bc82", // BansheeBlast
+                "!bp_645558d63604747428d55f0dd3a4cb58", // ChainLightning
+                "!bp_a89dcbbab8f40e44e920cc60636097cf", // CircleOfDeath
+                "!bp_7f71a70d822af94458dc1a235507e972", // CloakofDreams
+                "!bp_5ef85d426783a5347b420546f91a677b", // ColdIceStrike
+                "!bp_f0f761b808dc4b149b08eaf44b99f633", // DispelMagicGreater
+                "!bp_6303b404df12b0f4793fa0763b21dd2c", // ElementalAssessor
+                "!bp_3167d30dd3c622c46b0c0cb242061642", // Eyebite
+                "!bp_700cfcbd0cb2975419bcab7dbb8c6210", // HellfireRay
+                "!bp_e15e5e7045fda2244b98c8f010adfe31", // HeroismGreater
+                "!bp_1f2e6019ece86d64baa5effa15e81ecc", // PhantasmalPutrefaction
+                "!bp_093ed1d67a539ad4c939d9d05cfe192c", // Sirocco
+                "!bp_4cf3d0fae3239ec478f51e86f49161cb", // TrueSeeingCast
+                "!bp_a9a52760290591844a96d0109e30e04d", // UndeathToDeath
+                "!bp_76a11b460be25e44ca85904d6806e5a3", // CreateUndeadBase
+
+                "!bp_cb55ae9517a444548d3457f91f829679", // Repulsion
+            ],
+        },
+        {
+            "SpellLevel": 7,
+            "m_Spells": [
+                "!bp_fa08cb49ade3eee42b5fd42bd33cb407", // TrueSeeingCommunal
+                "!bp_82a5b848c05e3f342b893dedb1f9b446", // PlagueStorm
+                "!bp_474ed0aa656cc38499cc9a073d113716", // UmbralStrike
+                "!bp_d361391f645db984bbf58907711a146a", // Banishment
+                "!bp_8c29e953190cc67429dc9c701b16b7c2", // CausticEruption
+                "!bp_f333185ae986b2a45823cce86535a122", // CircleOfClarity
+                "!bp_6f1dcf6cfa92d1948a740195707c0dbe", // FingerOfDeath
+                "!bp_defbbeaef79eda64abc645036228a31b", // HoldPersonMass
+                "!bp_2b044152b3620c841badb090e01ed9de", // Insanity
+                "!bp_98310a099009bbd4dbdf66bcef58b4cd", // InvisibilityMass
+                "!bp_5c8cde7f0dcec4e49bfa2632dfe2ecc0", // KiShout
+                "!bp_261e1788bfc5ac1419eec68b1d485dbc", // PowerWordBlind
+                "!bp_b22fd434bdb60fb4ba1068206402c4cf", // PrismaticSpray
+                "!bp_08255ea4cdd812341af93f9cd113acb9", // ShadowConjurationGreater
+                "!bp_1e2d1489781b10a45a3b70192bba9be3", // WavesOfEctasy
+                "!bp_3e4d3b9a5bd03734d9b053b9067c2f38", // WavesOfExhaustion
+                "!bp_8b02310b46e54de1ae9ba7161831938d", // SymbolOfWeakness
+
+                "!bp_c6c516e59ca34f34aefb82a850287b97", // ArchonsTrumpet
+            ],
+        },
+        {
+            "SpellLevel": 8,
+            "m_Spells": [
+                "!bp_fd0d3840c48cafb44bb29e8eb74df204", // ShoutGreater
+                "!bp_6101d0f0720927e4ca413de7b3c4b7e5", // BestowCurseGreater
+                "!bp_c3d2294a6740bc147870fff652f3ced5", // DeathClutch
+                "!bp_740d943e42b60f64a8de74926ba6ddf7", // EuphoricTranquilityCast
+                "!bp_08323922485f7e246acb3d2276515526", // HorridWilting
+                "!bp_df2a0ba6b6dcecf429cbb80a56fee5cf", // MindBlank
+                "!bp_17696c144a0194c478cbe402b496cb23", // PolarRay
+                "!bp_f958ef62eea5050418fb92dfa944c631", // PowerWordStun
+                "!bp_0e67fa8f011662c43934d486acc50253", // PredictionOfFailure
+                "!bp_42aa71adc7343714fa92e471baa98d42", // ProtectionFromSpells
+                "!bp_4dc60d08c6c4d3c47b413904e4de5ff0", // ScintillatingPattern
+                "!bp_3c4a2d4181482e84d9cd752ef8edc3b6", // ShadowEvocationGreater
+                "!bp_b4afacd337dac4a40a769a567c038ab7", // Soulreaver
+                "!bp_7cfbefe0931257344b2cb7ddc4cdff6f", // Stormbolts
+                "!bp_8ba9b6e4df4c46a597154e2b8e7e6e4a", // CreateUndeadGreaterBase
+                "!bp_e96424f70ff884947b06f41a765b7658", // Sunburst
+
+                //"!bp_cb55ae9517a444548d3457f91f829679", // Repulsion
+            ],
+        },
+        {
+            "SpellLevel": 9,
+            "m_Spells": [
+                "!bp_41cf93453b027b94886901dbfc680cb9", // OverwhelmingPresence
+                "!bp_3c17035ec4717674cae2e841a190e757", // DominateMonster
+                "!bp_37302f72b06ced1408bf5bb965766d46", // EnergyDrain
+                "!bp_1f01a098d737ec6419aedc4e7ad61fdd", // Foresight
+                "!bp_43740dab07286fe4aa00a6ee104ce7c1", // HeroicInvocation
+                "!bp_7f4b66a2b1fdab142904a263c7866d46", // HoldMonsterMass
+                "!bp_1852a9393a23d5741b650a1ea7078abc", // IcyPrisonMass
+                "!bp_87a29febd010993419f2a4a9bee11cfc", // MindBlankCommunal
+                "!bp_2f8a67c483dfa0f439b293e094ca9e3c", // PowerWordKill
+                "!bp_70e12191790f69a439ea0132c75f83aa", // Shades
+                "!bp_b24583190f36a8442b212e45226c54fc", // WailOfBanshee
+                "!bp_870af83be6572594d84d276d7fc583e0", // Weird
+                "!bp_9cebb7c46c8d4c55a0e98da9b103fd37", // SymbolOfVulnerability
+                "!bp_5e36df08c71748f7936bce310181fb71", // MeteorSwarm
+
+                "!bp_5d8f1da2fdc0b9242af9f326f9e507be", // WindsOfVengeance
+            ],
+        },
+        {
+            "SpellLevel": 10,
+            "m_Spells": [],
+        },
+    ],
+}

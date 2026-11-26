@@ -1,0 +1,49 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "SpellsByLevel": [
+        {},
+        {
+            "m_Spells": [
+                "!bp_ef768022b0785eb43a18969903c537c4", // MageShield
+                "!bp_433b1faf4d02cc34abb0ade5ceda47c4", // ProtectionFromAlignment
+                "!bp_a5ec7892fb1c2f74598b3a82f3fd679f", // StunningBarrier
+
+                "!bp_1626dbd11c4143b2a5641da8f227b78c", // IncendiaryRunes
+            ],
+        },
+        {},
+        {
+            "m_Spells": [
+                "!bp_92681f181b507b34ea87018e8f7a528a", // DispelMagic
+                "!bp_96c9d98b6a9a7c249b6c4572e4977157", // ProtectionFromArrowsCommunal
+                "!bp_d2f116cfe05fcdd4a94e80143b67046f", // ProtectionFromEnergy
+                "!bp_7bb0c402f7f789d4d9fae8ca87b4c7e2", // ResistEnergyCommunal
+
+                "!bp_ff652882623d43f184eb6abef741e20e", // ExplosiveRunes
+            ],
+        },
+        {
+            "m_Spells": [
+                "!bp_b48674cef2bff5e478a007cf57d8345b", // RemoveCurse
+                "!bp_76a629d019275b94184a1a8733cac45e", // ProtectionFromEnergyCommunal
+                "!bp_c66e86905f7606c4eaa5c774f0357b2b", // Stoneskin
+
+                "!bp_c0c2ef5955cb415ca482597f1bfc4eca", // CurseOfMagicNegation
+            ],
+        },
+        {
+            "m_Spells": [
+                "!bp_7792da00c85b9e042a0fdfc2b66ec9a8", // BreakEnchantment
+                "!bp_95f7cdcec94e293489a85afdf5af1fd7", // Dismissal
+                "!bp_7c5d556b9a5883048bf030e20daebe31", // StoneskinCommunal
+
+                "!bp_265582bc494c4b12b5860b508a2f89a2", // LifeBubble
+            ],
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+    ],
+}

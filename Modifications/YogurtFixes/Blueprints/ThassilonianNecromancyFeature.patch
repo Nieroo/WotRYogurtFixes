@@ -1,0 +1,50 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "m_Facts": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+                "!bp_9af2ab69df6538f4793b2f9c3cc85603", // RayOfFrost
+                "!bp_16e23c7a8ae53cc42a93066d19766404", // Jolt
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+                "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+                "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
+                "!bp_e9450978cc9feeb468fb8ee3a90607e3", // SpecialisationSchoolNecromancyProgression
+                "!bp_927707dce06627d4f880c90b5575125f", // NecromancySchoolBaseFeature
+
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+            ],
+        },
+        {
+            "m_Spells": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+                "!bp_16e23c7a8ae53cc42a93066d19766404", // Jolt
+                "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
+                "!bp_9af2ab69df6538f4793b2f9c3cc85603", // RayOfFrost
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+                "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
+
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+            ],
+        },
+        {
+            "m_Abilites": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+                "!bp_16e23c7a8ae53cc42a93066d19766404", // Jolt
+                "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
+                "!bp_9af2ab69df6538f4793b2f9c3cc85603", // RayOfFrost
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+
+                //"!bp_cbecdd04ad2523c438123ef596fd2b9f", // TouchOfFatigueEffect
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+                "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
+                "!bp_97a23111df7547fd8f6417f9ba9b9775", // DismissAreaEffect
+            ],
+        },
+        {},
+    ],
+}

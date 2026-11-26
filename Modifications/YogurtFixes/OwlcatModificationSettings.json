@@ -1312,6 +1312,74 @@
         {
             "Guid": "febd99a95065bdf4297acad705f7a797",
             "Filename": "VolleyFireEffectBuff.patch"
+        },
+        {
+            "Guid": "15c681d5a76c1a742abe2760376ddf6d",
+            "Filename": "ThassilonianAbjurationFeature.patch"
+        },
+        {
+            "Guid": "c7a55e475659a944f9229d89c4dc3a8e",
+            "Filename": "WizardAbjurationSpellList.patch"
+        },
+        {
+            "Guid": "280dd5167ccafe449a33fbe93c7a875e",
+            "Filename": "ThassilonianAbjurationSpellList.patch"
+        },
+        {
+            "Guid": "1a258cd8e93461a4ab011c73a2c43dac",
+            "Filename": "ThassilonianConjurationFeature.patch"
+        },
+        {
+            "Guid": "69a6eba12bc77ea4191f573d63c9df12",
+            "Filename": "WizardConjurationSpellList.patch"
+        },
+        {
+            "Guid": "5b154578f228c174bac546b6c29886ce",
+            "Filename": "ThassilonianConjurationSpellList.patch"
+        },
+        {
+            "Guid": "e1ebc61a71c55054991863a5f6f6d2c2",
+            "Filename": "ThassilonianEnchantmentFeature.patch"
+        },
+        {
+            "Guid": "ac551db78c1baa34eb8edca088be13cb",
+            "Filename": "ThassilonianEnchantmentSpellList.patch"
+        },
+        {
+            "Guid": "79e731172a2dc1f4d92ba229c6216502",
+            "Filename": "WizardEvocationSpellList.patch"
+        },
+        {
+            "Guid": "17c0bfe5b7c8ac3449da655cdcaed4e7",
+            "Filename": "ThassilonianEvocationSpellList.patch"
+        },
+        {
+            "Guid": "c311aed33deb7a346ab715baef4a0572",
+            "Filename": "ThassilonianIllusionSpellList.patch"
+        },
+        {
+            "Guid": "fb343ede45ca1a84496c91c190a847ff",
+            "Filename": "ThassilonianNecromancyFeature.patch"
+        },
+        {
+            "Guid": "5fe3acb6f439db9438db7d396f02c75c",
+            "Filename": "WizardNecromancySpellList.patch"
+        },
+        {
+            "Guid": "5c08349132cb6b04181797f58ccf38ae",
+            "Filename": "ThassilonianNecromancySpellList.patch"
+        },
+        {
+            "Guid": "dd163630abbdace4e85284c55d269867",
+            "Filename": "ThassilonianTransmutationFeature.patch"
+        },
+        {
+            "Guid": "becbcfeca9624b6469319209c2a6b7f1",
+            "Filename": "WizardTransmutationSpellList.patch"
+        },
+        {
+            "Guid": "f3a8f76b1d030a64084355ba3eea369a",
+            "Filename": "ThassilonianTransmutationSpellList.patch"
         }
     ]
 }

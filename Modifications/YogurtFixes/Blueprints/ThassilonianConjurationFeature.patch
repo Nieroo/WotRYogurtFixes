@@ -1,0 +1,46 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "m_Facts": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+                "!bp_16e23c7a8ae53cc42a93066d19766404", // Jolt
+                "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
+                "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+                "!bp_567801abe990faf4080df566fadcd038", // SpecialisationSchoolConjurationProgression
+                "!bp_cee0f7edbd874a042952ee150f878b84", // SpecializationSchoolConjuration
+
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+            ],
+        },
+        {
+            "m_Spells": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+                "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
+                "!bp_16e23c7a8ae53cc42a93066d19766404", // Jolt
+                "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+            ],
+        },
+        {
+            "m_Abilites": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+                "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
+                "!bp_16e23c7a8ae53cc42a93066d19766404", // Jolt
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+                "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+                "!bp_cbecdd04ad2523c438123ef596fd2b9f", // TouchOfFatigueEffect
+                "!bp_97a23111df7547fd8f6417f9ba9b9775", // DismissAreaEffect
+
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+            ],
+        },
+        {},
+    ],
+}

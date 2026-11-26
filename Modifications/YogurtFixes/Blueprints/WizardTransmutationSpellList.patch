@@ -1,0 +1,27 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "SpellsByLevel": [
+        {},
+        {},
+        {},
+        {
+            "m_Spells": [
+                "!bp_61a7ed778dd93f344a5dacdbad324cc9", // BeastShapeI
+                "!bp_045351f1421ee3f449a9143db701d192", // Blink
+                "!bp_486eaff58293f6441a5c2759c4872f98", // Haste
+                "!bp_f492622e473d34747806bdb39356eb89", // Slow
+                "!bp_0f92caa35619f234298d95a4b6dda90d", // MagicWeaponGreater
+
+                "!bp_448aa456600749d18c14ad979cc88a67", // ExcruciatingDeformation
+                "!bp_64923c9c808143c7ab7adba5a27f0ca4", // KeenEdge
+            ],
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+    ],
+}

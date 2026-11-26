@@ -1,0 +1,30 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "SpellsByLevel": [
+        {
+            "m_Spells": [
+                "!bp_0c852a2405dd9f14a8bbcfaf245ff823", // AcidSplash
+
+                "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
+            ],
+        },
+        {},
+        {},
+        {
+            "m_Spells": [
+                "!bp_46097f610219ac445b4d6403fc596b9f", // SpikedPit
+                "!bp_68a9e6d7256f1354289a39003a46d826", // StinkingCloud
+                "!bp_5d61dde0020bbf54ba1521f7ca0229dc", // SummonMonsterIIIBase
+
+                "!bp_b0ffc8eaff404f2e9e0a3ee9f4c35486", // SilverDarts
+            ],
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+    ],
+}
