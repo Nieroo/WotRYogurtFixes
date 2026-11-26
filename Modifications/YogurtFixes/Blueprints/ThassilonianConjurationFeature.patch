@@ -9,7 +9,10 @@
                 "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
                 "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
                 "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
-                "!bp_567801abe990faf4080df566fadcd038", // SpecialisationSchoolConjurationProgression
+
+                //"!bp_567801abe990faf4080df566fadcd038", // SpecialisationSchoolConjurationProgression
+                "!bp_48f56e2be690435a97e205e0204b4689", // custom (ThassilonianSchoolConjurationProgression.jbp)
+
                 "!bp_cee0f7edbd874a042952ee150f878b84", // SpecializationSchoolConjuration
 
                 "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition

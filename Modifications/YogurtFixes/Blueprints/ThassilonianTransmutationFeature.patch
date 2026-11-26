@@ -11,7 +11,10 @@
                 "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
                 "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
                 "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
-                "!bp_b6a604dab356ac34788abf4ad79449ec", // SpecialisationSchoolTransmutationProgression
+
+                //"!bp_b6a604dab356ac34788abf4ad79449ec", // SpecialisationSchoolTransmutationProgression
+                "!bp_78b87a36e82449c98b180bdd89a02b62", // custom (ThassilonianSchoolTransmutationProgression.jbp)
+
                 "!bp_c459c8200e666ef4c990873d3e501b91", // SpecializationSchoolTransmutation
 
                 "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition

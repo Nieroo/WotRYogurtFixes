@@ -1,0 +1,24 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "m_Facts": [
+                "!bp_9af2ab69df6538f4793b2f9c3cc85603", // RayOfFrost
+                "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
+                "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+                "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+                "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
+
+                //"!bp_24d5402c0c1de48468b563f6174c6256", // SpecialisationSchoolIllusionProgression
+                "!bp_15b06269ff254d6a880dccc78699c751", // custom (ThassilonianSchoolIllusionProgression.jbp)
+
+                "!bp_9be5e050244352d43a1cb50aad8d548f", // IllusionSchoolBaseFeature
+            ],
+        },
+        {},
+        {},
+        {},
+    ],
+}

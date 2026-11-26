@@ -10,7 +10,10 @@
                 "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
                 "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
                 "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
-                "!bp_e9450978cc9feeb468fb8ee3a90607e3", // SpecialisationSchoolNecromancyProgression
+
+                //"!bp_e9450978cc9feeb468fb8ee3a90607e3", // SpecialisationSchoolNecromancyProgression
+                "!bp_26a2f5cb75d8417d8d48b88a562cad3c", // custom (ThassilonianSchoolNecromancyProgression.jbp)
+
                 "!bp_927707dce06627d4f880c90b5575125f", // NecromancySchoolBaseFeature
 
                 "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition

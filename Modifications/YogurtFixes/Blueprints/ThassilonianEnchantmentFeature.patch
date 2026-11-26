@@ -9,7 +9,10 @@
                 "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
                 "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
                 "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
-                "!bp_252363458703f144788af49ef04d0803", // SpecialisationSchoolEnchantmentProgression
+
+                //"!bp_252363458703f144788af49ef04d0803", // SpecialisationSchoolEnchantmentProgression
+                "!bp_be78045002644b69bb4b577ae60489a5", // custom (ThassilonianSchoolEnchantmentProgression.jbp)
+
                 "!bp_9e4c4799735ae9c45964e9113107ef02", // EnchantmentSchoolBaseFeature
 
                 "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition

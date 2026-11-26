@@ -1,0 +1,74 @@
+{
+    "AssetId": "41afc6001fb34308b8aacf7b61daf14f",
+    "Data": {
+        "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+        "Components": [],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": null,
+        "HideInUI": true,
+        "HideInCharacterSheetAndLevelUp": true,
+        "HideNotAvailibleInUI": true,
+        "Groups": [],
+        "Ranks": 1,
+        "ReapplyOnLevelUp": false,
+        "IsClassFeature": true,
+        "IsPrerequisiteFor": null,
+        "m_Classes": [
+            {
+                "m_Class": "!bp_ba34257984f4c41408ce1dc2004e342e", // WizardClass
+                "AdditionalLevel": 0,
+            },
+        ],
+        "m_Archetypes": [],
+        "ForAllOtherClasses": false,
+        "m_AlternateProgressionClasses": [],
+        "AlternateProgressionType": "Div2",
+        "LevelEntries": [
+            {
+                "Level": 1,
+                "m_Features": [
+                    "!bp_c46512b796216b64899f26301241e4e6", // SpecializationSchoolEvocation
+                ],
+            },
+            {
+                "Level": 8,
+                "m_Features": [
+                    "!bp_de877714f4d224949b403205e8582de4", // ElementalWallFeature
+                ],
+            },
+            {
+                "Level": 20,
+                "m_Features": [
+                    "!bp_f50f2336ee59d004c8a37f9c8665bb98", // IntenseSpellsPenetration
+                ],
+            },
+        ],
+        "UIGroups": [],
+        "m_UIDeterminatorsGroup": [],
+        "m_ExclusiveProgression": null,
+        "GiveFeaturesForPreviousLevels": false,
+        "m_FeaturesRankIncrease": null,
+    },
+}

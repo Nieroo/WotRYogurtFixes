@@ -1,0 +1,24 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "m_Facts": [
+                "!bp_9af2ab69df6538f4793b2f9c3cc85603", // RayOfFrost
+                "!bp_16e23c7a8ae53cc42a93066d19766404", // Jolt
+                "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
+                "!bp_5bf3315ce1ed4d94e8805706820ef64d", // TouchOfFatigueCast
+                "!bp_95f206566c5261c42aa5b3e7e0d1e36c", // MageLight
+                "!bp_652739779aa05504a9ad5db1db6d02ae", // DisruptUndead
+                "!bp_f0f8e5b9808f44e4eadd22b138131d52", // Flare
+
+                //"!bp_f8019b7724d72a241a97157bc37f1c3b", // SpecialisationSchoolEvocationProgression
+                "!bp_41afc6001fb34308b8aacf7b61daf14f", // custom (ThassilonianSchoolEvocationProgression.jbp)
+
+                "!bp_c46512b796216b64899f26301241e4e6", // SpecializationSchoolEvocation
+            ],
+        },
+        {},
+        {},
+        {},
+    ],
+}

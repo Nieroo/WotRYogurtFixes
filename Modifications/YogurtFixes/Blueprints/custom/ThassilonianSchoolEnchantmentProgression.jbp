@@ -1,0 +1,68 @@
+{
+    "AssetId": "be78045002644b69bb4b577ae60489a5",
+    "Data": {
+        "$type": "bec71e89a676a99458c9e2d0804f2a0c, BlueprintProgression",
+        "Components": [],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": null,
+        "HideInUI": true,
+        "HideInCharacterSheetAndLevelUp": true,
+        "HideNotAvailibleInUI": true,
+        "Groups": [],
+        "Ranks": 1,
+        "ReapplyOnLevelUp": false,
+        "IsClassFeature": true,
+        "IsPrerequisiteFor": null,
+        "m_Classes": [
+            {
+                "m_Class": "!bp_ba34257984f4c41408ce1dc2004e342e", // WizardClass
+                "AdditionalLevel": 0,
+            },
+        ],
+        "m_Archetypes": [],
+        "ForAllOtherClasses": false,
+        "m_AlternateProgressionClasses": [],
+        "AlternateProgressionType": "Div2",
+        "LevelEntries": [
+            {
+                "Level": 1,
+                "m_Features": [
+                    "!bp_9e4c4799735ae9c45964e9113107ef02", // EnchantmentSchoolBaseFeature
+                ],
+            },
+            {
+                "Level": 8,
+                "m_Features": [
+                    "!bp_972ed7d4b0e497345a69b06afc052f67", // EnchantmentSchoolGreaterFeature
+                ],
+            },
+        ],
+        "UIGroups": [],
+        "m_UIDeterminatorsGroup": [],
+        "m_ExclusiveProgression": null,
+        "GiveFeaturesForPreviousLevels": false,
+        "m_FeaturesRankIncrease": null,
+    },
+}

@@ -7,7 +7,10 @@
                 "!bp_16e23c7a8ae53cc42a93066d19766404", // Jolt
                 "!bp_55f14bc84d7c85446b07a1b5dd6b2b4c", // Daze
                 "!bp_7bc8e27cba24f0e43ae64ed201ad5785", // Resistance
-                "!bp_c451fde0aec46454091b70384ea91989", // SpecialisationSchoolAbjurationProgression
+
+                //"!bp_c451fde0aec46454091b70384ea91989", // SpecialisationSchoolAbjurationProgression
+                "!bp_a6003beb33dc4d818e00efbc13a1509a", // custom (ThassilonianSchoolAbjurationProgression.jbp)
+
                 "!bp_30f20e6f850519b48aa59e8c0ff66ae9", // SpecializationSchoolAbjuration
 
                 "!bp_564c2ac83c7844beb1921e69ab159ac6", // Ignition
