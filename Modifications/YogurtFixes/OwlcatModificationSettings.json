@@ -1380,34 +1380,6 @@
         {
             "Guid": "f3a8f76b1d030a64084355ba3eea369a",
             "Filename": "ThassilonianTransmutationSpellList.patch"
-        },
-        {
-            "Guid": "c451fde0aec46454091b70384ea91989",
-            "Filename": "SpecialisationSchoolAbjurationProgression.patch"
-        },
-        {
-            "Guid": "567801abe990faf4080df566fadcd038",
-            "Filename": "SpecialisationSchoolConjurationProgression.patch"
-        },
-        {
-            "Guid": "252363458703f144788af49ef04d0803",
-            "Filename": "SpecialisationSchoolEnchantmentProgression.patch"
-        },
-        {
-            "Guid": "f8019b7724d72a241a97157bc37f1c3b",
-            "Filename": "SpecialisationSchoolEvocationProgression.patch"
-        },
-        {
-            "Guid": "24d5402c0c1de48468b563f6174c6256",
-            "Filename": "SpecialisationSchoolIllusionProgression.patch"
-        },
-        {
-            "Guid": "e9450978cc9feeb468fb8ee3a90607e3",
-            "Filename": "SpecialisationSchoolNecromancyProgression.patch"
-        },
-        {
-            "Guid": "b6a604dab356ac34788abf4ad79449ec",
-            "Filename": "SpecialisationSchoolTransmutationProgression.patch"
         }
     ]
 }
