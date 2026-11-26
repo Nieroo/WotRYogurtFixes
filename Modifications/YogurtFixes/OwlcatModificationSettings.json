@@ -1388,6 +1388,10 @@
         {
             "Guid": "aa271e69902044b47a8e62c4e58a9dcb",
             "Filename": "ThassilonianIllusionFeature.patch"
+        },
+        {
+            "Guid": "57c894665b7895c499b3dce058c284b3",
+            "Filename": "InquisitorSpellList.patch"
         }
     ]
 }

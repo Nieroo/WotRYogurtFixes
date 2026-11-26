@@ -1,0 +1,41 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "SpellsByLevel": [
+        {},
+        {},
+        {},
+        {},
+        {
+            "m_Spells": [
+                "!bp_e7240516af4241b42b2cd819929ea9da", // NeutralizePoison
+                "!bp_c42ac3feb96d1e54e9bc77c84082f05f", // ChaosHammer
+                "!bp_be5452c422a6ea744bf1037b0a443bb1", // CrusadersEdgeCast
+                "!bp_41c9016596fe1de4faf67425ed691203", // CureCriticalWoundsCast
+                "!bp_e9cc9378fd6841f48ad59384e79e9953", // DeathWardCast
+                "!bp_ef16771cb05d1344989519e87f25b3c5", // DivinePower
+                "!bp_d2aeac47450c76347aebbc02e4f463e0", // Fear
+                "!bp_cc0aeb74b35cb7147bff6c53538bbc76", // ForcedRepentance
+                "!bp_0087fc2d64b6095478bc7b8d7d512caf", // FreedomOfMovementCast
+                "!bp_ad5ed5ea4ec52334a94e975a64dad336", // HolySmite
+                "!bp_651110ed4f117a948b41c05c5c7624c0", // InflictCriticalWoundsCast
+                "!bp_ecaa0def35b38f949bd1976a6c9539e0", // InvisibilityGreater
+                "!bp_1ec8f035d8329134d96cdc7b90fdc2e1", // OrdersWrath
+                "!bp_76a629d019275b94184a1a8733cac45e", // ProtectionFromEnergyCommunal
+                "!bp_f2115ac1148256b4ba20788f7e966830", // Restoration
+                "!bp_c66e86905f7606c4eaa5c774f0357b2b", // Stoneskin
+                "!bp_a02cf51787df937489ef5d4cf5970335", // UnholyBlight
+                "!bp_1bc83efec9f8c4b42a46162d72cbf494", // BurstOfGlory
+                "!bp_95f7cdcec94e293489a85afdf5af1fd7", // Dismissal
+                "!bp_41e8a952da7a5c247b3ec1c2dbb73018", // HoldMonster
+
+                "!bp_c0c2ef5955cb415ca482597f1bfc4eca", // CurseOfMagicNegation
+            ],
+        },
+        {},
+        {},
+        {},
+        {},
+        {},
+        {},
+    ],
+}
