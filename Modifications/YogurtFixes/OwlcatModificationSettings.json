@@ -1392,6 +1392,10 @@
         {
             "Guid": "57c894665b7895c499b3dce058c284b3",
             "Filename": "InquisitorSpellList.patch"
+        },
+        {
+            "Guid": "e85647881f1d4f849799ae8b108802fa",
+            "Filename": "TowerShieldTrainingBuff.patch"
         }
     ]
 }

@@ -1,0 +1,20 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Bonus": 0,
+            "BonesPerRank": 1,
+        },
+        {
+            "Bonus": 0,
+            "BonesPerRank": 1,
+        },
+        {
+            "Bonus": 0,
+            "BonesPerRank": 2,
+        },
+        {},
+        {},
+        {},
+    ],
+}
