@@ -1396,6 +1396,18 @@
         {
             "Guid": "e85647881f1d4f849799ae8b108802fa",
             "Filename": "TowerShieldTrainingBuff.patch"
+        },
+        {
+            "Guid": "18a94772f0634cb1bd73ca41b86b8354",
+            "Filename": "ArmorFocusLightMythicSubBuff.patch"
+        },
+        {
+            "Guid": "61c15df2702845589fec0b77fda158fe",
+            "Filename": "ArmorFocusMediumMythicFeatureVar1SubBuff.patch"
+        },
+        {
+            "Guid": "5d4e71c6f33b4f7fa41f7db0af3ac320",
+            "Filename": "ArmorFocusHeavyMythicFeatureVar2SubBuff.patch"
         }
     ]
 }
