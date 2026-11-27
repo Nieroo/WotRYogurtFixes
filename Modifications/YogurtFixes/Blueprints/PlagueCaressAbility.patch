@@ -1,0 +1,18 @@
+{
+    "_#ArrayMergeSettings": "Merge",
+    "Components": [
+        {
+            "Actions": {
+                "Actions": [
+                    {
+                        //"m_Buff": "!bp_4e42460798665fd4cb9173ffa7ada323", // Sickened
+                        "m_Buff": "!bp_c0780b56911d4c7ca878318d9bbbc842", // custom (PlagueCaressSickenedBuff.jbp)
+                    },
+                ],
+            },
+        },
+        {},
+        {},
+        {},
+    ],
+}

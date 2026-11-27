@@ -1408,6 +1408,18 @@
         {
             "Guid": "5d4e71c6f33b4f7fa41f7db0af3ac320",
             "Filename": "ArmorFocusHeavyMythicFeatureVar2SubBuff.patch"
+        },
+        {
+            "Guid": "1af015a346ef453d8f0151343c27efd9",
+            "Filename": "PlagueHexAbility.patch"
+        },
+        {
+            "Guid": "e5d4bc0e13e64231939e47d83741bbf1",
+            "Filename": "PlagueCaressAbility.patch"
+        },
+        {
+            "Guid": "b605810fa41547afaeda4024efac79ad",
+            "Filename": "ThousandDiseasesAreaEffect.patch"
         }
     ]
 }

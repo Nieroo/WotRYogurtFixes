@@ -1,0 +1,58 @@
+{
+    "AssetId": "c0780b56911d4c7ca878318d9bbbc842",
+    "Data": {
+        "$type": "618a7e0d54149064ab3ffa5d9057362c, BlueprintBuff",
+        "Components": [
+            {
+                "$type": "4c36aacebf153574eb39757fc3965edb, AddCondition",
+                "name": "$AddCondition$f1ef7f24-989b-44f6-a814-eb76fd3d6871",
+                "Condition": "Sickened",
+            },
+            {
+                "$type": "91216784d99a12e428bf782c8a8c7f5c, SpellDescriptorComponent",
+                "name": "$SpellDescriptorComponent$36f4e15b-7b4e-4ddf-a300-35dc23355d1f",
+                "Descriptor": {
+                    "m_IntValue": 147456, // 131072 (Sickened) + 16384 (Disease)
+                },
+            },
+        ],
+        "Comment": "",
+        "m_AllowNonContextActions": false,
+        "m_DisplayName": {
+            "m_Key": "5ee2fe63-229b-4072-9297-f5191e88d59d",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Description": {
+            "m_Key": "01d4f6ed-f96d-49cb-9180-af613f474c96",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_DescriptionShort": {
+            "m_Key": "",
+            "m_OwnerString": "",
+            "m_OwnerPropertyPath": "",
+            "m_JsonPath": "",
+            "Shared": null,
+        },
+        "m_Icon": {
+            "guid": "7305d2a5d56b0484eb012848c3fb3b61",
+            "fileid": 21300000,
+        },
+        "IsClassFeature": false,
+        "m_Flags": 0,
+        "Stacking": "Replace",
+        "Ranks": 0,
+        "TickEachSecond": false,
+        "Frequency": "Rounds",
+        "FxOnStart": {
+            "AssetId": "d3c03d0642effaf4c8f4deb356926870",
+        },
+        "FxOnRemove": null,
+        "ResourceAssetIds": [],
+    },
+}
