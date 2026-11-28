@@ -1,0 +1,31 @@
+{
+    "Components": [
+        {
+            "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+            "m_Flags": 0,
+            "name": "$PrerequisiteFeature$dc256326-6a55-42ae-bfc1-30e61c5d5230",
+            "Group": "Any",
+            "CheckInProgression": false,
+            "HideInUI": false,
+            "IsFeatureSelectionWhiteList": false,
+            "m_Feature": "!bp_4223fe18c75d4d14787af196a04e14e7" // ShamanHexSelection
+        },
+        {
+            "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+            "m_Flags": 0,
+            "name": "$PrerequisiteFeature$a59ac0bb-ce7a-4102-9bb5-22ec732d66c4",
+            "Group": "Any",
+            "CheckInProgression": false,
+            "HideInUI": false,
+            "IsFeatureSelectionWhiteList": false,
+            "m_Feature": "!bp_4e760c5034fafb2438993d8a192150b9", // WinterWitchShamanHexSelection
+        },
+        {
+            "$type": "5dab8bb92b6ed244196ee61121023e5c, DlcCondition",
+            "m_Flags": 0,
+            "name": "$DlcCondition$72494d74-eadc-435e-a009-4e2d3e1415f4",
+            "m_DlcReward": "!bp_1c893fd3059d4b09bd37d089aff7866e", // Dlc5RewardCampaign
+            "m_HideInstead": false,
+        },
+    ],
+}

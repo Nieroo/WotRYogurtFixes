@@ -1420,6 +1420,14 @@
         {
             "Guid": "b605810fa41547afaeda4024efac79ad",
             "Filename": "ThousandDiseasesAreaEffect.patch"
+        },
+        {
+            "Guid": "d0b4c8245d504b8c9c6d3fccc1f8c5b6",
+            "Filename": "ExtraShamanHexSelection.patch"
+        },
+        {
+            "Guid": "b6054088b4ab4be286724127cbf48b35",
+            "Filename": "ExtraWitchHexSelection.patch"
         }
     ]
 }

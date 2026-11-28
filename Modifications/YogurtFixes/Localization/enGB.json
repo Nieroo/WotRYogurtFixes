@@ -411,7 +411,15 @@
         },
         {
             "Key": "d192de5a-ef86-4e90-9dc9-c498ddb23168",
-            "Value": "At 20th level, any enemy afflicted with a disease is affected by her plague of Abaddon hex every time it comes within 30 feet of the prophet of pestilence. Enemies not afflicted with any disease must succeed on a {g|Encyclopedia:Saving_Throw}Fortitude saving throw{/g} every time they come within 30 feet of the prophet of pestilence; otherwise, they also become afflicted with plague of Abaddon. Furthermore, if an enemy becomes afflicted with any other disease by the start of a new round, it is still subjected to the hex effect. In any case, a single enemy can be affected by plague of Abaddon only once per day.\nThis replaces the true version of wandering spirit."
+            "Value": "At 20th level, any enemy afflicted with a disease is affected by plague of Abaddon hex every time it comes within 30 feet of the prophet of pestilence. Enemies not afflicted with any disease must succeed on a {g|Encyclopedia:Saving_Throw}Fortitude saving throw{/g} every time they come within 30 feet of the prophet of pestilence; otherwise, they also become afflicted with plague of Abaddon. Furthermore, if an enemy becomes afflicted with any other disease by the start of a new round, it is still subjected to the hex effect. In any case, a single enemy can be affected by plague of Abaddon only once per day.\nThis replaces the true version of wandering spirit."
+        },
+        {
+            "Key": "d5855a1c-9762-45e4-8220-566f8f30c8a4",
+            "Value": "You have learned the secrets of a new hex. You gain one additional shaman hex. You must meet the prerequisites for this hex."
+        },
+        {
+            "Key": "1754ae70-4062-4433-be15-ee5411c8b90f",
+            "Value": "You have learned the secrets of a new hex. You gain one additional witch hex. You must meet the prerequisites for this hex."
         },
     ],
 }

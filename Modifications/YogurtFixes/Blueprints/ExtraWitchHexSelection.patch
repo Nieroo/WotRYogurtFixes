@@ -1,0 +1,31 @@
+{
+    "Components": [
+        {
+            "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+            "m_Flags": 0,
+            "name": "$PrerequisiteFeature$dc256326-6a55-42ae-bfc1-30e61c5d5230",
+            "Group": "Any",
+            "CheckInProgression": false,
+            "HideInUI": false,
+            "IsFeatureSelectionWhiteList": false,
+            "m_Feature": "!bp_9846043cf51251a4897728ed6e24e76f", // WitchHexSelection
+        },
+        {
+            "$type": "17030ee91bfc7f24e93d3b6fa583dd09, PrerequisiteFeature",
+            "m_Flags": 0,
+            "name": "$PrerequisiteFeature$a59ac0bb-ce7a-4102-9bb5-22ec732d66c4",
+            "Group": "Any",
+            "CheckInProgression": false,
+            "HideInUI": false,
+            "IsFeatureSelectionWhiteList": false,
+            "m_Feature": "!bp_b921af3627142bd4d9cf3aefb5e2610a", // WinterWitchWitchHexSelection
+        },
+        {
+            "$type": "5dab8bb92b6ed244196ee61121023e5c, DlcCondition",
+            "m_Flags": 0,
+            "name": "$DlcCondition$1e76f5f9-145c-4fc1-ad19-2c51cb3b6055",
+            "m_DlcReward": "!bp_1c893fd3059d4b09bd37d089aff7866e", // Dlc5RewardCampaign
+            "m_HideInstead": false,
+        },
+    ],
+}
